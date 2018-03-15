@@ -2,12 +2,12 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
++ A computer and web browser with WebGL support (most recent laptop / desktop computers are fine). 
++ Optionally, a 3D printer and filament to print your completed project.
++ Optionally, a split ring for making keyring. 
 
 ### Software
 
-+ List software here, or delete section.
++ BlocksCAD - [blockscad3d.com/](https://www.blockscad3d.com/){:target="_blank"} - runs in a web browser
 
-### Additional Resources
 
-+ List additional resources, or delete section.
