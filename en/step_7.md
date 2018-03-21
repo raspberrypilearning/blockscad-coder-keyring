@@ -4,12 +4,21 @@ Now create a 3D text keyring or badge with your name or another word.
 
 Remember to make sure all the letters join up. 
 
+Here's an example:
+	![screenshot](images/coder-grace.png)
 
 ## Challenge: Create a keyring with vertical letters
 
 Can you create a keyring where all the letters line up vertically instead of horizontally. 
 
-hint - y axis
+Here's an example:
+	![screenshot](images/coder-vertical.png)
+	
+--- hints ---
+--- hint ---
+This time you will need to tranlate letters in the Y direction. 
+--- /hint ---
+--- /hints ---
 
 ## Challenge: Add a loop
 
