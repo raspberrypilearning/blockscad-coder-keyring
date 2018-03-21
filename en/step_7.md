@@ -24,3 +24,11 @@ This time you will need to tranlate letters in the Y direction.
 
 If there's nowhere to add a keyring at the beginning of your word then you could try adding a smaller letter "o" as a loop. 
 
+Here's an example:
+	![screenshot](images/coder-loop.png)
+
+--- hints ---
+--- hint ---
+This time you will need to tranlate the "o" in the X and Y directions. 
+--- /hint ---
+--- /hints ---

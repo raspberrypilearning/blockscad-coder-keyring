@@ -8,7 +8,7 @@ The resulting keyring doesn't use a lot of filament and is small and quick to 3D
 
 You can put a split-ring through the gap between the C and the O to make a keyring. 
 
-	![screenshot](images/coder-keyring.png) 
+![screenshot](images/coder-keyring.png) 
 
 ### What you will learn
 
