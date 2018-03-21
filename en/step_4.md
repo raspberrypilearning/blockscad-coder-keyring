@@ -45,10 +45,10 @@ Next you're going to join the letters together.
 --- hints ---
 --- hint ---
 Think about what you changed to make the "O" move along. The "D" starts off in the same place as the C and you need to move it after the "O". 
---- hint ---
+--- /hint ---
 --- hint ---
 	![screenshot](images/coder-d-hint.png) 
---- hint ---
+--- /hint ---
 --- /hints ---
 
 + Now add an "E" and an "R" to finish the word "CODER". 
@@ -64,7 +64,7 @@ You can duplicate the code for creating a "D" and then change the letter and the
 --- /hint ---
 --- hint ---
 	![screenshot](images/coder-hint-er.png) 
---- hint ---
+--- /hint ---
 --- /hints ---
 
 + Look closely, are the E and R joined together?

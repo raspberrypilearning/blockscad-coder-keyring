@@ -11,11 +11,11 @@ Next you'll add some interest to your badge by alternating the height of the let
 --- hints ---
 --- hint ---
 Try changing the `thickness` value for the text. 
---- hint ---
+--- /hint ---
 --- hint ---
 Change the thickness value for the "C", "D" and "R" to 3mm so they are taller. 
 	![screenshot](images/coder-thickness.png) 
---- hint ---
+--- /hint ---
 --- /hints ---
 	
 	
