@@ -1,6 +1,8 @@
 ## Joining letters together
 
-Next you're going to join the letters together. 
+Next you're going to join the letters together so that the keyring looks like this:
+
+![screenshot](images/coder-letters-joined.png) 
 
 + Change your code so that it only creates the letter "C"
 
