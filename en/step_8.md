@@ -12,6 +12,6 @@ BlocksCAD 3D can export an `.STL` file for 3D printing.
 	
 + Carefully remove the 3D print from the print bed. 
 	
-		![screenshot](images/coder-printed.png) 
+	![screenshot](images/coder-printed.png) 
 		
 + You may need to tidy up the print by removing any small strands of filament. 
