@@ -10,6 +10,8 @@ You can put a split-ring through the gap between the C and the O to make a keyri
 
 ![screenshot](images/coder-keyring.png) 
 
+The keyring will be roughly 14mm by 50mm. 
+
 ### What you will learn
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:

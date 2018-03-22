@@ -69,4 +69,4 @@ You can duplicate the code for creating a "D" and then change the letter and the
 --- /hint ---
 --- /hints ---
 
-+ Look closely, are the E and R joined together?
++ Look closely, are the E and R joined together? If not, you will need to adjust your code. 

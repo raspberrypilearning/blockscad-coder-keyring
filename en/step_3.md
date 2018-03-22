@@ -20,7 +20,7 @@ Let's start with creating some 3D letters using the 3D text tool.
 
 	![screenshot](images/coder-render.png) 
 	
-+ Let's make the letters bigger. Change the size to 20 - that means 20mm or 2cm. 
++ Let's make the letters bigger. Change the size to 20 - that means font size 20. 
 	
 	![screenshot](images/coder-bigger.png) 
 	
