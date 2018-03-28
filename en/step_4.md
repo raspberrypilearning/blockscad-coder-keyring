@@ -24,7 +24,7 @@ Next you're going to join the letters together so that the keyring looks like th
 	
 + You need to move the "0" along so that it comes after the "C". 
 	
-[[[generic-blockscad-axes]]]
+	[[[generic-blockscad-axes]]]
 	
 	Add a `translate` block to move the "O" 10mm in the X direction. 
 	
