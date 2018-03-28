@@ -23,9 +23,9 @@ Next you're going to join the letters together so that the keyring looks like th
 	Rendering is the process of creating an image from a 3D model so that we can see what it looks like. 
 	
 + You need to move the "0" along so that it comes after the "C". 
-
-	ingredient: xyz-axes
-
+	
+[[[generic-blockscad-axes]]]
+	
 	Add a `translate` block to move the "O" 10mm in the X direction. 
 	
 	![screenshot](images/coder-translate.png) 

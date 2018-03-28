@@ -1,14 +1,18 @@
 ## Introduction
 
-In this project you will write code to model a 3D printable "CODER" keyring. If you have access to a 3D printer then you can print it out. 
+In this project you will use BlocksCAD to design a 3D printable "CODER" keyring.
 
-The resulting keyring doesn't use a lot of filament and is small and quick to 3D print. 
+BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing. 
+
+If you have access to a 3D printer then you can print your keyring. The resulting keyring doesn't use a lot of filament and is small and quick to 3D print. 
 
 ### What you will make
 
-You can put a split-ring through the gap between the C and the O to make a keyring. 
+The finished keyring looks like this:
 
-![screenshot](images/coder-keyring.png) 
+![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png) 
+
+You can put a split-ring through the gap between the C and the O to make a keyring. 
 
 The keyring will be roughly 14mm by 50mm. 
 
