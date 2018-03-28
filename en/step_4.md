@@ -19,14 +19,12 @@ Next you're going to join the letters together so that the keyring looks like th
 + Click `Render` and you'll see that we have a problem. The "C" and the "O" are in the same place. 
 
 	![screenshot](images/coder-same-place.png)
+		
+	You need to move the "0" along so that it comes after the "C". 
 	
-	Rendering is the process of creating an image from a 3D model so that we can see what it looks like. 
+[[[generic-blockscad-axes]]]
 	
-+ You need to move the "0" along so that it comes after the "C". 
-	
-	[[[generic-blockscad-axes]]]
-	
-	Add a `translate` block to move the "O" 10mm in the X direction. 
++ Add a `translate` block to move the "O" 10mm in the X direction. 
 	
 	![screenshot](images/coder-translate.png) 
 	

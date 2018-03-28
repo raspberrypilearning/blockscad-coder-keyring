@@ -18,6 +18,8 @@ Let's start with creating some 3D letters using the 3D text tool.
 
 	![screenshot](images/coder-render.png) 
 	
+	Rendering is the process of creating an image from a 3D model so that we can see what it looks like. 
+
 + Let's make the letters bigger. Change the size to 20 - that means font size 20. 
 	
 	![screenshot](images/coder-bigger.png) 
