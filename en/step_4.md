@@ -22,9 +22,6 @@ Next you're going to join the letters together so that the keyring looks like th
 		
 	You need to move the "0" along the X axis so that it comes after the "C". 
 
-<html>
-  <!--[[[generic-blockscad-axes]]]-->
-  </html>
 	
 + Add a `translate` block to move the "O" 10mm in the X direction. 
 	
