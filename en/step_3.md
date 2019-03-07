@@ -1,6 +1,6 @@
 ## Creating 3D text
 
-+ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/).
++ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
 You can drag and drop blocks to write code to create 3D objects. 
 
