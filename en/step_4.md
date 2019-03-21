@@ -1,68 +1,28 @@
-## Joining letters together
+## Alternating height
 
-Next you're going to join the letters together so that the keyring looks like this:
+Next you'll add some interest to your badge by alternating the height of the letters. This helps to separate the letters. 
 
-![screenshot](images/coder-letters-joined.png) 
++ The letters are currently 2mm tall. 
 
-+ Change your code so that it only creates the letter "C"
-
-	![screenshot](images/coder-c.png) 
+	Change the height (thickness) of the "C", "D"  and "R" so that they are 3mm tall. 
 	
-+ The `union` block joins shapes together. Let's start with the first two letters of "CODER". 
-
-	![screenshot](images/coder-co.png) 
-	
-	Blocks are colour-coded, look under `Set Ops` to find `union`. 
-	
-	Note that the `3D Text` block is found under `Text` even though it's green. 
-	
-+ Click `Render` and you'll see that we have a problem. The "C" and the "O" are in the same place. 
-
-	![screenshot](images/coder-same-place.png)
+	![screenshot](images/coder-finished.png)
 		
-	You need to move the "0" along the X axis so that it comes after the "C". 
-	
-+ Add a `translate` block to move the "O" 10mm in the X direction. 
-	
-	![screenshot](images/coder-translate.png) 
-	
-	Now the letters should be touching but not on top of each other. 
-	
-+ Click on the `[+]` image on the `union` block to add a space for another block. 
-
-+ Right-click on the `translate` block and choose `duplicate` to create a copy. 
-
-	![screenshot](images/coder-duplicate.png) 
-	
-+ 	Drag the copy into the `union` block and change the "O" to a "D".
-	
-	![screenshot](images/coder-d.png) 
-	
-+ Change the X value of the second `translate` block so that the D is in the right place. 
-
 --- hints ---
 --- hint ---
-Think about what you changed to make the "O" move along. The "D" starts off in the same place as the C and you need to move it after the "O". 
+Try changing the `thickness` value for the text. 
 --- /hint ---
 --- hint ---
-	![screenshot](images/coder-d-hint.png) 
+Change the thickness value for the "C", "D" and "R" to 3mm so they are taller. 
+	![screenshot](images/coder-thickness.png) 
 --- /hint ---
 --- /hints ---
+	
+	
+Tip: You can change the colour of your model in the output view by clicking on the coloured block. If you 3D print the model then the actual colour will depend on the plastic filament that you use but it's useful to be able to try out different colours. 
 
-+ Now add an "E" and an "R" to finish the word "CODER". 
+![screenshot](images/coder-colour.png)
+	
+You can also show and hide the grid. Try the other buttons and see what they do. 
 
-Take care that all the letters are touching, don't leave a gap between the E and the R.
-
---- hints ---
---- hint ---
-You'll need to click the `+` on the union block to add space for two more letters. 
---- /hint ---
---- hint ---
-You can duplicate the code for creating a "D" and then change the letter and the X value. 
---- /hint ---
---- hint ---
-	![screenshot](images/coder-hint-er.png) 
---- /hint ---
---- /hints ---
-
-+ Look closely, are the E and R joined together? If not, you will need to adjust your code. 
+You can also drag your model around to view it from different angles. 

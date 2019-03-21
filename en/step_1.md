@@ -27,7 +27,7 @@ title: What you will need
 
 ### Software
 
-+ This project can be completed in a web browser using [BlocksCAD](https://www.blockscad3d.com/){:target="_blank"}
++ This project can be completed in a web browser using using BlocksCAD [https://www.blockscad3d.com/](https://www.blockscad3d.com/){:target="_blank"}
 
 --- /collapse ---
 

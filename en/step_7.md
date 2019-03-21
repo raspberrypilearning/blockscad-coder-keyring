@@ -1,34 +1,16 @@
-## Challenge: Create a keyring with your name
+## 3D Printing
 
-Now create a 3D text keyring or badge with your name or another word. 
+BlocksCAD 3D can export an `.STL` file for 3D printing. 
 
-Remember to make sure all the letters join up. 
++ Render your model and then click `Generate STL`. Remember where you save the file. 
 
-Here's an example:
-	![screenshot](images/coder-grace.png)
++ There are lots of tools that can read STL files and send 3D models to a printer. 
 
-## Challenge: Create a keyring with vertical letters
+	The one you choose will depend on the 3D printer that you are using. 
 
-Can you create a keyring where all the letters line up vertically instead of horizontally. 
-
-Here's an example:
-	![screenshot](images/coder-vertical.png)
++ Carefully remove the 3D print from the print bed. 
 	
---- hints ---
---- hint ---
-This time you will need to tranlate letters in the Y direction. 
---- /hint ---
---- /hints ---
+	![screenshot](images/coder-printed.png) 
+		
++ You may need to tidy up the print by removing any small strands of filament. 
 
-## Challenge: Add a loop
-
-If there's nowhere to add a keyring at the beginning of your word then you could try adding a smaller letter "o" as a loop. 
-
-Here's an example:
-	![screenshot](images/coder-loop.png)
-
---- hints ---
---- hint ---
-This time you will need to tranlate the "o" in the X and Y directions. 
---- /hint ---
---- /hints ---
