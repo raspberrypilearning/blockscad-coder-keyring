@@ -6,10 +6,6 @@ duration: 2 # possible values: 1, 2 or 3
 listed: false
 ingredient: false
 copyedit: false
-curriculum: creator, design-1, programming-1, phys-comp-0, manufacture-1, community-0
-interests: "making"
-technologies: "blockscad, 3d-printing"
-site_areas:
 steps:
   - title: Introduction
   - title: Creating 3D text
