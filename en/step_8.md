@@ -3,7 +3,7 @@
 --- task ---
 Get your split ring and 3D printed keyring:
 
-	![screenshot](images/coder-splitring-keyring.png) 
+![screenshot](images/coder-splitring-keyring.png) 
 
 --- /task ---
 --- task ---

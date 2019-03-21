@@ -15,9 +15,9 @@ The `union`{:class="blockscadsetops"} block joins shapes together. Let's start w
 
 ![screenshot](images/coder-co.png) 
 	
-Blocks are colour-coded, look under `Set Ops` to find `union`{:class="blockscadsetops"}. 
+Blocks are colour-coded, look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}. 
 	
-Note that the `3D Text` block is found under `Text` even though it's green. 
+Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadsetext"} even though it's green. 
 
 --- /task ---
 --- task ---	

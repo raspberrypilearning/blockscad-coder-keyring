@@ -20,6 +20,7 @@ Change the thickness value for the "C", "D" and "R" to 3mm so they are taller.
 --- /hints ---
 	
 --- /task ---	
+--- task ---
 You can change the colour of your model in the output view by clicking on the coloured square. If you 3D print the model then the actual colour will depend on the plastic filament that you use but it's useful to be able to try out different colours. 
 
 ![screenshot](images/coder-colour.png)

@@ -1,8 +1,10 @@
 ## Challenge: Create a keyring with your name
 
-Now create a 3D text keyring or badge with your name or another word. 
+Now create a 3D text keyring or badge with your name or another word or short phrase. 
 
-Remember to make sure all the letters join up. 
+Tips:
++ Remember to make sure all the letters join up. 
++ Don't have letters floating in the air as that will make your keyring harder to print.
 
 Here's an example:
 ![screenshot](images/coder-grace.png)
