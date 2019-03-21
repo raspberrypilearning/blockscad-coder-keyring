@@ -16,20 +16,40 @@ You can put a split-ring through the gap between the C and the O to make a keyri
 
 The keyring will be roughly 14mm by 50mm. 
 
-### What you will learn
+--- collapse ---
+---
+title: What you will need
+---
+### Hardware
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
++ A 3D printer and filament, solid colours work best.
++ A split ring for making a keyring. A 19mm diameter split ring works well.
 
-+ [Design basic 2D and 3D assets](hhttps://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
+### Software
 
-If you 3D print the model then you will also cover:
++ This project can be completed in a web browser using [BlocksCAD](https://www.blockscad3d.com/){:target="_blank"}
 
-+ [Use manufacturing techniques and tools to create a completed product](https://curriculum.raspberrypi.org/manufacture/developer/){:target="_blank"}
+--- /collapse ---
 
-Younger makers will need assistance or supervision to use a 3D printer. 
+--- collapse ---
+---
+title: What you will learn
+---
 
-### Additional information for educators
++ Creating a simple 3D object that can be printed 
++ Working with X, Y and Z axes
++ Using translate to position a 3D object
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockcad-coder-badge/print){:target="_blank"}.
+--- /collapse ---
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+--- collapse ---
+---
+title: Additional information for educators
+---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+
+You can download the finished project at:
+[http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+
+--- /collapse ---
