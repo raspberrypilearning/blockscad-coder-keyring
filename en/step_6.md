@@ -18,7 +18,7 @@ Here's an example:
 	
 --- hints ---
 --- hint ---
-This time you will need to tranlate letters in the Y direction. 
+This time you will need to translate letters in the Y direction. 
 --- /hint ---
 --- /hints ---
 
@@ -31,7 +31,7 @@ Here's an example:
 
 --- hints ---
 --- hint ---
-This time you will need to tranlate the "o" in the X and Y directions. 
+This time you will need to translate the "o" in the X and Y directions. 
 --- /hint ---
 --- /hints ---
 
