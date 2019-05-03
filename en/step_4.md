@@ -5,7 +5,7 @@ Next, alternate the thickness of the letters to help separate them, and to make 
 --- task ---
 The letters are currently 2mm thick. 
 
-Change the thickness of the 'C', 'D'  and 'R' so that they are 3mm thick. 
+Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick. 
 	
 ![screenshot](images/coder-finished.png)
 		
