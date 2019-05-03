@@ -1,4 +1,4 @@
-title: 3D printable keyring
+title: 3D printable key ring
 hero_image: images/banner.png
 description: blockscad-coder-keyring description
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
@@ -8,10 +8,10 @@ ingredient: false
 copyedit: false
 steps:
   - title: Introduction
-  - title: Creating 3D text
-  - title: Joining letters together
-  - title: Alternating height
-  - title: Saving
+  - title: Create 3D text
+  - title: Join the letters together
+  - title: Change thickness
+  - title: Save your project
   - title: Challenges
-  - title: 3D printing 
-  - title: Keyring assembly
+  - title: 3D print your key ring
+  - title: Assemble your key ring
