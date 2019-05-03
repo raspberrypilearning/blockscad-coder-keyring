@@ -1,9 +1,9 @@
-## 3D Printing
+## 3D print your key ring
 
-BlocksCAD 3D can export an `.STL` file for 3D printing. 
+BlocksCAD can export an `.STL` file for 3D printing. 
 
 --- task ---
-Render your model and then click `Generate STL`. Remember where you save the file. 
+Render your model and then click `Generate STL`. Remember where you have saved the file. 
 
 --- /task ---
 --- task ---
@@ -19,7 +19,7 @@ Carefully remove the 3D print from the print bed.
 		
 --- /task ---
 --- task ---
-You may need to tidy up the print by removing any small strands of filament. 
+You might need to remove some small strands of filament to tidy up the print. 
 --- /task ---
 
 
