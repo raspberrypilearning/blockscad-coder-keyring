@@ -1,20 +1,20 @@
 ## Introduction
 
-In this project you will use BlocksCAD to design a 3D printable "CODER" keyring.
+In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a desktop computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing. 
+BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing. 
 
-If you have access to a 3D printer then you can print your keyring. The resulting keyring doesn't use a lot of filament and is small and quick to 3D print. 
+If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print. 
 
 ### What you will make
 
-The finished keyring looks like this:
+The finished key ring looks like this:
 
 ![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png) 
 
-You can put a split-ring through the gap between the C and the O to make a keyring. 
+You can put a split ring through the gap between the 'C' and the 'O' to make a key ring. 
 
-The keyring will be roughly 14mm by 50mm. 
+The key ring will measure around 14mm by 50mm. 
 
 --- collapse ---
 ---
@@ -22,12 +22,12 @@ title: What you will need
 ---
 ### Hardware
 
-+ A 3D printer and filament, solid colours work best.
-+ A split ring for making a keyring. A 19mm diameter split ring works well.
++ A 3D printer and filament. Solid colours work best.
++ A split ring for making the key ring. A 19mm diameter split ring works well.
 
 ### Software
 
-+ This project can be completed in a web browser using using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
@@ -36,9 +36,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Creating a simple 3D object that can be printed 
-+ Working with X, Y and Z axes
-+ Using translate to position a 3D object
++ How to create a simple 3D object that can be 3D printed 
++ How to work with X, Y and Z axes
++ How to use `translate` to position a 3D object
 
 --- /collapse ---
 
