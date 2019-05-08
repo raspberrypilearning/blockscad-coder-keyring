@@ -3,7 +3,7 @@
 BlocksCAD can export an `.STL` file for 3D printing. 
 
 --- task ---
-Render your model and then click `Generate STL`. Remember where you have saved the file. 
+Render your model and then click **Generate STL**. Remember where you save the STL file. 
 
 --- /task ---
 --- task ---
