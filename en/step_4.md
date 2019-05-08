@@ -1,6 +1,6 @@
 ## Change thickness
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring more interesting. 
+Next, alternate the thickness of the letters to help separate them, and to make your key ring even better. 
 
 --- task ---
 The letters are currently 2mm thick. 
@@ -14,7 +14,7 @@ Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
 Change the `thickness` value for the text. 
 --- /hint ---
 --- hint ---
-Change the `thickness` value for the 'C', 'D', and 'R' to 3mm so that they are thicker than the 'O' and 'E'. 
+Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'. 
 	![screenshot](images/coder-thickness.png) 
 --- /hint ---
 --- /hints ---
