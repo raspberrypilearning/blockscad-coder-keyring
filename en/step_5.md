@@ -5,11 +5,11 @@
 title: I don't have a BlocksCAD account
 ---
 
-To save your project, click on `Project` in the menu bar and select `Save Blocks to your Computer`. 
+To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**. 
 
-Give your project a recognisable name and remember where you have saved it. 
+Give your project a recognisable name and remember where you save it. 
 	
-You can then use `Load Blocks from your Computer` to open the project that you have saved and continue working on it. 
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it. 
 
 --- /collapse ---
 		
@@ -17,7 +17,7 @@ You can then use `Load Blocks from your Computer` to open the project that you h
 ---
 title: I have a BlocksCAD account
 ---
-If you have a BlocksCAD account and you're logged in, then you can click on `Project` in the menu bar and select `Save`. This will save your project online so that you can access it from any computer. 
+If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer. 
 --- /collapse ---
 
 
