@@ -21,7 +21,7 @@ Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{
 
 --- /task ---
 --- task ---	
-Click `Render` and you'll see that there is a problem: the 'C' and the 'O' are in the same place. 
+Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place. 
 
 ![screenshot](images/coder-same-place.png)
 		
@@ -29,7 +29,7 @@ You need to move the 'O' along the X axis so that it comes after the 'C'.
 
 --- /task ---
 --- task ---	
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to 10 to move the 'O' 10mm along the X axis. 
+Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis. 
 	
 ![screenshot](images/coder-translate.png) 
 	
@@ -37,11 +37,11 @@ Now, the letters should be touching, but not on top of each other.
 
 --- /task ---
 --- task ---	
-Click on the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block. 
+Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block. 
 
 --- /task ---
 --- task ---
-Right-click on the `translate`{:class="blockscadtransforms"} block and select `Duplicate` to create a copy. 
+Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy. 
 
 ![screenshot](images/coder-duplicate.png) 
 	
@@ -66,7 +66,7 @@ Think about what you changed to make the 'O' move to after the 'C'. The 'D' star
 
 --- /task ---
 --- task ---
-Now add an 'E' and an 'R' to finish the word 'CODER'. 
+Now, add an 'E' and an 'R' to finish the word 'CODER'. 
 
 Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
 
