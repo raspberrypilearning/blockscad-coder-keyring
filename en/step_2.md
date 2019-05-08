@@ -22,7 +22,7 @@ Change the `3D text` input to say 'CODER'.
 	
 --- /task ---
 --- task ---
-Click on the `Render` button to see what it looks like.
+Click the **Render** button to see what it looks like.
 
 ![screenshot](images/coder-render.png) 
 	
@@ -30,11 +30,11 @@ Rendering is the process of creating an image from a 3D model so that we can see
 
 --- /task ---
 --- task ---
-To make the letters bigger, change the `size` to 20 — that means font size 20. 
+To make the letters bigger, change the `size` to `20` — that means font size 20. 
 	
 ![screenshot](images/coder-bigger.png) 
 	
-Click `Render` again to see the result.
+Click **Render** again to see the result.
 
 --- /task ---
 	
