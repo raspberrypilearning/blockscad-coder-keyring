@@ -4,7 +4,7 @@ Now, create a 3D text key ring or badge with your name or another word or short 
 
 Tips:
 + Make sure that all the letters join up
-+ Don't have letters floating in the air, as that will make your key ring harder to print
++ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
 
 Here's an example:
 ![screenshot](images/coder-grace.png)
