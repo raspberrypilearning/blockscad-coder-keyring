@@ -1,28 +1,24 @@
-## Alternating height
+## Save your project
 
-Next you'll add some interest to your badge by alternating the height of the letters. This helps to separate the letters. 
+--- collapse ---
+---
+title: I don't have a BlocksCAD account
+---
 
-+ The letters are currently 2mm tall. 
+To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**. 
 
-	Change the height (thickness) of the "C", "D"  and "R" so that they are 3mm tall. 
+Give your project a recognisable name and remember where you save it. 
 	
-	![screenshot](images/coder-finished.png)
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it. 
+
+--- /collapse ---
 		
---- hints ---
---- hint ---
-Try changing the `thickness` value for the text. 
---- /hint ---
---- hint ---
-Change the thickness value for the "C", "D" and "R" to 3mm so they are taller. 
-	![screenshot](images/coder-thickness.png) 
---- /hint ---
---- /hints ---
-	
-	
-Tip: You can change the colour of your model in the output view by clicking on the coloured block. If you 3D print the model then the actual colour will depend on the plastic filament that you use but it's useful to be able to try out different colours. 
+--- collapse ---
+---
+title: I have a BlocksCAD account
+---
+If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer. 
+--- /collapse ---
 
-![screenshot](images/coder-colour.png)
-	
-You can also show and hide the grid. Try the other buttons and see what they do. 
 
-You can also drag your model around to view it from different angles. 
+ 

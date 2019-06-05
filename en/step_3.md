@@ -1,39 +1,89 @@
-## Creating 3D text
+## Join the letters together
 
-+ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Next, you will join the letters together so that the key ring looks like this:
 
-You can drag and drop blocks to write code to create 3D objects. 
+![screenshot](images/coder-letters-joined.png) 
 
-Let's start with creating some 3D letters using the 3D text tool.
+--- task ---
+Change your code so that it only creates the letter 'C'.
 
-+ Click on `Text` and then drag a `3D Text` block onto the canvas. 
+![screenshot](images/coder-c.png) 
+
+--- /task ---
+--- task ---
+The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'. 
+
+![screenshot](images/coder-co.png) 
 	
-	![screenshot](images/coder-canvas.png)
+Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}. 
 	
-+ Change the 3D text input to say "CODER"
+Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green. 
 
-	![screenshot](images/coder-coder.png)
+--- /task ---
+--- task ---	
+Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place. 
+
+![screenshot](images/coder-same-place.png)
+		
+You need to move the 'O' along the X axis so that it comes after the 'C'. 
+
+--- /task ---
+--- task ---	
+Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis. 
 	
-+ Now click `Render` to see what it looks like.
-
-	![screenshot](images/coder-render.png) 
+![screenshot](images/coder-translate.png) 
 	
-	Rendering is the process of creating an image from a 3D model so that we can see what it looks like. 
+Now, the letters should be touching, but not on top of each other. 
 
-+ Let's make the letters bigger. Change the size to 20 - that means font size 20. 
+--- /task ---
+--- task ---	
+Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block. 
+
+--- /task ---
+--- task ---
+Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy. 
+
+![screenshot](images/coder-duplicate.png) 
 	
-	![screenshot](images/coder-bigger.png) 
+--- /task ---
+--- task ---
+Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
 	
-	You can click `Render` again to see the result. 
-	
-If you 3D printed the model you have created now then you would get five separate letters because they are not joined together. That wouldn't make a very good keyring!
+![screenshot](images/coder-d.png) 
 
+--- /task ---
+--- task ---
+Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place. 
 
-	
+--- hints ---
+--- hint ---
+Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'. 
+--- /hint ---
+--- hint ---
+	![screenshot](images/coder-d-hint.png) 
+--- /hint ---
+--- /hints ---
 
-	
-	
+--- /task ---
+--- task ---
+Now, add an 'E' and an 'R' to finish the word 'CODER'. 
 
+Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
 
+--- hints ---
+--- hint ---
+You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters. 
+--- /hint ---
+--- hint ---
+You can duplicate the code you used to create a 'D' and then change the letters and the `X` values. 
+--- /hint ---
+--- hint ---
+	![screenshot](images/coder-hint-er.png) 
+--- /hint ---
+--- /hints ---
 
- 
+--- /task ---
+--- task ---
+Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code. 
+--- /task ---
+
