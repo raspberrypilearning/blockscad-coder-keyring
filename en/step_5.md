@@ -17,7 +17,9 @@ You can then use **Load Blocks from your Computer** to open the project that you
 ---
 title: I have a BlocksCAD account
 ---
+
 If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer. 
+
 --- /collapse ---
 
 
