@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## Défi: crée un porte-clés avec ton nom
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+Maintenant, crée un porte-clés avec un texte 3D ou un badge avec ton nom ou un autre mot ou une phrase courte.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+Astuces :
++ Assure-toi que toutes les lettres se joignent
++ Assure-toi que le dos de ton porte-clés est plat et uniforme, sinon il sera très difficile d'imprimer
 
-Here's an example:
+Voici un exemple :
 
-![screenshot](images/coder-grace.png)
+![capture d'écran](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## Défi : crée un porte-clés avec des lettres verticales
 
-Create a key ring where the letters line up vertically instead of horizontally.
+Crée un porte-clés où les lettres s'alignent verticalement au lieu de s'aligner horizontalement.
 
-Here's an example:
+Voici un exemple :
 
-![screenshot](images/coder-vertical.png)
+![capture d'écran](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+Cette fois, tu devras utiliser `translation` pour déplacer les lettres le long de l'axe Y.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## Défi : ajouter une boucle
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+S'il n'y a aucun endroit pour ajouter un anneau porte-clés au début de ton mot, tu peux ajouter une lettre « o » plus petite pour faire une boucle.
 
-Here's an example:
+Voici un exemple :
 
-![screenshot](images/coder-loop.png)
+![capture d'écran](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+Cette fois, tu devras utiliser `translation` pour déplacer le « o » le long des axes X et Y.
 
 --- /hint --- --- /hints ---
 
