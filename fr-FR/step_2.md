@@ -1,46 +1,46 @@
-## Create 3D text
+## Crée un texte 3D
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Ouvre l'éditeur BlocksCAD dans un navigateur web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
+Tu peux faire glisser et déposer des blocs pour écrire du code pour créer des objets 3D.
 
 --- /task ---
 
-First, use the 3D text tool to create some 3D letters.
+Tout d'abord, utilise l'outil de texte 3D pour créer des lettres 3D.
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+Clique sur `texte`{:class="blockscadtext"} puis fais glisser un bloc `text 3D`{:class="blockscadtext"} sur le canevas.
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![capture d'écran](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+Modifie l'entrée `text 3D` pour mettre le mot « CODER ».
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![capture d'écran](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+Clique sur le bouton **Générer un rendu** pour voir à quoi il ressemble.
 
-![screenshot](images/coder-bigger.png)
+![capture d'écran](images/coder-render.png)
 
-Click **Render** again to see the result.
+La génération de rendu est le processus de création d'une image à partir d'un modèle 3D pour que nous puissions voir à quoi il ressemble.
+
+--- /task --- --- task ---
+
+Pour agrandir les lettres, change la `taille` en `20` — cela signifie taille de police 20.
+
+![capture d'écran](images/coder-bigger.png)
+
+Clique à nouveau sur **Générer un rendu** pour voir le résultat.
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+Si tu as imprimé en 3D le modèle que tu as créé maintenant, tu obtiendras cinq lettres séparées, car elles ne sont pas reliées ensemble. Cela ne ferait pas un très bon porte-clés !
 
 
 	
