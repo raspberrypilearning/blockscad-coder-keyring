@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## Desafío: crea un llavero con tu nombre
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+Ahora, crea un llavero o insignia en 3D con tu nombre u otra palabra o frase corta.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+Consejos:
++ Asegúrate de que todas las letras estén unidas
++ Asegúrate de que la parte posterior del llavero esté plana ya que, de lo contrario, será muy difícil imprimir
 
-Here's an example:
+Aquí tienes un ejemplo:
 
-![screenshot](images/coder-grace.png)
+![captura de pantalla](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## Desafío: crear un llavero con letras verticales
 
-Create a key ring where the letters line up vertically instead of horizontally.
+Crea un llavero donde las letras se alineen verticalmente en lugar de horizontalmente.
 
-Here's an example:
+Aquí tienes un ejemplo:
 
-![screenshot](images/coder-vertical.png)
+![captura de pantalla](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+Esta vez, deberá `trasladar` letras a lo largo del eje Y.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## Desafío: añadir un círculo
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+Si no hay ningún lugar para agarrar un llavero al comienzo de tu palabra, entonces puede agregar una letra 'o' más pequeña para hacer un círculo.
 
-Here's an example:
+Aquí tienes un ejemplo:
 
-![screenshot](images/coder-loop.png)
+![captura de pantalla](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+Esta vez, deberás `trasladar` la 'o' a lo largo del eje X e Y.
 
 --- /hint --- --- /hints ---
 
