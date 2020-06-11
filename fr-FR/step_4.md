@@ -1,36 +1,36 @@
-## Change thickness
+## Change l'épaisseur
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+Ensuite, alterne l'épaisseur des lettres pour aider à les séparer et améliorer ton porte-clés.
 
 --- task ---
 
-The letters are currently 2mm thick.
+Les lettres ont actuellement 2 mm d'épaisseur.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+Change l'épaisseur du « C », du « D » et du « R » pour qu'ils aient 3 mm d'épaisseur.
 
-![screenshot](images/coder-finished.png)
+![capture d'écran](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+Modifie la valeur `épaisseur` pour le texte.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+Mets la valeur `épaisseur` pour le « C », le « D » et le « R » à `3` afin qu'ils soient plus épais que le « O » et « E ».
 
-![screenshot](images/coder-thickness.png)
+![capture d'écran](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+Tu peux cliquer sur le carré coloré pour changer la couleur de ton modèle dans la vue de sortie. Si tu imprimes le modèle en 3D, la couleur du porte-clés dépendra de la couleur du filament plastique que tu utilises, mais il est utile de pouvoir essayer différentes couleurs dans la vue de sortie.
 
-![screenshot](images/coder-colour.png)
+![capture d'écran](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+Tu peux également afficher et masquer la grille. Essaie les autres boutons et vois ce qu'ils font.
 
-You can drag your model around to view it from different angles too.
+Tu peux également faire tourner ton modèle pour le voir sous différents angles.
 
 --- /task ---
