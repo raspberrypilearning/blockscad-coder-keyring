@@ -1,46 +1,46 @@
-## Create 3D text
+## إنشاء نص ثلاثي الأبعاد
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+افتح محرر BlocksCAD في متصفح ويب [blockscad3d.com/محرر/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
+يمكنك سحب وإفلات الكتل البرمجية لكتابة التعليمات البرمجية لإنشاء كائنات ثلاثية الأبعاد.
 
---- /task ---
+---/task--
 
-First, use the 3D text tool to create some 3D letters.
+أولا، استخدم أداة النص ثلاثي الأبعاد لإنشاء بعض الأحرف الثلاثية الأبعاد.
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+انقر فوق `نص`{:class="blockscadtext"} ثم اسحب كتلة `نص ثلاثي الابعاد `{:class="blockscadtext"} إلى اللوحة.
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![لقطة الشاشة](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+قم بتغيير النص ` ثلاثي الأبعاد ` إدخال ليقول "CODER".
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![لقطة الشاشة](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+انقر فوق الزر **Render** لرؤية ما يبدو عليه.
 
-![screenshot](images/coder-bigger.png)
+![لقطة الشاشة](images/coder-render.png)
 
-Click **Render** again to see the result.
+العرض هو عملية إنشاء صورة من نموذج ثلاثي الأبعاد حتى نتمكن من رؤية ما تبدو عليه.
+
+--- /task --- --- task ---
+
+لجعل الحروف أكبر ، قم بتغيير `الحجم` إلى `20` - وهذا يعني حجم الخط 20.
+
+![لقطة الشاشة](images/coder-bigger.png)
+
+انقر فوق **Render** مرة أخرى لمشاهدة النتيجة.
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+إذا طبعت النموذج ثلاثي الأبعاد الذي أنشأته الآن، فستحصل على خمسة حروف منفصلة، لأننا لم نربطها مع بعضها البعض. هذا لن يجعل حلقة المفاتيح جيدة جدا!
 
 
 	
