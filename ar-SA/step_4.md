@@ -1,36 +1,36 @@
-## Change thickness
+## تغيير السماكة
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+بعد ذلك، قم بتغيير سماكة الحروف للمساعدة في فصلها، وجعل حلقة المفتاح الخاصة بك أفضل.
 
 --- task ---
 
-The letters are currently 2mm thick.
+سماكة الحروف حاليا 2 مم.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+قم بتغيير سماكة "C" و "D" و "R" بحيث تكون بسُمك 3 مم.
 
-![screenshot](images/coder-finished.png)
+![لقطة الشاشة](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+تغيير قيمة `السمك ` للنص.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+قم بتغيير قيمة سمك `` لـ 'C', 'D', و 'R' إلى `3` بحيث تصبح أكثر سماكة من 'O' و 'E'.
 
-![screenshot](images/coder-thickness.png)
+![لقطة الشاشة](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+يمكنك النقر على المربع الملون لتغيير لون النموذج الخاص بك بطريقة عرض النتيجة النهائية. إذا طبعت النموذج ثلاثي الأبعاد، فإن لون حلقة المفاتيح سيعتمد على لون الفتيل البلاستيكي (مادة الطباعة) الذي تستخدمه، ولكن من المفيد أن تكون قادراً على تجربة ألوان مختلفة بطريقة عرض النتيجة النهائية.
 
-![screenshot](images/coder-colour.png)
+![لقطة الشاشة](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+يمكنك أيضًا إظهار الشبكة وإخفائها. جرب الأزرار الأخرى وشاهد ما يفعلون.
 
-You can drag your model around to view it from different angles too.
+يمكنك سحب النموذج الخاص بك لعرضه من زوايا مختلفة أيضا.
 
 --- /task ---
