@@ -2,13 +2,13 @@
 
 --- task ---
 
-Prends ton anneau fendu et ton porte-clés imprimé en 3D:
+Prends ton anneau fendu et ton porte-clés imprimé en 3D :
 
 ![capture d’écran](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attache l'anneau fendu à ton porte-clés imprimé en 3D:
+Attache l'anneau fendu à ton porte-clés imprimé en 3D :
 
 ![capture d'écran](images/coder-keyring.png)
 
@@ -16,7 +16,7 @@ Attache l'anneau fendu à ton porte-clés imprimé en 3D:
 
 
 ***
-Ce projet a été traduit par des bénévoles:
+Ce projet a été traduit par des bénévoles :
 
 Jonathan Vannieuwkerke
 

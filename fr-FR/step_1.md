@@ -1,6 +1,6 @@
 ## Introduction
 
-Dans ce projet, tu vas utiliser BlocksCAD pour concevoir un porte-clés «CODER» qui peut être imprimé en 3D.
+Dans ce projet, tu vas utiliser BlocksCAD pour concevoir un porte-clés « CODER » qui peut être imprimé en 3D.
 
 BlocksCAD est un éditeur de modèle 3D que tu peux utiliser dans un navigateur Web sur un ordinateur de bureau ou une tablette. Tu fais glisser et déposer des blocs de code pour concevoir des modèles 3D qui peuvent être exportés pour l'impression 3D.
 
@@ -8,7 +8,7 @@ Si tu as accès à une imprimante 3D, tu peux imprimer ton porte-clés. Le porte
 
 ### Ce que tu réaliseras
 
-Le porte-clés fini ressemblera à ceci:
+Le porte-clés fini ressemblera à ceci :
 
 ![capture d'écran](images/coder-keyring.png) ![capture d'écran](images/coder-keyring.png)
 
@@ -50,6 +50,6 @@ title: Informations supplémentaires pour les éducateurs
 
 Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Téléchargez le code du projet terminé à l'adresse: [http://rpf.io/p/fr/blockscad-coder-keyring-get](http://rpf.io/p/fr-FR/blockscad-coder-keyring-get).
+Téléchargez le code du projet terminé à l'adresse : [http://rpf.io/p/fr/blockscad-coder-keyring-get](http://rpf.io/p/fr-FR/blockscad-coder-keyring-get).
 
 --- /collapse ---

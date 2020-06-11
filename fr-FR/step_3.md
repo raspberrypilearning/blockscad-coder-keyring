@@ -1,18 +1,18 @@
 ## Relie les lettres ensemble
 
-Ensuite, tu relieras les lettres ensemble pour que le porte-clés ressemble à ceci:
+Ensuite, tu relieras les lettres ensemble pour que le porte-clés ressemble à ceci :
 
 ![capture d'écran](images/coder-letters-joined.png)
 
 --- task ---
 
-Modifie ton code pour qu'il ne crée que la lettre «C».
+Modifie ton code pour qu'il ne crée que la lettre « C ».
 
 ![capture d'écran](images/coder-c.png)
 
 --- /task --- --- task ---
 
-Le bloc `union`{:class="blockscadsetops"} relie les formes ensemble. Commence par les deux premières lettres de «CODER».
+Le bloc `union`{:class="blockscadsetops"} relie les formes ensemble. Commence par les deux premières lettres de « CODER ».
 
 ![capture d'écran](images/coder-co.png)
 
@@ -22,11 +22,11 @@ Note que le bloc `text 3D`{:class="blockscad3dshapes"} se trouve sous `texte`{:c
 
 --- /task --- --- task ---
 
-Clique sur **Générer un rendu** et tu verras qu'il y a un problème: le «C» et le «O» sont au même endroit.
+Clique sur **Générer un rendu** et tu verras qu'il y a un problème : le « C » et le « O » sont au même endroit.
 
 ![capture d'écran](images/coder-same-place.png)
 
-Tu dois déplacer le «O» le long de l'axe X pour qu'il vienne contre le «C».
+Tu dois déplacer le « O » le long de l'axe X pour qu'il vienne contre le « C ».
 
 --- /task --- --- task ---
 
@@ -48,7 +48,7 @@ Fais un clic droit sur le bloc `translation`{:class="blockscadtransforms"} et s�
 
 --- /task --- --- task ---
 
-Fais glisser la copie dans le bloc `union`{:class="blockscadsetops"} et change le «O» en «D».
+Fais glisser la copie dans le bloc `union`{:class="blockscadsetops"} et change le « O » en « D ».
 
 ![capture d'écran](images/coder-d.png)
 
@@ -59,7 +59,7 @@ Change la valeur `X` du deuxième bloc `translation`{:class="blockscadtransforms
 --- hints ---
  --- hint ---
 
-Pense à ce que tu as changé pour faire bouger le «O» après le «C». Le «D» commence au même endroit que le «C» et tu dois le déplacer après le «O».
+Pense à ce que tu as changé pour faire bouger le « O » après le « C ». Le « D » commence au même endroit que le « C » et tu dois le déplacer après le « O ».
 
 --- /hint --- --- hint ---
 
@@ -69,7 +69,7 @@ Pense à ce que tu as changé pour faire bouger le «O» après le «C». Le «D
 
 --- /task --- --- task ---
 
-Maintenant, ajoute un «E» et un «R» pour terminer le mot «CODER».
+Maintenant, ajoute un « E » et un « R » pour terminer le mot « CODER ».
 
 Assure-toi que toutes les lettres se touchent et qu'il n'y a aucun espace entre les lettres.
 
@@ -80,7 +80,7 @@ Tu dois cliquer sur le bloc `+` sur `union`{:class="blockscadsetops"} pour ajout
 
 --- /hint --- --- hint ---
 
-Tu peux dupliquer le code que tu as utilisé pour créer un «D» et ensuite changer les lettres et les valeurs `X`.
+Tu peux dupliquer le code que tu as utilisé pour créer un « D » et ensuite changer les lettres et les valeurs `X`.
 
 --- /hint --- --- hint ---
 
@@ -90,7 +90,7 @@ Tu peux dupliquer le code que tu as utilisé pour créer un «D» et ensuite cha
 
 --- /task --- --- task ---
 
-Regarde de plus près — est-ce que les «E» et «R» se touchent? S'ils ne se touchent pas, tu dois ajuster ton code.
+Regarde de plus près — est-ce que les « E » et « R » se touchent ? S'ils ne se touchent pas, tu dois ajuster ton code.
 
 --- /task ---
 
