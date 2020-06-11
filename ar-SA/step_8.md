@@ -1,16 +1,16 @@
-## Assemble your key ring
+## تجميع حلقة المفاتيح الخاصة بك
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+احصل على حلقة فصل وحلقة المفاتيح الثلاثية الأبعاد:
 
-![screenshot](images/coder-splitring-keyring.png)
+![لقطة شاشة](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+إرفاق حلقة الفصل إلى حلقة المفاتيح المطبوعة ثلاثية الأبعاد:
 
-![screenshot](images/coder-keyring.png)
+![لقطة الشاشة](images/coder-keyring.png)
 
 --- /task ---	
 
