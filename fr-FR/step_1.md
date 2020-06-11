@@ -1,55 +1,55 @@
 ## Introduction
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+Dans ce projet, tu vas utiliser BlocksCAD pour concevoir un porte-clés « CODER » qui peut être imprimé en 3D.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD est un éditeur de modèle 3D que tu peux utiliser dans un navigateur Web sur un ordinateur de bureau ou une tablette. Tu fais glisser et déposer des blocs de code pour concevoir des modèles 3D qui peuvent être exportés pour l'impression 3D.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+Si tu as accès à une imprimante 3D, tu peux imprimer ton porte-clés. Le porte-clés n'utilise pas beaucoup de filament et est petit et rapide à imprimer en 3D.
 
-### What you will make
+### Ce que tu réaliseras
 
-The finished key ring looks like this:
+Le porte-clés fini ressemblera à ceci :
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![capture d'écran](images/coder-keyring.png) ![capture d'écran](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+Tu peux mettre un anneau fendu dans l'espace entre le «C» et le «O» pour en faire un porte-clés.
 
-The key ring will measure around 14mm by 50mm.
+Le porte-clés mesurera environ 14 mm par 50 mm.
 
 --- collapse ---
 ---
-title: What you will need
+title: Ce dont tu auras besoin
 ---
 
-### Hardware
+### Matériel informatique
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ Une imprimante 3D et du filament. Les couleurs unies fonctionnent mieux.
++ Un anneau fendu pour faire le porte-clés. Un anneau fendu de 19 mm de diamètre convient bien.
 
-### Software
+### Logiciel
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Ce projet peut être réalisé dans un navigateur Web en utilisant BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Ce que tu vas apprendre
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ Comment créer un objet 3D simple pouvant être imprimé en 3D
++ Comment travailler avec les axes X, Y et Z
++ Comment utiliser `translation` pour positionner un objet 3D
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informations supplémentaires pour les éducateurs
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable.](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Téléchargez le code du projet terminé à l'adresse : [http://rpf.io/p/fr/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
