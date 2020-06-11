@@ -1,55 +1,55 @@
-## Introduction
+## المقدمة
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+في هذا المشروع، سوف تستخدم BlocksCAD لتصميم حلقة مفتاح 'CODER' التي يمكن طباعتها بتقنية ثلاثية الأبعاد.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD هو محرر نماذج ثلاثية الأبعاد يمكنك استخدامه في متصفح الويب على جهاز الكمبيوتر أو الجهاز اللوحي. يمكنك سحب وإفلات كتل التعليمات البرمجية لتصميم نماذج ثلاثية الأبعاد التي يمكن تصديرها للطباعة ثلاثية الأبعاد.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+إذا كان لديك حق الوصول إلى طابعة ثلاثية الأبعاد ، فيمكنك طباعة حلقة المفاتيح الخاصة بك. حلقة المفتاح لا تستخدم الكثير من الفتيل (مادة الطباعة) وهي صغيرة وسريعة الطباعة بشكل ثلاثي الأبعاد.
 
-### What you will make
+### ما الذي ستقوم به
 
-The finished key ring looks like this:
+تبدو حلقة المفاتيح النهائية هكذا:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![لقطة الشاشة](images/coder-keyring.png) ![لقطة الشاشة](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+يمكنك وضع حلقة فصل من خلال الفجوة بين 'C' و 'O' لصنع حلقة المفاتيح.
 
-The key ring will measure around 14mm by 50mm.
+سوف يكون قياس حلقة المفاتيح  حوالي 14 مم × 50 مم.
 
 --- collapse ---
 ---
-title: What you will need
+العنوان: ما ستحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ طابعة ثلاثية الأبعاد وفتيل. (مادة الطباعة) الألوان الصلبة تعمل بشكل أفضل.
++ حلقة الفصل لإنشاء حلقة المفاتيح .  حلقة فصل قطرها 19 مم تعمل بشكل جيد.
 
-### Software
+### البرامج
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/المحرر/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+العنوان: ما الذي ستتعلمه
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ كيفية إنشاء كائن بسيط ثلاثي الأبعاد يمكن طباعته بشكل ثلاثي الأبعاد
++ كيفية العمل مع محاور X, Y و Z
++ كيفية استخدام `ترجمة ` لوضع كائن ثلاثي الأبعاد
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+العنوان: معلومات إضافية للمعلمين
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+اذا كنت ترغب بطباعة هذا المشروع، الرجاء استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print) {:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+قم بتنزيل الكود البرمجي للمشروع النهائي من [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
