@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## التحدي: أنشئ حلقة مفاتيح باسمك
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+الآن، أنشئ حلقة مفاتيح أو شارة على بشكل نص ثلاثي الأبعاد باسمك أو كلمة أخرى أو عبارة قصيرة.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+نصائح:
++ تأكد من ترابط جميع الحروف مع بعضها البعض
++ تأكد من أن الجزء الخلفي من حلقة المفاتيح مسطح ومنتظم ، وإلا فسيكون من الصعب جدا طباعته
 
-Here's an example:
+إليك مثالاً:
 
-![screenshot](images/coder-grace.png)
+![لقطة الشاشة](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## التحدي: إنشاء حلقة مفاتيح بأحرف عمودية
 
-Create a key ring where the letters line up vertically instead of horizontally.
+قم بإنشاء حلقة مفاتيح حيث تصطف الحروف بشكل عمودي بدلاً من أفقيًا.
 
-Here's an example:
+إليك مثالاً:
 
-![screenshot](images/coder-vertical.png)
+![لقطة الشاشة](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+هذه المرة ، ستحتاج إلى ` ترجمة ` الحروف على طول المحور ص.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## التحدي: إضافة حلقة
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+إذا لم يكن هناك أي مكان لإضافة حلقة المفتاح في بداية كلمتك، فيمكنك إضافة حرف أصغر 'o' لعمل حلقة.
 
-Here's an example:
+إليك مثالًا:
 
-![screenshot](images/coder-loop.png)
+![لقطة الشاشة](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+هذه المرة، ستحتاج إلى `ترجمة ` 'o' على طول المحورين السيني و الصادي.
 
 --- /hint --- --- /hints ---
 
