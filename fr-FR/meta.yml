@@ -1,7 +1,7 @@
 ---
-title: 3D key ring
+title: Porte-clés 3D
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
+description: Conçois un porte-clés CODER qui peut être imprimé en 3D.
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
@@ -11,16 +11,16 @@ steps:
   - 
     title: Introduction
   - 
-    title: Create 3D text
+    title: Créer un texte 3D
   - 
-    title: Join the letters together
+    title: Relier les lettres ensemble
   - 
-    title: Change thickness
+    title: Changer l'épaisseur
   - 
-    title: Save your project
+    title: Enregistre ton projet
   - 
-    title: Challenges
+    title: Défis
   - 
-    title: 3D print your key ring
+    title: Imprime ton porte-clés en 3D
   - 
-    title: Assemble your key ring
+    title: Assembler ton porte-clés
