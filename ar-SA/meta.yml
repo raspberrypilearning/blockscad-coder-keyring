@@ -2,7 +2,7 @@
 title: حلقة مفاتيح ثلاثية الابعاد (3D)
 hero_image: images/banner.png
 description: تصميم حلقة مفاتيح (CODER) التي يمكن طباعتها بشكل ثلاثي الأبعاد.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: أحمر #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
 ingredient: false
@@ -15,12 +15,12 @@ steps:
   - 
     title: ربط الحروف مع بعضها البعض
   - 
-    title: Change thickness
+    title: تغيير السماكة
   - 
-    title: Save your project
+    title: احفظ مشروعك
   - 
-    title: Challenges
+    title: التحديات
   - 
-    title: 3D print your key ring
+    title: اطبع حلقة مفاتيحك بشكل ثلاثي الابعاد
   - 
-    title: Assemble your key ring
+    title: تجميع حلقة المفاتيح الخاصة بك
