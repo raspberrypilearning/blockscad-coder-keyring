@@ -1,24 +1,24 @@
-## Save your project
+## Enregistre ton projet
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: Je n'ai pas de compte BlocksCAD
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+Pour enregistrer ton projet, clique sur **Projet** dans la barre de menus et sélectionne **Sauver en fichier xml**.
 
-Give your project a recognisable name and remember where you save it.
+Donne à ton projet un nom reconnaissable et rappelle-toi où tu l'enregistres.
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+Tu peux ensuite utiliser **Charger un fichier xml** pour ouvrir le projet que tu as enregistré et continuer à travailler dessus.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: J'ai un compte BlocksCAD
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+Si tu as un compte BlocksCAD et que tu es connecté, tu peux cliquer sur **Projet** dans la barre de menu et sélectionner **Sauver**. Cela enregistre ton projet en ligne afin que tu puisses y accéder à partir de n'importe quel ordinateur.
 
 --- /collapse ---
 
