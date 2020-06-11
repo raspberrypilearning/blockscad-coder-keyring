@@ -18,7 +18,7 @@ Clique sur `texte`{:class="blockscadtext"} puis fais glisser un bloc `text 3D`{:
 
 --- /task --- --- task ---
 
-Modifie l'entrée `text 3D` pour mettre le mot «CODER».
+Modifie l'entrée `text 3D` pour mettre le mot « CODER ».
 
 ![capture d'écran](images/coder-coder.png)
 
@@ -40,7 +40,7 @@ Clique à nouveau sur **Générer un rendu** pour voir le résultat.
 
 --- /task ---
 
-Si tu as imprimé en 3D le modèle que tu as créé maintenant, tu obtiendras cinq lettres séparées, car elles ne sont pas reliées ensemble. Cela ne ferait pas un très bon porte-clés!
+Si tu as imprimé en 3D le modèle que tu as créé maintenant, tu obtiendras cinq lettres séparées, car elles ne sont pas reliées ensemble. Cela ne ferait pas un très bon porte-clés !
 
 
 	
