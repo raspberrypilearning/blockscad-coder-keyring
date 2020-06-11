@@ -1,24 +1,24 @@
-## Save your project
+## احفظ مشروعك
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+العنوان: ليس لدي حساب BlocksCAD
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+لحفظ مشروعك، انقر على **مشروع** في شريط القوائم وأختر **حفظ الكتل إلى جهاز الكمبيوتر الخاص بك **.
 
-Give your project a recognisable name and remember where you save it.
+أعطِ مشروعك اسماً يمكنك التعرف عليه وتذكر أين مكان حفظه.
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+يمكنك بعد ذلك استخدام **تحميل الكتل البرمجية من جهاز الكمبيوتر الخاص بك ** لفتح المشروع الذي قمت بحفظه ومواصلة العمل عليه.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+العنوان: لدي حساب BlocksCAD
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+إذا كان لديك حساب BlocksCAD وأنت مسجل الدخول، فيمكنك النقر على **مشروع** في شريط القائمة وتحديد **حفظ **. هذا يحفظ مشروعك على الإنترنت حتى تتمكن من الوصول إليه من أي كمبيوتر.
 
 --- /collapse ---
 
