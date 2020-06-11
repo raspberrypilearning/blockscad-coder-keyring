@@ -1,26 +1,26 @@
-## 3D print your key ring
+## اطبع حلقة مفاتيحك بشكل ثلاثي الابعاد
 
-BlocksCAD can export an `.STL` file for 3D printing.
+BlocksCAD 3D يمكن تصدير ملف `.STL` للطباعة الثلاثية الأبعاد.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+قم بتقديم النموذج الخاص بك ثم اضغط **توليد STL**. تذكر أين قمت بحفظ ملف STL.
 
 --- /task --- --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer.
+هناك الكثير من الأدوات التي يمكنها قراءة ملفات STL وإرسال نماذج ثلاثية الأبعاد إلى طابعة.
 
-The one you choose will depend on the 3D printer that you are using.
-
---- /task --- --- task ---
-
-Carefully remove the 3D print from the print bed.
-
-![screenshot](images/coder-printed.png)
+الذي تختاره سيعتمد على الطابعة الثلاثية الأبعاد التي تستخدمها.
 
 --- /task --- --- task ---
 
-You might need to remove some small strands of filament to tidy up the print.
+قم بإزالة الطباعة ثلاثية الأبعاد بعناية من قاعدة الطباعة.
+
+![لقطة الشاشة](images/coder-printed.png)
+
+--- /task --- --- task ---
+
+قد تحتاج إلى إزالة بعض الشوائب الصغيرة من الفتيل(مادة الطباعة)لتنظيف الطباعة.
 
 --- /task ---
 
