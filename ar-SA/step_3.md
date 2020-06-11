@@ -1,64 +1,64 @@
-## Join the letters together
+## ربط الحروف مع بعضها البعض
 
-Next, you will join the letters together so that the key ring looks like this:
+بعد ذلك، ستنضم إلى الحروف معا حتى تبدو حلقة المفتاح هكذا:
 
-![screenshot](images/coder-letters-joined.png)
+![لقطة الشاشة](images/coder-letters-joined.png)
 
 --- task ---
 
-Change your code so that it only creates the letter 'C'.
+قم بتغيير التعليمات البرمجية الخاصة بك بحيث تقوم فقط بإنشاء الحرف 'C'.
 
-![screenshot](images/coder-c.png)
-
---- /task --- --- task ---
-
-The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'.
-
-![screenshot](images/coder-co.png)
-
-Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}.
-
-Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green.
+![لقطة الشاشة](images/coder-c.png)
 
 --- /task --- --- task ---
 
-Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place.
+الكتلة `اتحاد`{:class="blockscadsetops"} تربط الأشكال معا. ابدأ بالحرفين الأولين من "CODER".
 
-![screenshot](images/coder-same-place.png)
+![لقطة الشاشة](images/coder-co.png)
 
-You need to move the 'O' along the X axis so that it comes after the 'C'.
+الكتل مرقمة بالألوان. انظر تحت `تعيين الخيارات `{:class="blockscadsetops"} للعثور على `union`{:class="blockscadsetops"}.
 
---- /task --- --- task ---
-
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
-
-![screenshot](images/coder-translate.png)
-
-Now, the letters should be touching, but not on top of each other.
+لاحظ أن الكتلة `3D Text`{:class="blockscad3dshapes"} موجودة تحت `Text`{:class="blockscadstext"}، بالرغم من أنها خضراء.
 
 --- /task --- --- task ---
 
-Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+انقر فوق **Render** وسترى أن هناك مشكلة: 'C' و 'O' في نفس المكان.
+
+![لقطة الشاشة](images/coder-same-place.png)
+
+تحتاج إلى تحريك 'O' على طول المحور السيني بحيث يأتي بعد 'C'.
 
 --- /task --- --- task ---
 
-Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+إضافة كتلة `ترجمة `{:class="blockscadtransforms"} وضبط قيمة `X` إلى `10` لتحريك 'O' 10 مم على طول المحور السيني.
 
-![screenshot](images/coder-duplicate.png)
+![لقطة الشاشة](images/coder-translate.png)
 
---- /task --- --- task ---
-
-Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
-
-![screenshot](images/coder-d.png)
+الآن، يجب أن تكون الحروف ملامسة، ولكن ليس على رأس بعضها البعض.
 
 --- /task --- --- task ---
 
-Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place.
+انقر فوق الزر `[+]` على القالب `union`{:class="blockscadsetops"} لإضافة مساحة لكتلة أخرى.
+
+--- /task --- --- task ---
+
+انقر بالزر الأيمن على الكتلة `ترجمة `{:class="blockscadtransforms"} وحدد **تكرار ** لإنشاء نسخة.
+
+![لقطة الشاشة](images/coder-duplicate.png)
+
+--- /task --- --- task ---
+
+اسحب النسخة إلى القالب `union`{:class="blockscadsetops"} وقم بتغيير 'O' إلى 'D'.
+
+![لقطة الشاشة](images/coder-d.png)
+
+--- /task --- --- task ---
+
+قم بتغيير القيمة `X` من الكتلة الثانية `ترجمة `{:class="blockscadtransforms"} بحيث يكون 'D' في المكان الصحيح.
 
 --- hints --- --- hint ---
 
-Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'.
+فكر فيما قمت بتغييره لجعل "O" تنتقل إليه بعد "C". يبدأ "D" في نفس المكان الذي يبدأ فيه "C"، وتحتاج إلى نقله بعد "O".
 
 --- /hint --- --- hint ---
 
@@ -68,17 +68,17 @@ Think about what you changed to make the 'O' move to after the 'C'. The 'D' star
 
 --- /task --- --- task ---
 
-Now, add an 'E' and an 'R' to finish the word 'CODER'.
+الآن، أضف 'E' و 'R' لإنهاء كلمة 'CODER'.
 
-Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+تأكد من أن جميع الحروف ملامسة، وأنه لا توجد فجوات بين أي من الحروف.
 
 --- hints --- --- hint ---
 
-You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters.
+تحتاج إلى النقر على الكتلة `+` في `union`{:class="blockscadsetops"} لإضافة مساحة لحرفين آخرين.
 
 --- /hint --- --- hint ---
 
-You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+يمكنك تكرار التعليمات البرمجية التي استخدمتها لإنشاء 'D' ثم تغيير الحروف والقيم `X` .
 
 --- /hint --- --- hint ---
 
@@ -88,7 +88,7 @@ You can duplicate the code you used to create a 'D' and then change the letters 
 
 --- /task --- --- task ---
 
-Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
+انظر عن كثب - هل "E" و "R" مترابطان معًا؟ إذا لم تكن كذلك ، فأنت بحاجة إلى تعديل التعليمات البرمجية الخاصة بك.
 
 --- /task ---
 
