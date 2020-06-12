@@ -1,55 +1,55 @@
-## Introduction
+## Einleitung
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+In diesem Projekt verwendest du BlocksCAD, um einen 'CODER'-Schlüsselanhänger zu entwerfen, der in 3D gedruckt werden kann.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD ist ein 3D-Modelleditor, den du in einem Webbrowser auf einem Computer oder Tablet verwenden kannst. Du ziehst Codeblöcke per Drag & Drop, um 3D-Modelle zu entwerfen, die dann für den 3D-Druck exportiert werden können.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+Wenn Du Zugriff auf einen 3D-Drucker hast, kannst du den von dir entworfenen Schlüsselanhänger drucken. Der Schlüsselanhänger verbraucht nicht viel Filament (Druckmaterial) und ist klein und schnell zu drucken.
 
-### What you will make
+### Was du tun wirst
 
-The finished key ring looks like this:
+Der fertige Schlüsselanhänger sieht so aus:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![Screenshot](images/coder-keyring.png) ![Screenshot](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+Du kannst einen Schlüsselring in der Lücke zwischen dem 'C' und dem 'O' befestigen, um einen Schlüsselanhänger zu erhalten.
 
-The key ring will measure around 14mm by 50mm.
+Der Schlüsselanhänger misst etwa 14 mm x 50 mm.
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchst
 ---
 
 ### Hardware
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ Ein 3D-Drucker und Filament. Volltonfarben funktionieren am besten.
++ Ein Schlüsselring für die Herstellung des Schlüsselanhängers. Ein Schlüsselring mit 19 mm Durchmesser funktioniert gut.
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Dieses Projekt kann in einem Webbrowser mit BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"} abgeschlossen werden
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ Wie erstellt man ein einfaches 3D-Objekt, das 3D gedruckt werden kann
++ Wie man mit X-, Y- und Z-Achsen arbeitet
++ Wie man `verschieben` verwendet, um ein 3D-Objekt zu positionieren
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Zusätzliche Informationen für Pädagogen
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Lade den fertigen Projektcode unter [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get) herunter.
 
 --- /collapse ---
