@@ -1,24 +1,24 @@
-## Save your project
+## Sla je project op
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: Ik heb geen BlocksCAD-account
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+Om je project op te slaan, klik je op **Project** in de menubalk en selecteer **Save Blocks to your Computer** (blokken opslaan in je computer).
 
-Give your project a recognisable name and remember where you save it.
+Geef je project een herkenbare naam en onthoud waar je het opslaat.
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+Je kunt dan **Load Blocks from your Computer** (laad blokken vanaf je computer) gebruiken om het project te openen dat je hebt opgeslagen en er verder aan te werken.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: Ik heb een BlocksCAD-account
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+Als je een BlocksCAD-account hebt en je bent ingelogd, dan kun je klikken op **Project** in de menubalk en **Save** (opslaan) selecteren. Dit slaat je project online op, zodat je het vanaf elke computer kunt openen.
 
 --- /collapse ---
 
