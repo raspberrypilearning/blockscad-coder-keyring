@@ -1,36 +1,36 @@
-## Change thickness
+## Ändere die Dicke
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+Verändere als nächstes die Dicke der Buchstaben, um sie besser zu trennen und deinen Schlüsselanhänger zu verbessern.
 
 --- task ---
 
-The letters are currently 2mm thick.
+Die Buchstaben sind jetzt 2mm dick.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+Ändere die Dicke des 'C', 'D' und 'R', sodass sie 3 mm dick sind.
 
-![screenshot](images/coder-finished.png)
+![Screenshot](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+Ändere den Wert `dicke` für den Text.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+Ändere den `dicke` Wert für 'C', 'D' und 'R' auf `3`, sodass sie dicker als das 'O' und 'E' sind.
 
-![screenshot](images/coder-thickness.png)
+![Screenshot](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+Du kannst auf das farbige Quadrat klicken, um die Farbe deines Modells in der Ausgabeansicht zu ändern. Wenn du das Modell in 3D druckst, hängt die Farbe des Schlüsselanhängers von der Farbe des verwendeten Kunststoff-Filaments ab. Es hilft jedoch, verschiedene Farben in der Ausgabeansicht ausprobieren zu können.
 
-![screenshot](images/coder-colour.png)
+![Screenshot](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+Du kannst auch das Raster ein- und ausblenden. Probiere die anderen Schaltflächen aus und sieh, was sie tun.
 
-You can drag your model around to view it from different angles too.
+Du kannst dein Modell verschieben, um es auch aus verschiedenen Blickwinkeln anzusehen.
 
 --- /task ---
