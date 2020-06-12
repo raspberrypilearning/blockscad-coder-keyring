@@ -1,7 +1,7 @@
 ---
-title: 3D key ring
+title: 3D-Schlüsselanhänger
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
+description: Entwirf einen 'CODER'-Schlüsselanhänger, der in 3D gedruckt werden kann.
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
@@ -9,18 +9,18 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introduction
+    title: Einleitung
   - 
-    title: Create 3D text
+    title: Erstelle den 3D-Text
   - 
-    title: Join the letters together
+    title: Verbinde die Buchstaben miteinander
   - 
-    title: Change thickness
+    title: Ändere die Dicke
   - 
-    title: Save your project
+    title: Speichere dein Projekt
   - 
-    title: Challenges
+    title: Herausforderungen
   - 
-    title: 3D print your key ring
+    title: Drucke deinen Schlüsselanhänger in 3D
   - 
-    title: Assemble your key ring
+    title: Baue deinen Schlüsselanhänger zusammen
