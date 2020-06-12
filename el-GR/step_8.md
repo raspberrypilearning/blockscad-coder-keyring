@@ -1,16 +1,16 @@
-## Assemble your key ring
+## Συναρμολόγηση του μπρελόκ σου
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+Πάρε το δαχτυλίδι και το 3D εκτυπωμένο μπρελόκ:
 
-![screenshot](images/coder-splitring-keyring.png)
+![στιγμιότυπο οθόνης](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+Τοποθέτησε το δαχτυλίδι στο 3D εκτυπωμένο μπρελόκ:
 
-![screenshot](images/coder-keyring.png)
+![στιγμιότυπο οθόνης](images/coder-keyring.png)
 
 --- /task ---	
 
