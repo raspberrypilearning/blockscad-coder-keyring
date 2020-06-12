@@ -1,55 +1,55 @@
-## Introduction
+## Inleiding
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+In dit project gebruik je BlocksCAD om een 'CODER'-sleutelhanger te ontwerpen die 3D geprint kan worden.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD is een 3D-modeleditor die je kunt gebruiken in een webbrowser op een computer of tablet. Je sleept codeblokken en zet ze neer om 3D-modellen te ontwerpen die kunnen worden geëxporteerd voor 3D-printen.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+Als je toegang hebt tot een 3D-printer, dan kun je jouw sleutelring printen. De sleutelhanger gebruikt niet veel filament en is klein en snel te 3D printen.
 
-### What you will make
+### Wat ga je maken
 
-The finished key ring looks like this:
+De voltooide sleutelhanger ziet er als volgt uit:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![schermafbeelding](images/coder-keyring.png) ![schermafbeelding](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+Je kunt een splitring door de opening tussen de 'C' en de 'O' steken om een sleutelhanger te maken.
 
-The key ring will measure around 14mm by 50mm.
+De sleutelhanger meet ongeveer 14 mm bij 50 mm.
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ Een 3D-printer en filament. Effen kleuren werken het beste.
++ Een splitring voor het maken van de sleutelhanger. Een splitring met een diameter van 19 mm werkt goed.
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Dit project kan worden voltooid in een webbrowser met BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ Hoe je een eenvoudig 3D-object maakt dat 3D-geprint kan worden
++ Hoe te werken met X, Y en Z assen
++ Hoe `translate` te gebruiken om een 3D-object te positioneren
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Download de voltooide projectcode op: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
