@@ -1,24 +1,24 @@
-## Save your project
+## Αποθήκευσε το έργο σου
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: Δεν έχω λογαριασμό στο BlocksCAD
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+Για να αποθηκεύσεις το έργο σου, κάνε κλικ στο **Project** στο μενού και επίλεξε **Save Blocks to your Computer**.
 
-Give your project a recognisable name and remember where you save it.
+Δώσε στο έργο σου ένα αναγνωρίσιμο όνομα και θυμήσου πού το αποθηκεύεις.
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+Μπορείς μετά να χρησιμοποιήσεις το **Load Blocks from your Computer** για να ανοίξεις το έργο που έχεις σώσει και να συνεχίσεις να εργάζεσαι με αυτό.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: Έχω λογαριασμό στο BlocksCAD
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+Εάν έχεις λογαριασμό BlocksCAD και είσαι συνδεδεμένος, μπορείς να κάνεις κλικ στο **Project** στη γραμμή μενού και επίλεξε **Save**. Αυτό αποθηκεύει το έργο σου στο διαδίκτυο, ώστε να μπορείς να έχεις πρόσβαση σε αυτό από οποιονδήποτε υπολογιστή.
 
 --- /collapse ---
 
