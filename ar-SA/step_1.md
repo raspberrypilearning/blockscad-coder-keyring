@@ -28,7 +28,7 @@ title: ما ستحتاج إليه
 
 ### البرامج
 
-+ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/المحرر/](https://www.blockscad3d.com/editor){: target = "_ blank"}
++ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/المحرر/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
@@ -39,7 +39,7 @@ title: ما الذي سوف تتعلمه
 
 + كيفية إنشاء كائن بسيط ثلاثي الأبعاد يمكن طباعته بشكل ثلاثي الأبعاد
 + كيفية العمل مع محاور X, Y و Z
-+ كيفية استخدام `ترجمة ` لوضع كائن ثلاثي الأبعاد
++ كيفية استخدام `ترجمة` لوضع كائن ثلاثي الأبعاد
 
 --- /collapse ---
 
@@ -48,7 +48,7 @@ title: ما الذي سوف تتعلمه
 title: معلومات إضافية للمعلمين
 ---
 
-اذا كنت ترغب بطباعة هذا المشروع، الرجاء استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/blockscad-coder-keyring/print){:target="_blank"}.
+اذا كنت ترغب بطباعة هذا المشروع، الرجاء استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/blockscad-coder-keyring/print) {:target="_blank"}.
 
 قم بتنزيل الكود البرمجي للمشروع النهائي من [http://rpf.io/p/ar-SA/blockscad-coder-keyring-get](http://rpf.io/p/ar-SA/blockscad-coder-keyring-get).
 

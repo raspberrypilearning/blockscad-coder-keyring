@@ -12,17 +12,17 @@
 
 --- /task --- --- task ---
 
-الكتلة `اتحاد`{:class="blockscadsetops"} تربط الأشكال معا. ابدأ بالحرفين الأولين من "CODER".
+الكتلة `union`{:class="blockscadsetops"} تربط الأشكال معا. ابدأ بالحرفين الأولين من "CODER".
 
 ![لقطة الشاشة](images/coder-co.png)
 
-الكتل مرقمة بالألوان. انظر تحت `تعيين الخيارات `{:class="blockscadsetops"} للعثور على `union`{:class="blockscadsetops"}.
+الكتل مرقمة بالألوان. انظر تحت `Set Ops`{:class="blockscadsetops"} للعثور على `union`{:class="blockscadsetops"}.
 
 لاحظ أن الكتلة `3D Text`{:class="blockscad3dshapes"} موجودة تحت `Text`{:class="blockscadstext"}، بالرغم من أنها خضراء.
 
 --- /task --- --- task ---
 
-انقر فوق Render وسترى أن هناك مشكلة: 'C' و 'O' في نفس المكان.
+انقر فوق **Render** وسترى أن هناك مشكلة: 'C' و 'O' في نفس المكان.
 
 ![لقطة الشاشة](images/coder-same-place.png)
 
@@ -30,7 +30,7 @@
 
 --- /task --- --- task ---
 
-إضافة كتلة `ترجمة `{:class="blockscadtransforms"} وضبط قيمة `X` إلى `10` لتحريك 'O' 10 مم على طول المحور السيني.
+قم بإضافة كتلة `translate`{:class="blockscadtransforms"} وضبط قيمة `X` إلى `10` لتحريك الحرف 'O'١٠مم على طول المحور السيني.
 
 ![لقطة الشاشة](images/coder-translate.png)
 
@@ -42,7 +42,7 @@
 
 --- /task --- --- task ---
 
-انقر بالزر الأيمن على الكتلة `ترجمة `{:class="blockscadtransforms"} وحدد تكرار  لإنشاء نسخة.
+انقر بالزر الأيمن على الكتلة `translate`{:class="blockscadtransforms"} وحدد **Duplicate** لإنشاء نسخة.
 
 ![لقطة الشاشة](images/coder-duplicate.png)
 
@@ -54,7 +54,7 @@
 
 --- /task --- --- task ---
 
-قم بتغيير القيمة `X` من الكتلة الثانية `ترجمة `{:class="blockscadtransforms"} بحيث يكون 'D' في المكان الصحيح.
+قم بتغيير القيمة `X` من الكتلة الثانية `translate`{:class="blockscadtransforms"} بحيث يكون 'D' في المكان الصحيح.
 
 --- hints ---
  --- hint ---
