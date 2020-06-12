@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## Uitdaging: maak een sleutelhanger met je naam
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+Maak nu een 3D-tekstsleutelhanger of -badge met jouw naam of een ander woord of een korte zin.
 
 Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
++ Zorg ervoor dat alle letters gekoppeld worden
++ Zorg ervoor dat de achterkant van je sleutelhanger plat en egaal is, anders wordt het erg moeilijk om te printen
 
-Here's an example:
+Hier is een voorbeeld:
 
-![screenshot](images/coder-grace.png)
+![schermafbeelding](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## Uitdaging: maak een sleutelhanger met verticale letters
 
-Create a key ring where the letters line up vertically instead of horizontally.
+Maak een sleutelhanger waarbij de letters verticaal in plaats van horizontaal aansluiten.
 
-Here's an example:
+Hier is een voorbeeld:
 
-![screenshot](images/coder-vertical.png)
+![schermafbeelding](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+Deze keer moet je de `translate` van de letters langs de Y-as doen.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## Uitdaging: voeg een lus toe
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+Als er nergens is om een splitring aan het begin van je woord toe te voegen, dan kun je een kleinere letter 'o' toevoegen om een lus te maken.
 
-Here's an example:
+Hier is een voorbeeld:
 
-![screenshot](images/coder-loop.png)
+![schermafbeelding](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+Deze keer moet je `translate` van de 'o' langs de X- en Y-assen doen.
 
 --- /hint --- --- /hints ---
 
