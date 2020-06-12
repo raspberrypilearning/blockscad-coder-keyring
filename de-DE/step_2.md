@@ -1,46 +1,46 @@
-## Create 3D text
+## Erstelle den 3D-Text
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Öffne den BlocksCAD-Editor in einem Webbrowser. [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
+Du kannst Blöcke ziehen und ablegen um einen Code zu schreiben, der 3D-Objekte erstellt.
 
 --- /task ---
 
-First, use the 3D text tool to create some 3D letters.
+Benutze zuerst das 3D-Textwerkzeug, um einige 3D-Buchstaben zu erstellen.
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+Klicke auf `Text`{:class="blockscadtext"} und ziehe dann einen `3D-Text`{:class="blockscadtext"} Baustein auf die Leinwand.
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![Screenshot](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+Ändere die `3D-Text` Eingabe zu 'CODER'.
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![Screenshot](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+Klicke auf die **Rendern** Schaltfläche um zu sehen, wie es aussieht.
 
-![screenshot](images/coder-bigger.png)
+![Screenshot](images/coder-render.png)
 
-Click **Render** again to see the result.
+Beim Rendern wird ein Bild aus einem 3D-Modell erstellt, damit wir sehen können, wie es aussieht.
+
+--- /task --- --- task ---
+
+Um die Buchstaben zu vergrößern, ändere die `Größe` auf `20` — das bedeutet Schriftgröße 20.
+
+![Screenshot](images/coder-bigger.png)
+
+Klicke erneut auf **Rendern**, um das Ergebnis zu sehen.
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+Wenn du das jetzt erstellte Modell in 3D druckst, erhältst du fünf separate Buchstaben, da diese nicht miteinander verbunden sind. Das wäre kein sehr guter Schlüsselanhänger!
 
 
 	
