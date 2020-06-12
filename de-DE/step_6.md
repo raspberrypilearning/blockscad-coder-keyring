@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## Herausforderung: Erstelle einen Schlüsselanhänger mit deinem Namen
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+Erstelle jetzt einen 3D-Textschlüsselanhänger oder eine Plakette mit deinem Namen, einem anderen Wort oder einer kurzen Phrase.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+Tipps:
++ Stell sicher, dass sich alle Buchstaben berühren
++ Stell sicher, dass die Rückseite deines Schlüsselanhängers flach und gleichmäßig ist, da es sonst schwierig ist ihn zu drucken
 
-Here's an example:
+Hier ist ein Beispiel:
 
-![screenshot](images/coder-grace.png)
+![Screenshot](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## Herausforderung: Erstelle einen Schlüsselanhänger mit vertikalen Buchstaben
 
-Create a key ring where the letters line up vertically instead of horizontally.
+Erstelle einen Schlüsselanhänger, bei dem die Buchstaben vertikal statt horizontal ausgerichtet sind.
 
-Here's an example:
+Hier ist ein Beispiel:
 
-![screenshot](images/coder-vertical.png)
+![Screenshot](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+Dieses Mal musst du die Buchstaben entlang der Y-Achse `verschieben`.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## Herausforderung: Einen Ring hinzufügen
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+Wenn am Anfang deines Wortes kein Schlüsselring befestigt werden kann, kannst du ein kleines 'o' hinzufügen, um einen Ring zum Befestigen zu erstellen.
 
-Here's an example:
+Hier ist ein Beispiel:
 
-![screenshot](images/coder-loop.png)
+![Screenshot](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+Dieses Mal musst du die Buchstaben entlang der Y-Achse `verschieben`.
 
 --- /hint --- --- /hints ---
 
