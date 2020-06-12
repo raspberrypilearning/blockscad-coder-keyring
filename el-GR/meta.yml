@@ -1,7 +1,7 @@
 ---
-title: 3D key ring
+title: 3D μπρελόκ
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
+description: Σχεδίασε ένα μπρελόκ CODER που μπορεί να εκτυπωθεί ως 3D.
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
@@ -9,18 +9,18 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Create 3D text
+    title: Δημιουργία του κειμένου 3D
   - 
-    title: Join the letters together
+    title: Ένωση των γραμμάτων
   - 
-    title: Change thickness
+    title: Αλλαγή πάχους
   - 
-    title: Save your project
+    title: Αποθήκευση του έργου σου
   - 
-    title: Challenges
+    title: Προκλήσεις
   - 
-    title: 3D print your key ring
+    title: 3D εκτύπωση του μπρελόκ σου
   - 
-    title: Assemble your key ring
+    title: Συναρμολόγηση του μπρελόκ σου
