@@ -2,7 +2,7 @@
 
 --- task ---
 
-افتح محرر BlocksCAD في متصفح ويب [blockscad3d.com/محرر/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+افتح محرر BlocksCAD في متصفح ويب [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
 يمكنك سحب وإفلات الكتل البرمجية لكتابة التعليمات البرمجية لإنشاء كائنات ثلاثية الأبعاد.
 
@@ -12,13 +12,13 @@
 
 --- task ---
 
-انقر فوق `نص`{:class="blockscadtext"} ثم اسحب كتلة `نص ثلاثي الابعاد `{:class="blockscadtext"} إلى اللوحة.
+انقر فوق `Text`{:class="blockscadtext"} ثم اسحب كتلة `3D Text`{:class="blockscadtext"} إلى اللوحة.
 
 ![لقطة الشاشة](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-قم بتغيير النص ` ثلاثي الأبعاد ` إدخال ليقول "CODER".
+قم بتغيير إدخال النص ` 3D text` ليقول "CODER".
 
 ![لقطة الشاشة](images/coder-coder.png)
 
@@ -32,7 +32,7 @@
 
 --- /task --- --- task ---
 
-لجعل الحروف أكبر ، قم بتغيير `الحجم` إلى `20` - وهذا يعني حجم الخط 20.
+لجعل الحروف أكبر ، قم بتغيير `size` إلى `20` - وهذا يعني حجم الخط 20.
 
 ![لقطة الشاشة](images/coder-bigger.png)
 
