@@ -42,7 +42,7 @@ Haz clic en el botón `[+]` del bloque `unión`{:class="blockscadsetops"} para a
 
 --- /task --- --- task ---
 
-Haz clic en el botón derecho del ratón sobre el bloque `trasladar`{: class = "blockscadtransforms"} y selecciona ** Duplicar ** para crear una copia.
+Haz clic en el botón derecho del ratón sobre el bloque `trasladar`{:class="blockscadtransforms"} y selecciona **Duplicar** para crear una copia.
 
 ![captura de pantalla](images/coder-duplicate.png)
 
