@@ -1,16 +1,16 @@
-## Assemble your key ring
+## Monteer je sleutelhanger
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+Pak je splitring en 3D-geprinte sleutelhanger:
 
-![screenshot](images/coder-splitring-keyring.png)
+![schermafbeelding](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+Bevestig de splitring aan je 3D-geprinte sleutelhanger:
 
-![screenshot](images/coder-keyring.png)
+![schermafbeelding](images/coder-keyring.png)
 
 --- /task ---	
 
