@@ -1,26 +1,26 @@
-## 3D print your key ring
+## 3D print je sleutelhanger
 
-BlocksCAD can export an `.STL` file for 3D printing.
+BlocksCAD kan een `.STL` bestand voor 3D printen exporteren.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Render je model op en klik vervolgens op **Generate STL**. Onthoud waar je het STL-bestand opslaat.
 
 --- /task --- --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer.
+Er zijn veel tools die STL-bestanden kunnen lezen en 3D-modellen naar een printer kunnen sturen.
 
-The one you choose will depend on the 3D printer that you are using.
-
---- /task --- --- task ---
-
-Carefully remove the 3D print from the print bed.
-
-![screenshot](images/coder-printed.png)
+De keuze hangt af van de 3D-printer die je gebruikt.
 
 --- /task --- --- task ---
 
-You might need to remove some small strands of filament to tidy up the print.
+Verwijder voorzichtig de 3D-print van het printbed.
+
+![schermafbeelding](images/coder-printed.png)
+
+--- /task --- --- task ---
+
+Mogelijk moet je enkele kleine draadjes filament verwijderen om de print netjes te maken.
 
 --- /task ---
 
