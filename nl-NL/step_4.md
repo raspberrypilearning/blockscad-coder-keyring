@@ -1,36 +1,36 @@
-## Change thickness
+## Verander de dikte
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+Wissel vervolgens de dikte van de letters af om ze te scheiden en om je sleutelhanger nog beter te maken.
 
 --- task ---
 
-The letters are currently 2mm thick.
+De letters zijn momenteel 2mm dik.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+Verander de dikte van de 'C', 'D' en 'R' zodat ze 3mm dik zijn.
 
-![screenshot](images/coder-finished.png)
+![schermafbeelding](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+Wijzig de `thickness` waarde van de tekst.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+Wijzig de `thickness` waarde voor de 'C', 'D' en 'R' in `3`zodat ze dikker zijn dan de 'O' en 'E'.
 
-![screenshot](images/coder-thickness.png)
+![schermafbeelding](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+Je kunt op het gekleurde vierkant klikken om de kleur van je model in de uitvoerweergave te wijzigen. Als je het model 3D print, hangt de kleur van de sleutelhanger af van de kleur van het plastic filament dat je gebruikt, maar het is handig om verschillende kleuren uit te kunnen proberen in de uitvoerweergave.
 
-![screenshot](images/coder-colour.png)
+![schermafbeelding](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+Je kunt ook het raster tonen en verbergen. Probeer de andere knoppen en kijk wat ze doen.
 
-You can drag your model around to view it from different angles too.
+Je kunt je model rondslepen om het ook vanuit verschillende hoeken te bekijken.
 
 --- /task ---
