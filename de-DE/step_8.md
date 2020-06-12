@@ -1,16 +1,16 @@
-## Assemble your key ring
+## Bau deinen Schlüsselanhänger zusammen
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+Nimm dir deinen Schlüsselring und den 3D-gedruckten Schlüsselanhänger:
 
-![screenshot](images/coder-splitring-keyring.png)
+![Screenshot](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+Befestige den Schlüsselring an deinem 3D-gedruckten Schlüsselanhänger:
 
-![screenshot](images/coder-keyring.png)
+![Screenshot](images/coder-keyring.png)
 
 --- /task ---	
 
