@@ -10,7 +10,7 @@ Si tienes acceso a una impresora 3D, podrás imprimir el llavero. El llavero no 
 
 El llavero terminado tiene este aspecto:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![captura de pantalla](images/coder-keyring.png) ![captura de pantalla](images/coder-keyring.png)
 
 Puedes colocar una argolla a través del espacio entre la 'C' y la 'O' para hacer un llavero.
 
@@ -23,33 +23,33 @@ title: Lo que necesitarás
 
 ### Hardware
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ Una impresora 3D y filamento. Los colores sólidos funcionan mejor.
++ Una argolla para hacer el llavero. Una de 19 mm de diámetro funciona bien.
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Este proyecto se puede completar en un navegador web usando BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Lo que vas a aprender
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ Cómo crear un objeto 3D sencillo que se pueda imprimir en 3D
++ Cómo trabajar con los ejes X, Y y Z
++ Cómo usar `trasladar` para posicionar un objeto 3D
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Información adicional para educadores
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Descarga el código del proyecto terminado en [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
