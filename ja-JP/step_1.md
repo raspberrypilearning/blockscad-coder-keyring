@@ -1,55 +1,55 @@
-## Introduction
+## はじめに
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+このプロジェクトではBlocksCADを使用して、3Dプリントできる「CODER」(コーダー) キーホルダーを設計 (せっけい) します。
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCADは、コンピューターまたはタブレットのウェブブラウザで使用できる3Dモデルエディターです。 コードブロックをドラッグ&ドロップして、3Dプリント用にエクスポートできる3Dモデルを設計します。
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+3Dプリンターが使える場合は、キーホルダーを3Dプリントできます。 キーリングはフィラメントをあまり使わず、小さいので速く3Dプリントできます。
 
-### What you will make
+### 作るもの
 
-The finished key ring looks like this:
+完成 (かんせい) したキーホルダーはこのようになります。
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![スクリーンショット](images/coder-keyring.png) ![スクリーンショット](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+「C」と「O」のすきまにダブルリングを入れて、キーホルダーを作ることができます。
 
-The key ring will measure around 14mm by 50mm.
+キーホルダーの大きさは大体14mm x 50mmです。
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要 (ひつよう) なもの
 ---
 
-### Hardware
+### ハードウェア
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ 3Dプリンターとフィラメント。 単色 (たんしょく) が向いています。
++ キーホルダー用のダブルリング。 直径 (ちょっけい) 19mm のダブルリングがぴったりです。
 
-### Software
+### ソフトウェア
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ このプロジェクトは、 BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}を使用してウェブブラウザ上で完成させることができます。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 学ぶこと
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ 3Dプリントできるシンプルな3Dオブジェクトを作る方法
++ X、Y、Z軸 (じく) の使い方
++ `移動` (いどう) を使った3Dオブジェクトを配置 (はいち) する方法
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 教育者向けの追加情報
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/ja-JP/projects/blockscad-coder-keyring/print){:target="_ blank"}を使用してください。
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+完成したプロジェクトコードは [http://rpf.io/p/ja-JP/blockscad-coder-keyring-get](http://rpf.io/p/ja-JP/blockscad-coder-keyring-get)からダウンロードできます。
 
 --- /collapse ---
