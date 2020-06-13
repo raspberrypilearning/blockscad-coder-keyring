@@ -1,10 +1,10 @@
-## Change thickness
+## Cambia el grosor
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+A continuación, alternaremos el grosor de las letras para ayudar a separarlas, y mejorar aún más nuestro llavero.
 
 --- task ---
 
-The letters are currently 2mm thick.
+Las letras tienen actualmente 2 mm de grosor.
 
 Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
 
