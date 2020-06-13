@@ -6,17 +6,17 @@ A continuación, alternaremos el grosor de las letras para ayudar a separarlas, 
 
 Las letras tienen actualmente 2 mm de grosor.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+Cambia el grosor de 'C', 'D' y 'R' para que tengan un grosor de 3 mm.
 
 ![screenshot](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+Cambiar el valor de `grosor` para el texto.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+Cambia el valor de `grosor` para 'C', 'D', y 'R' a `3` para que sean más gruesas que 'O' y 'E'.
 
 ![screenshot](images/coder-thickness.png)
 
@@ -25,7 +25,7 @@ Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are t
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+Puedes hacer clic en el cuadrado coloreado para cambiar el color del modelo en la pantalla. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
 
 ![screenshot](images/coder-colour.png)
 
