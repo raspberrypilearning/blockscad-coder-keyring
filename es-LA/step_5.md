@@ -1,24 +1,24 @@
-## Save your project
+## Guarda tu proyecto
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: no tengo una cuenta de BlocksCAD
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+Para guardar el proyecto, haz clic en **Proyecto** en la barra de menú y selecciona **Guardar bloques en tu computadora**.
 
-Give your project a recognisable name and remember where you save it.
+Dale a tu proyecto un nombre reconocible y recuerda dónde lo guardas.
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+Luego puedes usar **Cargar bloques desde su computadora ** para abrir el proyecto que has guardado y continuar trabajando en él.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: tengo una cuenta de BlocksCAD
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+Si tienes una cuenta de BlocksCAD y has iniciado sesión, puedes hacer clic en **Proyecto** en la barra de menú y seleccionar **Guardar**. Esto guardará tu proyecto en línea para que puedas acceder a él desde cualquier computadora.
 
 --- /collapse ---
 
