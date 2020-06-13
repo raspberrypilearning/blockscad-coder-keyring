@@ -54,7 +54,7 @@
 
 --- /task --- --- task ---
 
-Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place.
+2つ目の`移動`{:class="blockscadtransforms"}ブロックの`X`の値をかえて、「D」が正しい場所に来るようにします。
 
 --- hints --- --- hint ---
 
