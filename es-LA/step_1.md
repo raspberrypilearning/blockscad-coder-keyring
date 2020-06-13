@@ -1,24 +1,24 @@
-## Introduction
+## Introducción
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+En este proyecto, utilizarás BlocksCAD para diseñar un llavero con la palabra "CODER" que se pueda imprimir en 3D.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD es un editor de modelos en 3D que se puede usar en un navegador web, en una computadora o en una tableta. Puedes arrastrar y soltar bloques de código para diseñar modelos 3D que se pueden exportar para la impresión en 3D.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+Si tienes acceso a una impresora 3D, podrás imprimir el llavero. El llavero no usa mucho filamento y es pequeño y rápido para imprimir en 3D.
 
-### What you will make
+### Lo que harás
 
-The finished key ring looks like this:
+El llavero terminado tiene este aspecto:
 
 ![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+Puedes colocar una argolla a través del espacio entre la 'C' y la 'O' para hacer un llavero.
 
-The key ring will measure around 14mm by 50mm.
+El llavero medirá alrededor de 14 mm por 50 mm.
 
 --- collapse ---
 ---
-title: What you will need
+title: Lo que necesitarás
 ---
 
 ### Hardware
