@@ -1,24 +1,24 @@
-## Save your project
+## プロジェクトを保存 (ほぞん) する
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: BlocksCADのアカウントを持っていない場合
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+プロジェクトを保存するには、メニューバーの**プロジェクト**をクリックし、**保存ファイルをダウンロード**をえらびます。
 
-Give your project a recognisable name and remember where you save it.
+プロジェクトにわかりやすい名前をつけ、保存する場所をおぼえておきましょう。
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+作業をまたはじめるには、**ファイルの読み込み**から保存したプロジェクトを開きます。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: BlocksCADのアカウントを持っている場合
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+BlocksCADアカウントがあってログインしている場合は、メニューバーから**プロジェクト**をクリックし、**保存**をえらびます。 これによりプロジェクトがオンラインに保存され、どのコンピューターからでもアクセスできるようになります。
 
 --- /collapse ---
 
