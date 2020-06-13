@@ -1,26 +1,26 @@
-## 3D print your key ring
+## キーホルダーを3Dプリントする
 
-BlocksCAD can export an `.STL` file for 3D printing.
+BlocksCADは3Dプリント用の`.STL`ファイルをエクスポートできます。
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+モデルをレンダリングし、**ファイルを作成 STL**をクリックします。 STLファイルを保存する場所をおぼえておきましょう。
 
 --- /task --- --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer.
+STLファイルを読みこんで3Dモデルをプリンターに送信できるツールはたくさんあります。
 
-The one you choose will depend on the 3D printer that you are using.
-
---- /task --- --- task ---
-
-Carefully remove the 3D print from the print bed.
-
-![screenshot](images/coder-printed.png)
+どのツールにするかは使う3Dプリンターによります。
 
 --- /task --- --- task ---
 
-You might need to remove some small strands of filament to tidy up the print.
+3Dプリントが終わったら、プリントベッドからしんちょうに取りはずします。
+
+![スクリーンショット](images/coder-printed.png)
+
+--- /task --- --- task ---
+
+小さなバリを取りのぞいて形を整える必要があるかもしれません。
 
 --- /task ---
 
