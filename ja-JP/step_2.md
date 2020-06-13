@@ -1,46 +1,46 @@
-## Create 3D text
+## 3Dテキストを作る
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+ウェブブラウザでBlocksCADエディターを開きます。 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
-You can drag and drop blocks to write code to create 3D objects.
+ブロックをドラッグ&ドロップして、3Dオブジェクトを作成するコードを書くことができます。
 
 --- /task ---
 
-First, use the 3D text tool to create some 3D letters.
+まず、3Dテキストツールを使用して3D文字を作成します。
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+`テキスト`{:class="blockscadtext"}をクリックし、キャンバスに`3Dテキスト`{:class="blockscadtext"}ブロックをドラッグします。
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![スクリーンショット](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+`3Dテキスト`を「CODER」にします。
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![スクリーンショット](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+**レンダリング**ボタンをクリックして、どのようなものができたか見てみましょう。
 
-![screenshot](images/coder-bigger.png)
+![スクリーンショット](images/coder-render.png)
 
-Click **Render** again to see the result.
+レンダリングとは、3Dモデルからイメージを作成し、それがどのように見えるかをかくにんできるようにするプロセスです。
+
+--- /task --- --- task ---
+
+文字を大きくするには、`高さ`を`20`にかえます。これはフォントサイズが20という意味です。
+
+![スクリーンショット](images/coder-bigger.png)
+
+もう一度**レンダリング**をクリックしてみましょう。
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+今作成したモデルを3Dプリントすると、つながっていないので5つのバラバラの文字が出てきます。 これでは、あまりいいキーホルダーにはなりませんね！
 
 
 	
