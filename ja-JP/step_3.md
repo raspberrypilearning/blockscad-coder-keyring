@@ -1,56 +1,56 @@
-## Join the letters together
+## 文字をつなげる
 
-Next, you will join the letters together so that the key ring looks like this:
+次に、キーホルダーがこんな感じになるように文字をつなげます。
 
-![screenshot](images/coder-letters-joined.png)
+![スクリーンショット](images/coder-letters-joined.png)
 
 --- task ---
 
-Change your code so that it only creates the letter 'C'.
+文字「C」のみを作成するようにコードをかえます。
 
-![screenshot](images/coder-c.png)
-
---- /task --- --- task ---
-
-The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'.
-
-![screenshot](images/coder-co.png)
-
-Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}.
-
-Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green.
+![スクリーンショット](images/coder-c.png)
 
 --- /task --- --- task ---
 
-Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place.
+`和`{:class="blockscadsetops"}ブロックは形をつなぎ合わせるブロックです。 「CODER」のはじめの2文字から始めましょう。
 
-![screenshot](images/coder-same-place.png)
+![スクリーンショット](images/coder-co.png)
 
-You need to move the 'O' along the X axis so that it comes after the 'C'.
+ブロックは色分けされています。 `和`{:class="blockscadsetops"}ブロックは`オプション`{:class="blockscadsetops"}にあります。
 
---- /task --- --- task ---
-
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
-
-![screenshot](images/coder-translate.png)
-
-Now, the letters should be touching, but not on top of each other.
+`3Dテキスト`{:class="blockscad3dshapes"}ブロックは緑色ですが、`テキスト`{:class="blockscadstext"}にあります。
 
 --- /task --- --- task ---
 
-Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+**レンダリング**をクリックすると、「C」と「O」が同じ場所にあるという問題が見つかります。
+
+![スクリーンショット](images/coder-same-place.png)
+
+「C」の後に来るように、「O」をX軸 (じく) にそって動かす必要があります。
 
 --- /task --- --- task ---
 
-Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+`移動`{:class="blockscadtransforms"} (いどう) ブロックを追加 (ついか) します。`X`の値 (あたい) を`10`にして、「O」をX軸にそって10mm動かします。
 
-![screenshot](images/coder-duplicate.png)
+![スクリーンショット](images/coder-translate.png)
+
+これで文字はくっついていますが、重なってはいません。
 
 --- /task --- --- task ---
 
-Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
+`和`{:class="blockscadsetops"}ブロックの`[+]`ボタンをクリックして、べつのブロックのスペースを追加します。
 
-![screenshot](images/coder-d.png)
+--- /task --- --- task ---
+
+`移動`{:class="blockscadtransforms"}ブロックを右クリックし、**複製** (ふくせい) をえらんでブロックのコピーを作ります。
+
+![スクリーンショット](images/coder-duplicate.png)
+
+--- /task --- --- task ---
+
+コピーしたブロックを`和`{:class="blockscadsetops"}ブロックにドラッグし、「O」を「D」にかえます。
+
+![スクリーンショット](images/coder-d.png)
 
 --- /task --- --- task ---
 
@@ -58,7 +58,7 @@ Change the `X` value of the second `translate`{:class="blockscadtransforms"} blo
 
 --- hints --- --- hint ---
 
-Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'.
+「C」の後ろに「O」を移動させるために何をしましたか？ 「D」は始めは「C」と同じ場所にあり、「O」の後ろに移動する必要があります。
 
 --- /hint --- --- hint ---
 
@@ -68,17 +68,17 @@ Think about what you changed to make the 'O' move to after the 'C'. The 'D' star
 
 --- /task --- --- task ---
 
-Now, add an 'E' and an 'R' to finish the word 'CODER'.
+次に、「E」と「R」を追加して「CODER」という単語を完成させます。
 
-Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+すべての文字がすきまなく、くっついていることをたしかめましょう。
 
 --- hints --- --- hint ---
 
-You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters.
+`和`{:class="blockscadsetops"}ブロックの`[+]`ボタンをクリックして、2文字分のブロックのスペースを追加します。
 
 --- /hint --- --- hint ---
 
-You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+「D」を作るのに使ったコードを複製し、文字と`X`の値をかえることができます。
 
 --- /hint --- --- hint ---
 
@@ -88,7 +88,7 @@ You can duplicate the code you used to create a 'D' and then change the letters 
 
 --- /task --- --- task ---
 
-Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
+「E」と「R」がくっついているかよく見てみましょう。 くっついていない場合は、コードを調整する必要があります。
 
 --- /task ---
 
