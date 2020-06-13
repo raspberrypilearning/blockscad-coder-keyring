@@ -1,16 +1,16 @@
-## Assemble your key ring
+## Arma tu llavero
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+Consigue la argolla y el llavero impreso en 3D:
 
-![screenshot](images/coder-splitring-keyring.png)
+![captura de pantalla](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+Engancha la argolla a tu llavero impreso en 3D:
 
-![screenshot](images/coder-keyring.png)
+![captura de pantalla](images/coder-keyring.png)
 
 --- /task ---	
 
