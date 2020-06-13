@@ -1,22 +1,22 @@
-## Change thickness
+## 厚さ (あつさ) をかえる
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+文字の太さを1文字ごとにかえると見分けやすくなるので、キーホルダーがもっと良くなります。
 
 --- task ---
 
-The letters are currently 2mm thick.
+今、文字の厚さは2mmです。
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+「C」、「D」、「R」の厚みを3mmになるようにかえます。
 
 ![screenshot](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+テキストの`厚さ`の値をかえます。
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+「C」、「D」、「R」の`厚さ`の値を`3`にして、「O」や「E」よりも厚くします。
 
 ![screenshot](images/coder-thickness.png)
 
@@ -25,7 +25,7 @@ Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are t
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+色のついた四角い部分をクリックすると、出力ビューでモデルの色をかえることができます。 If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
 
 ![screenshot](images/coder-colour.png)
 
