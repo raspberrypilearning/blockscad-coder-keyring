@@ -1,16 +1,16 @@
-## Assemble your key ring
+## キーホルダーを組み立てる
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+ダブルリングと3Dプリントしたキーホルダーを用意します。
 
-![screenshot](images/coder-splitring-keyring.png)
+![スクリーンショット](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+ダブルリングをキーホルダーに取りつけます。
 
-![screenshot](images/coder-keyring.png)
+![スクリーンショット](images/coder-keyring.png)
 
 --- /task ---	
 
