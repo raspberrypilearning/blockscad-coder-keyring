@@ -1,7 +1,7 @@
 ---
-title: 3D key ring
+title: 3Dキーホルダー
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
+description: 3Dプリントできる「CODER」(コーダー) キーホルダーを設計 (せっけい) しよう
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
@@ -9,18 +9,18 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Create 3D text
+    title: 3Dテキストを作る
   - 
-    title: Join the letters together
+    title: 文字をつなげる
   - 
-    title: Change thickness
+    title: 厚さ (あつさ) をかえる
   - 
-    title: Save your project
+    title: プロジェクトを保存 (ほぞん) する
   - 
-    title: Challenges
+    title: チャレンジ
   - 
-    title: 3D print your key ring
+    title: キーホルダーを3Dプリントする
   - 
-    title: Assemble your key ring
+    title: キーホルダーを組み立てる
