@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## チャレンジ：自分の名前でキーホルダーを作ろう
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+自分の名前や他の単語、短いフレーズを使って、3Dテキストキーホルダーまたはバッジを作りましょう。
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+注意点
++ すべての文字がくっついていることをたしかめましょう。
++ キーホルダーのうらが平らでまっすぐであることをたしかめましょう。そうでないと3Dプリントがとてもむずかしくなってしまいます。
 
-Here's an example:
+以下に例を示します：
 
-![screenshot](images/coder-grace.png)
+![スクリーンショット](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## チャレンジ：たて書きでキーホルダーを作ろう
 
-Create a key ring where the letters line up vertically instead of horizontally.
+文字が横ではなくたてにならぶキーホルダーを作りましょう。
 
-Here's an example:
+以下に例を示します：
 
-![screenshot](images/coder-vertical.png)
+![スクリーンショット](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+今回は、Y軸にそって文字を`移動`する必要があります。
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## チャレンジ：わっかをつける
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+単語のはじめにダブルリングをつける場所がない場合は、小文字の「o」をわっかとしてくっつけることができます。
 
-Here's an example:
+以下に例を示します：
 
-![screenshot](images/coder-loop.png)
+![スクリーンショット](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+今回は、X軸とY軸にそって「o」を`移動`する必要があります。
 
 --- /hint --- --- /hints ---
 
