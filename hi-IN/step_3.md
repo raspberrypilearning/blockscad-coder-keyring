@@ -1,94 +1,94 @@
-## Join the letters together
+## अक्षरों को साथ जोड़े
 
-Next, you will join the letters together so that the key ring looks like this:
+इसके बाद, आप अक्षरों को एक साथ जोड़ देंगे ताकि चाबी का छल्ला इस तरह दिखे:
 
-![screenshot](images/coder-letters-joined.png)
+![स्क्रीनशॉट](images/coder-letters-joined.png)
 
 --- task ---
 
-Change your code so that it only creates the letter 'C'.
+अपना कोड बदलें ताकि यह केवल 'C' अक्षर का निर्माण करे।
 
-![screenshot](images/coder-c.png)
-
---- /task --- --- task ---
-
-The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'.
-
-![screenshot](images/coder-co.png)
-
-Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}.
-
-Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green.
+![स्क्रीनशॉट](images/coder-c.png)
 
 --- /task --- --- task ---
 
-Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place.
+`union`{:class="blockcadsetops"} ब्लॉक आकृतियों को एक साथ जोड़ता है। ‘CODER’ के पहले दो अक्षरों से शुरू करें।
 
-![screenshot](images/coder-same-place.png)
+![स्क्रीनशॉट](images/coder-co.png)
 
-You need to move the 'O' along the X axis so that it comes after the 'C'.
+ब्लॉक कलर-कोडेड हैं। `Set Ops`{:class="blockcadsetops"} के नीचे `union`{:class="blockscadsetops"} को खोजे।
 
---- /task --- --- task ---
-
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
-
-![screenshot](images/coder-translate.png)
-
-Now, the letters should be touching, but not on top of each other.
+ध्यान दें कि `3D Text`{:class="blockcad3dshapes"} ब्लॉक `Text`{:class="blockcadstext"} के नीचे ही मिलेगा, भले ही वह हरा हो।
 
 --- /task --- --- task ---
 
-Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+**Render** पर क्लिक करें और आप देखेंगे कि एक समस्या है: 'C' और 'O' एक ही स्थान पर हैं।
+
+![स्क्रीनशॉट](images/coder-same-place.png)
+
+आपको ‘O’ को X-axis(अक्ष) के साथ स्थानांतरित करने की आवश्यकता है ताकि वह 'C’ के बाद आए।
 
 --- /task --- --- task ---
 
-Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+एक `translate`{:class="blockscadtransforms"} ब्लॉक जोड़ें और `X` के मान को `10` पर सेट करे जिससे 'O' को X-Axis के साथ 10mm स्थानांतरित कर सके।
 
-![screenshot](images/coder-duplicate.png)
+![स्क्रीनशॉट](images/coder-translate.png)
 
---- /task --- --- task ---
-
-Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
-
-![screenshot](images/coder-d.png)
+अब, अक्षरों को आपस में स्पर्श करना चाहिए, लेकिन एक दूसरे के ऊपर नही होने चाहिए ।
 
 --- /task --- --- task ---
 
-Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place.
+एक और ब्लॉक के लिए जगह बनाने के लिए `union`{:class="blockcadsetops"} ब्लॉक पर मौजूद `[+]` पर क्लिक करे।
+
+--- /task --- --- task ---
+
+एक और प्रति बनाने के लिए `translate`{:class="blockscadtransforms"} ब्लॉक पर राइट-क्लिक करें और **Duplicate** को चुने ।
+
+![स्क्रीनशॉट](images/coder-duplicate.png)
+
+--- /task --- --- task ---
+
+कॉपी को `union`{:class="blockscadsetops"} ब्लॉक मे खींचे और 'O' को 'D' में बदलें।
+
+![स्क्रीनशॉट](images/coder-d.png)
+
+--- /task --- --- task ---
+
+दूसरे `translate`{:class="blockscadtransforms"} ब्लॉक मे `X` के मान(value) को बदले ताकि 'D' सही जगह पर आ जाए।
 
 --- hints --- --- hint ---
 
-Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'.
+इस बारे में सोचें कि आपने ‘O’ को 'C’ के बाद पहुँचाने के लिए क्या बदला। 'D' उसी स्थान से शुरू होता है जहाँ से 'C', और आपको इसे 'O' के बाद ले जाने है।
 
 --- /hint --- --- hint ---
 
-    ![screenshot](images/coder-d-hint.png)
+    ![स्क्रीनशॉट](images/coder-d-hint.png)
 
 --- /hint --- --- /hints ---
 
 --- /task --- --- task ---
 
-Now, add an 'E' and an 'R' to finish the word 'CODER'.
+अब 'CODER' शब्द को समाप्त करने के लिए 'E' और 'R' जोड़ें।
 
-Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+यह सुनिश्चित करें कि सभी letters आपस में स्पर्श कर रहे हैं और अक्षरों के बीच कोई जगह नहीं है।
 
 --- hints --- --- hint ---
 
-You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters.
+दो और अक्षरों की जगह बनाने के लिए `union`{:class="blockscadsetops"} ब्लॉक पर मौजूद `[+]` पर क्लिक करे।
 
 --- /hint --- --- hint ---
 
-You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+आप उस कोड को दोबारा प्रयोग कर सकते हैं जिसका उपयोग आपने 'D' बनाने के लिए किया था, पर अक्षरों और `X` की मान(value) को बदले।
 
 --- /hint --- --- hint ---
 
-    ![screenshot](images/coder-hint-er.png)
+    ![स्क्रीनशॉट](images/coder-hint-er.png)
 
 --- /hint --- --- /hints ---
 
 --- /task --- --- task ---
 
-Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
+बारीकी से देखें - क्या 'E’ और 'R’ एक साथ जुड़े हुए हैं? यदि वे नहीं हैं, तो आपको अपना कोड ठीक करने की आवश्यकता है।
 
 --- /task ---
 
