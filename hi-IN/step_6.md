@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## चुनौती: अपने नाम के साथ एक चाबी का छल्ला बनाएँ
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+अब, अपने नाम या किसी अन्य शब्द या छोटे वाक्यांश के साथ एक 3D Text या बैज(badge) बनाएं।
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+सलाह:
++ सुनिश्चित करें कि सभी अक्षरे जुड़े हों
++ सुनिश्चित करें कि आपकी keying का पिछला हिस्सा सपाट और एकसार हो अन्यथा इसे प्रिंट करना बहुत मुश्किल होगा
 
-Here's an example:
+यहाँ एक उदाहरण है:
 
-![screenshot](images/coder-grace.png)
+![स्क्रीनशॉट](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## चुनौती: खड़े अक्षरों के साथ एक चाबी का छल्ला बनाएँ
 
-Create a key ring where the letters line up vertically instead of horizontally.
+एक चाबी का छल्ला बनाएँ, जहाँ अक्षारें लंबवत (vertically) पंक्तिबद्ध हो, ना कि क्षैतिज रूप से।
 
-Here's an example:
+यहाँ एक उदाहरण है:
 
-![screenshot](images/coder-vertical.png)
+![स्क्रीनशॉट](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+इस बार आपको अक्षरों को Y अक्ष (axis) के साथ `translate` करना पड़ेगा।
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## चुनौती: एक लूप जोड़ें
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+यदि आपके शब्द की शुरुआत में चाबी का छल्ला जोड़ने के लिए कुछ नहीं है, तो आप लूप बनाने के लिए एक छोटा letter 'O’ जोड़ सकते हैं।
 
-Here's an example:
+यहाँ एक उदाहरण है:
 
-![screenshot](images/coder-loop.png)
+![स्क्रीनशॉट](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+इस बार आपको ‘O’ को X अक्ष(axis) और Y अक्ष (axis) के साथ `translate` करना पड़ेगा।
 
 --- /hint --- --- /hints ---
 
