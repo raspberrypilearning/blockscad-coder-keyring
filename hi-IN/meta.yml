@@ -1,7 +1,7 @@
 ---
-title: 3D key ring
+title: 3D चाबी का छल्ला
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
+description: एक CODER चाबी का छल्ला डिज़ाइन करें जो 3D प्रिंट की जा सकती है।
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
@@ -9,18 +9,18 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Create 3D text
+    title: 3D टेक्स्ट बनाये
   - 
-    title: Join the letters together
+    title: अक्षरों को साथ जोड़े
   - 
-    title: Change thickness
+    title: मोटाई बदलें
   - 
-    title: Save your project
+    title: अपने प्रोजेक्ट को Save करें
   - 
     title: चुनौतियाँ
   - 
-    title: 3D print your key ring
+    title: अपनी चाबी के छल्ले को 3D प्रिंट करें
   - 
-    title: Assemble your key ring
+    title: अपनी चाबी के छल्ले को जोड़ें
