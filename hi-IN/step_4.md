@@ -1,36 +1,36 @@
-## Change thickness
+## मोटाई बदलें
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+इसके बाद, उन्हें अलग करने में मदद करने के लिए अक्षरों की मोटाई को कम ज़्यादा करे और अपनी चाबी के छल्ले को और बेहतर बनाये।
 
 --- task ---
 
-The letters are currently 2mm thick.
+अक्षरें अभी 2mm मोटे हैं।
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+'C', 'D', और 'R' की मोटाई बदलें ताकि वे 3mm मोटी हों।
 
-![screenshot](images/coder-finished.png)
+![स्क्रीनशॉट](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+टेक्स्ट की `thickness` मूल्य(value) बदले।
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+'C', 'D', और 'R' की `thickness` को `3` मे बदले ताकि वे ‘O’ और 'E’ से अधिक मोटे हों।
 
-![screenshot](images/coder-thickness.png)
+![स्क्रीनशॉट](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+आउटपुट दृश्य (view) में अपने मॉडल का रंग बदलने के लिए आप रंगीन वर्ग (square) पर क्लिक कर सकते हैं। यदि आप मॉडल को 3D प्रिंट करते हैं, तो चाबी के छल्ले का रंग आपके द्वारा उपयोग किए जाने वाले प्लास्टिक फिलामेंट के रंग पर निर्भर करेगा, लेकिन आउटपुट दृश्य में विभिन्न रंगों को आज़माने में सक्षम होना उपयोगी है।
 
-![screenshot](images/coder-colour.png)
+![स्क्रीनशॉट](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+आप ग्रिड को दिखा और छिपा भी सकते हैं। अन्य बटन आज़माएं और देखें कि वे क्या करते हैं।
 
-You can drag your model around to view it from different angles too.
+आप अपने मॉडल को विभिन्न कोणों से भी देखने के लिए चारों ओर खींच सकते हैं।
 
 --- /task ---
