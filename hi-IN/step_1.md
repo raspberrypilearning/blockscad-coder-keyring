@@ -10,7 +10,7 @@ BlocksCAD एक 3D मॉडल संपादक (editor) है जिसे
 
 पूर्ण रूप से तैयार चाबी का छल्ला इस तरह दिखता है:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![स्क्रीनशॉट](images/coder-keyring.png) ![स्क्रीनशॉट](images/coder-keyring.png)
 
 आप एक छल्ला बनाने के लिए 'C' और 'O' के बीच के गैप के जरिए स्पिलिट(Split) रिंग डाल सकते हैं।
 
@@ -38,18 +38,18 @@ title: आप क्या सीखेंगे
 ---
 
 + एक साधारण 3D ऑब्जेक्ट कैसे बनाएं जो 3D प्रिंट किया जा सकता है
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ X, Y और Z एक्सिस(axis) के साथ कैसे काम करें
++ एक 3D वस्तु को सही स्थिति पर रखने के लिए `translate` का उपयोग कैसे करें
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"} का उपयोग करें।
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+पूर्ण रूप से तैयार परियोजना कोड को यहां से डाउनलोड करें: [ http://rpf.io/p/en/blockscad-coder-ring/get ](http://rpf.io/p/en/blockscad-coder-keyring-get) ।
 
 --- /collapse ---
