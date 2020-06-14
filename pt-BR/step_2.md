@@ -1,46 +1,46 @@
-## Create 3D text
+## Criar texto 3D
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Abra o editor BlocksCAD em um navegador da web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
+Você pode arrastar e soltar blocos para escrever códigos para criar objetos 3D.
 
 --- /task ---
 
-First, use the 3D text tool to create some 3D letters.
+Primeiro, use a ferramenta de texto 3D para criar algumas letras 3D.
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+Clique em `Text`{:class="blockscadtext"} e arraste um `3D Text`{:class="blockscadtext"} na tela.
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![captura de tela](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+Altere o `Texto 3D` para dizer 'CODER'.
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![captura de tela](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+Clique no botão **Render** para ver o resultado.
 
-![screenshot](images/coder-bigger.png)
+![captura de tela](images/coder-render.png)
 
-Click **Render** again to see the result.
+Renderizar é o processo de criação de uma imagem a partir de um modelo 3D para que possamos ver como ela se parece.
+
+--- /task --- --- task ---
+
+Para aumentar o tamanho das letras, altere o `size` para `20` — isso significa o tamanho 20 da fonte.
+
+![captura de tela](images/coder-bigger.png)
+
+Clique no botão **Render** novamente para ver o resultado.
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+Se imprimisse em 3D o modelo que criou agora, você obteria cinco letras separadas, porque elas não foram colocadas juntas. Isso não daria um chaveiro muito bom!
 
 
 	
