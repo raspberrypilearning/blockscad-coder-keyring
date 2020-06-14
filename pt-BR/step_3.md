@@ -1,64 +1,64 @@
-## Join the letters together
+## Junte as letras
 
-Next, you will join the letters together so that the key ring looks like this:
+Em seguida, você juntará as letras para que o chaveiro fique assim:
 
-![screenshot](images/coder-letters-joined.png)
+![captura de tela](images/coder-letters-joined.png)
 
 --- task ---
 
-Change your code so that it only creates the letter 'C'.
+Altere seu código para que ele crie apenas a letra 'C'.
 
-![screenshot](images/coder-c.png)
-
---- /task --- --- task ---
-
-The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'.
-
-![screenshot](images/coder-co.png)
-
-Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}.
-
-Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green.
+![captura de tela](images/coder-c.png)
 
 --- /task --- --- task ---
 
-Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place.
+O bloco `union`{:class="blockscadsetops"} faz as formas ficarem juntas. Comece com as duas primeiras letras de 'CODER'.
 
-![screenshot](images/coder-same-place.png)
+![captura de tela](images/coder-co.png)
 
-You need to move the 'O' along the X axis so that it comes after the 'C'.
+Blocos são codificados por cores. Procure em `Set Ops`{:class="blockscadsetops"} para encontrar `union`{:class="blockscadsetops"}.
 
---- /task --- --- task ---
-
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
-
-![screenshot](images/coder-translate.png)
-
-Now, the letters should be touching, but not on top of each other.
+Note que o bloco `3D Text`{:class="blockscad3dshapes"} é encontrado sob `Text`{:class="blockscadstext"}, mesmo que seja verde.
 
 --- /task --- --- task ---
 
-Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+Clique em **Render** e você verá que há um problema: o 'C' e 'O' estão no mesmo lugar.
+
+![captura de tela](images/coder-same-place.png)
+
+Você precisa mover o 'O' ao longo do eixo X para que ele apareça após o 'C'.
 
 --- /task --- --- task ---
 
-Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+Adicione um bloco `translate`{:class="blockscadtransforms"} e defina o valor de `X` como `10` para mover o 'O' de 10mm ao longo do eixo X.
 
-![screenshot](images/coder-duplicate.png)
+![captura de tela](images/coder-translate.png)
 
---- /task --- --- task ---
-
-Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
-
-![screenshot](images/coder-d.png)
+Agora, as letras devem estar tocando, mas não uma em cima da outra.
 
 --- /task --- --- task ---
 
-Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place.
+Clique no botão ` [+] ` em `union`{:class="blockscadsetops"} para adicionar um espaço para outro bloco.
+
+--- /task --- --- task ---
+
+Clique com o botão direito do mouse sobre o bloco `translate`{:class="blockscadtransforms"} e selecione **Duplicate** para criar uma cópia.
+
+![captura de tela](images/coder-duplicate.png)
+
+--- /task --- --- task ---
+
+Arraste a cópia para o bloco `union`{:class="blockscadsetops"} e mude o 'O' para 'D'.
+
+![captura de tela](images/coder-d.png)
+
+--- /task --- --- task ---
+
+Altere o valor `X` do segundo bloco `translate`{:class="blockscadtransforms"} para que o 'D' esteja no lugar certo.
 
 --- hints --- --- hint ---
 
-Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'.
+Pense no que você mudou para mover o 'O' para depois do 'C'. O 'D' começa no mesmo lugar que o 'C', e você precisa movê-lo para depois do 'O'.
 
 --- /hint --- --- hint ---
 
@@ -68,17 +68,17 @@ Think about what you changed to make the 'O' move to after the 'C'. The 'D' star
 
 --- /task --- --- task ---
 
-Now, add an 'E' and an 'R' to finish the word 'CODER'.
+Agora, adicione um "E" e um "R" para terminar a palavra "CODER".
 
-Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+Certifique-se de que todas as letras estão tocando e que não há lacunas entre qualquer uma das letras.
 
 --- hints --- --- hint ---
 
-You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters.
+Você precisa clicar no botão `+` no bloco `union`{:class="blockscadsetops"} para adicionar espaço para mais duas letras.
 
 --- /hint --- --- hint ---
 
-You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+Você pode duplicar o código que você usou para criar um 'D' e, em seguida, alterar as letras e os valores de `X`.
 
 --- /hint --- --- hint ---
 
@@ -88,7 +88,7 @@ You can duplicate the code you used to create a 'D' and then change the letters 
 
 --- /task --- --- task ---
 
-Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
+Olhe atentamente - o 'E' e 'R' estão juntos? Se eles não estão, você precisa ajustar seu código.
 
 --- /task ---
 
