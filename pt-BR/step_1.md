@@ -1,14 +1,14 @@
-## Introduction
+## Introdução
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+Neste projeto, você usará o BlocksCAD para criar um chaveiro 'CODER' que pode ser impresso em 3D.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD é um editor de modelos 3D que você pode usar em um navegador da web em um computador ou tablet. Você arrasta e solta blocos de código para projetar modelos 3D que podem ser exportados para impressão 3D.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+Se você tiver acesso a uma impressora 3D, então poderá imprimir o chaveiro. O chaveiro não usa muito filamento e é pequeno e rápido para imprimir em 3D.
 
-### What you will make
+### O que você vai fazer
 
-The finished key ring looks like this:
+O chaveiro finalizado fica deste jeito:
 
 ![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
 
