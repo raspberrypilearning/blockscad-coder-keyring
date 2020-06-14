@@ -10,46 +10,46 @@ Se você tiver acesso a uma impressora 3D, então poderá imprimir o chaveiro. O
 
 O chaveiro finalizado fica deste jeito:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![captura de tela](images/coder-keyring.png) ![captura de tela](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+Você pode colocar uma argola no espaço entre o 'C' e o 'O' para fazer um chaveiro.
 
-The key ring will measure around 14mm by 50mm.
+O chaveiro medirá cerca de 14 mm por 50 mm.
 
 --- collapse ---
 ---
-title: What you will need
+title: O que você vai precisar
 ---
 
 ### Hardware
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ Uma impressora 3D e filamento. Cores sólidas funcionam melhor.
++ Uma argola para fazer o chaveiro. Uma argola de 19 mm de diâmetro funciona bem.
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Este projeto pode ser concluído em um navegador da web usando o BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: O que você vai aprender
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ Como criar um objeto 3D simples que pode ser impresso em 3D
++ Como trabalhar com eixos X, Y e Z
++ Como usar `translate` para posicionar um objeto 3D
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informações adicionais para educadores
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Faça o download do código do projeto finalizado em [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
