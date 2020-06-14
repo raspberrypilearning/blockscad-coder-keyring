@@ -1,24 +1,24 @@
-## Save your project
+## अपने प्रोजेक्ट को Save करें
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: मेरे पास BlocksCAD खाता नहीं है
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+अपनी प्रोजेक्ट को सेव (save) करने के लिए, मेनू बार में **Project** पर क्लिक करे और **Save Blocks to your Computer** का चयन करें ।
 
-Give your project a recognisable name and remember where you save it.
+अपनी प्रोजेक्ट को एक पहचानने योग्य नाम दें और याद रखें कि आपने इसे कहाँ सेव (save) किया हैं।
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+अब आप ** Load Blocks from your Computer** की सहायता से उस प्रोजेक्ट को load कर सकते है, जिसे आपने सेव (save) किया है और उस पर काम कर सकते हैं।
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: मेरे पास BlocksCAD खाता है
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+यदि आपके पास एक BlocksCAD खाता है और आप लॉग इन (Logged in) हैं, तो आप मेनू बार में **Project** पर क्लिक करने के बाद **Save** चुने। यह आपके प्रोजेक्ट को ऑनलाइन सेव(save) करता है ताकि आप इसे किसी भी कंप्यूटर से खोल सकें।
 
 --- /collapse ---
 
