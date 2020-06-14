@@ -1,26 +1,26 @@
-## 3D print your key ring
+## अपनी चाबी के छल्ले को 3D प्रिंट करें
 
-BlocksCAD can export an `.STL` file for 3D printing.
+BlocksCAD, 3D प्रिंटिंग के लिए `.STL` फ़ाइल का निर्यात (export) कर सकता है।
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+अपना मॉडल render करें और फिर **Generate STL** पर क्लिक करें। याद रखें कि आपने STL file को कहाँ सेव (save) किया हैं।
 
 --- /task --- --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer.
+बहुत सारे टूल्स हैं जो STL फ़ाइलों को पढ़ सकते हैं और प्रिंटर पर 3D मॉडल भेज सकते हैं।
 
-The one you choose will depend on the 3D printer that you are using.
-
---- /task --- --- task ---
-
-Carefully remove the 3D print from the print bed.
-
-![screenshot](images/coder-printed.png)
+आप जो चुनते हैं, वह आपके द्वारा उपयोग किए जा रहे 3D प्रिंटर पर निर्भर करेगा।
 
 --- /task --- --- task ---
 
-You might need to remove some small strands of filament to tidy up the print.
+बहुत सावधानी से प्रिंट बेड से 3 डी प्रिंट को निकालें।
+
+![स्क्रीनशॉट](images/coder-printed.png)
+
+--- /task --- --- task ---
+
+आपको प्रिंट को साफ करने के लिए फिलामेंट के कुछ छोटे रेशे निकालने की आवश्यकता हो सकती है।
 
 --- /task ---
 
