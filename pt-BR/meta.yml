@@ -1,7 +1,7 @@
 ---
-title: 3D key ring
+title: Chaveiro 3D
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
+description: Crie um chaveiro 'CODER' que possa ser impresso em 3D.
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 #possible values: 1, 2 or 3
 listed: true
@@ -9,18 +9,18 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: Create 3D text
+    title: Criar texto 3D
   - 
-    title: Join the letters together
+    title: Junte as letras
   - 
-    title: Change thickness
+    title: Altere a espessura
   - 
-    title: Save your project
+    title: Salve seu projeto
   - 
-    title: Challenges
+    title: Desafios
   - 
-    title: 3D print your key ring
+    title: Imprima em 3D seu chaveiro
   - 
-    title: Assemble your key ring
+    title: Monte seu chaveiro
