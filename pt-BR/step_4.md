@@ -1,36 +1,36 @@
-## Change thickness
+## Altere a espessura
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+Em seguida, alterne a espessura das letras para ajudar a separá-las e tornar o seu chaveiro ainda melhor.
 
 --- task ---
 
-The letters are currently 2mm thick.
+Atualmente, as letras têm 2 mm de espessura.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+Altere a espessura de 'C', 'D', e 'R' para que elas tenham 3mm de espessura.
 
-![screenshot](images/coder-finished.png)
+![captura de tela](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+Altere o valor de `thickness` para o texto.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+Altere o valor de `thickness` em 'C', 'D' e 'R' para `3` para que sejam mais grossos que 'O' e 'E'.
 
-![screenshot](images/coder-thickness.png)
+![captura de tela](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+Você pode clicar no quadrado colorido para mudar a cor do seu modelo na visão de saída. Se você imprimir o modelo em 3D, a cor do chaveiro dependerá da cor do filamento de plástico que você usar, mas é útil poder experimentar cores diferentes visualização de saída.
 
-![screenshot](images/coder-colour.png)
+![captura de tela](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+Você também pode mostrar e ocultar a grade. Tente os outros botões e veja o que eles fazem.
 
-You can drag your model around to view it from different angles too.
+Você pode arrastar seu modelo para visualizá-lo de ângulos diferentes também.
 
 --- /task ---
