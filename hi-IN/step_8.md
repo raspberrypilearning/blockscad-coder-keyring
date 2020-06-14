@@ -1,16 +1,16 @@
-## Assemble your key ring
+## अपने चाबी के छल्ले को जोड़ें
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+अपनी स्प्लिट रिंग(spilit ring) और 3D प्रिंटेड चाबी के छल्ले लें:
 
-![screenshot](images/coder-splitring-keyring.png)
+![स्क्रीनशॉट](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+अपनी 3D प्रिंटेड चाबी के छल्ले को स्प्लिट रिंग (split ring) में संलग्न करें:
 
-![screenshot](images/coder-keyring.png)
+![स्क्रीनशॉट](images/coder-keyring.png)
 
 --- /task ---	
 
