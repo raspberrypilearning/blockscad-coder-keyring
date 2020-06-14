@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## Desafio: Crie um chaveiro com seu nome
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+Agora, crie um chaveiro ou emblema de texto em 3D com seu nome ou outra palavra ou frase curta.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+Dicas:
++ Certifique-se de que todas as letras se juntem
++ Certifique-se de que a parte de trás do seu chaveiro seja plana e uniforme, caso contrário, será muito difícil imprimir
 
-Here's an example:
+Aqui está um exemplo:
 
-![screenshot](images/coder-grace.png)
+![captura de tela](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## Desafio: Crie um chaveiro com as letras na vertical
 
-Create a key ring where the letters line up vertically instead of horizontally.
+Crie um chaveiro em que as letras estejam alinhadas verticalmente em vez de horizontalmente.
 
-Here's an example:
+Aqui está um exemplo:
 
-![screenshot](images/coder-vertical.png)
+![captura de tela](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+Desta vez, você precisará utilizar o `translate` ao longo do eixo Y.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## Desafio: adicionar um circulo
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+Se não houver nenhum lugar para adicionar uma argola de chaveiro no início de sua palavra, Poderíamos então adicionar uma letra menor "o" para fazer um circulo.
 
-Here's an example:
+Aqui está um exemplo:
 
-![screenshot](images/coder-loop.png)
+![captura de tela](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+Desta vez, você precisará `transferir` o 'O' ao longo dos eixos X e Y.
 
 --- /hint --- --- /hints ---
 
