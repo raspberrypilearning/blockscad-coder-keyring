@@ -1,16 +1,16 @@
-## Assemble your key ring
+## Monte seu chaveiro
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+Pegue a argola e o chaveiro impresso em 3D:
 
-![screenshot](images/coder-splitring-keyring.png)
+![captura de tela](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+Anexe a argola ao seu chaveiro impresso em 3D:
 
-![screenshot](images/coder-keyring.png)
+![captura de tela](images/coder-keyring.png)
 
 --- /task ---	
 
