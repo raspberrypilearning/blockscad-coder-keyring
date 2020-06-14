@@ -1,26 +1,26 @@
-## 3D print your key ring
+## Imprima em 3D seu chaveiro
 
-BlocksCAD can export an `.STL` file for 3D printing.
+BlocksCAD pode exportar um arquivo `.STL` para impressão 3D.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Renderize seu modelo e clique em **Generate STL**. Lembre-se onde você salvou o arquivo STL.
 
 --- /task --- --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer.
+Existem muitas ferramentas que podem ler arquivos STL e enviar modelos 3D para uma impressora.
 
-The one you choose will depend on the 3D printer that you are using.
-
---- /task --- --- task ---
-
-Carefully remove the 3D print from the print bed.
-
-![screenshot](images/coder-printed.png)
+O que você vai escolher dependerá da impressora 3D que você estiver usando.
 
 --- /task --- --- task ---
 
-You might need to remove some small strands of filament to tidy up the print.
+Cuidadosamente remova a impressão 3D da área de impressão.
+
+![captura de tela](images/coder-printed.png)
+
+--- /task --- --- task ---
+
+Você pode precisar remover algumas pequenas linhas de filamento para ajustar a impressão.
 
 --- /task ---
 
