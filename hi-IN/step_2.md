@@ -1,46 +1,46 @@
-## Create 3D text
+## 3D टेक्स्ट बनाये
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+BlocksCAD को वेब ब्राउज़र में खोलें [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
+3D ऑब्जेक्ट बनाने के लिए कोड लिखने के लिए आप ब्लॉक को ड्रैग और ड्रॉप कर सकते हैं।
 
 --- /task ---
 
-First, use the 3D text tool to create some 3D letters.
+सबसे पहले, कुछ 3D अक्षर बनाने के लिए 3D टेक्स्ट टूल का उपयोग करें।
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+पहले `Text`{:class="blockcadtext"} पर क्लिक करे और फिर `3D Text`{:class="blockscadtext"} ब्लॉक को कैनवास पर खींच कर लायें ।
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![स्क्रीनशॉट](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+`3D Text` इनपुट को 'CODER' कहने के लिए बदले।
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![स्क्रीनशॉट](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+परिणाम देखने के लिए **Render** बटन पर क्लिक करें।
 
-![screenshot](images/coder-bigger.png)
+![स्क्रीनशॉट](images/coder-render.png)
 
-Click **Render** again to see the result.
+Rendering (रेंडरिंग) एक 3D मॉडल से एक छवि बनाने की प्रक्रिया है ताकि हम देख सकें कि यह कैसा दिखता है।
+
+--- /task --- --- task ---
+
+अक्षरों को बड़ा करने के लिए, `size` को `20` में बदले - इसका मतलब है कि अब फॉन्ट साइज 20 है ।
+
+![स्क्रीनशॉट](images/coder-bigger.png)
+
+परिणाम देखने के लिए **Render** बटन पर क्लिक करें।
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+यदि आपने अभी बनाए गए मॉडल को 3D प्रिंट किया, तो आपको पांच अलग-अलग अक्षर मिलेंगे, क्योंकि वे एक साथ जोड़े नहीं गये हैं। यह एक बहुत अच्छी चाबी का छल्ला नहीं होगी!
 
 
 	
