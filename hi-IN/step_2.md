@@ -12,7 +12,7 @@ BlocksCAD को वेब ब्राउज़र में खोलें [b
 
 --- task ---
 
-पहले `Text`{:class="blockcadtext"} पर क्लिक करे और फिर `3D Text`{:class="blockscadtext"} ब्लॉक को कैनवास पर खींच कर लायें ।
+पहले `Text`{:class="blockscadtext"} पर क्लिक करे और फिर `3D Text`{:class="blockscadtext"} ब्लॉक को कैनवास पर खींच कर लायें ।
 
 ![स्क्रीनशॉट](images/coder-canvas.png)
 

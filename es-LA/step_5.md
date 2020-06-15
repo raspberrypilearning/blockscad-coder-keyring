@@ -2,7 +2,7 @@
 
 --- collapse ---
 ---
-title: no tengo una cuenta de BlocksCAD
+title: No tengo una cuenta de BlocksCAD
 ---
 
 Para guardar el proyecto, haz clic en **Proyecto** en la barra de menú y selecciona **Guardar bloques en tu computadora**.
@@ -15,7 +15,7 @@ Luego puedes usar **Cargar bloques desde su computadora** para abrir el proyecto
 
 --- collapse ---
 ---
-title: tengo una cuenta de BlocksCAD
+title: Tengo una cuenta de BlocksCAD
 ---
 
 Si tienes una cuenta de BlocksCAD y has iniciado sesión, puedes hacer clic en **Proyecto** en la barra de menú y seleccionar **Guardar**. Esto guardará tu proyecto en línea para que puedas acceder a él desde cualquier computadora.

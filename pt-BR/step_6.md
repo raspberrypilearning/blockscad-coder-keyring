@@ -10,7 +10,7 @@ Aqui está um exemplo:
 
 ![captura de tela](images/coder-grace.png)
 
-## Desafio: Crie um chaveiro com as letras na vertical
+## Desafio: crie um chaveiro com as letras na vertical
 
 Crie um chaveiro em que as letras estejam alinhadas verticalmente em vez de horizontalmente.
 
