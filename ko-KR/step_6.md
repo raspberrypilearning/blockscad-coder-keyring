@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## 도전과제: 자신의 이름으로 키링 만들기
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+이제부터 자신의 이름, 그 외 단어, 또는 짧은 구문을 이용해 3D 텍스트나 배지를 만들어 보겠습니다.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+팁:
++ 모든 글자를 붙여 연결합니다.
++ 키링의 뒷부분이 고르고 판판한지 확인해야 합니다. 그렇게 하지 않으면 출력하기가 매우 힘들어집니다.
 
-Here's an example:
+아래 예시를 봅시다:
 
-![screenshot](images/coder-grace.png)
+![스크린샷](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## 도전과제: 글자를 세로로 배열해 키링 만들기
 
-Create a key ring where the letters line up vertically instead of horizontally.
+글자를 가로가 아닌 세로 방향으로 정렬 시켜 키링을 만들어 보겠습니다.
 
-Here's an example:
+아래 예시를 봅시다:
 
-![screenshot](images/coder-vertical.png)
+![스크린샷](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+이때는 Y축을 따라 글자를 `translate` 해야 합니다.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## 도전과제: 고리 추가하기
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+단어 앞에 키링을 붙일 공간이 없으면 소문자 'o'를 추가해 고리를 만들어 줍니다.
 
-Here's an example:
+아래 예시를 봅시다:
 
-![screenshot](images/coder-loop.png)
+![스크린샷](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+이때 X 와 Y 축을 따라 소문자 'o'를 `translate` 해야 합니다.
 
 --- /hint --- --- /hints ---
 
