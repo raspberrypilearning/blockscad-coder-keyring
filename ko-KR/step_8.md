@@ -1,16 +1,16 @@
-## Assemble your key ring
+## 키링 조립하기
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+분리된 고리와 3D 프린터로 출력된 키링 예시:
 
-![screenshot](images/coder-splitring-keyring.png)
+![스크린샷](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+분리된 고리를 3D 프린터로 출력된 키링에 부착한 예시:
 
-![screenshot](images/coder-keyring.png)
+![스크린샷](images/coder-keyring.png)
 
 --- /task ---	
 
