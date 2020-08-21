@@ -1,0 +1,18 @@
+---
+title: 3D 키링
+hero_image: images/banner.png
+description: 3D 프린터로 출력되는 CODER 키링 설계하기
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2 #possible values: 1, 2 or 3
+listed: true
+ingredient: false
+copyedit: true
+steps:
+  - title: 소개
+  - title: 3D 텍스트 만들기
+  - title: 글자 결합하기
+  - title: 두께 변경하기
+  - title: 프로젝트 저장하기
+  - title: '도전과제: 자신의 이름으로 키링 만들기'
+  - title: 키링을 3D 프린터로 출력하기
+  - title: 키 링 조립하기
