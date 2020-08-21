@@ -1,36 +1,36 @@
-## Change thickness
+## 두께 변경하기
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+다음으로는, 글자 두께 변경으로 글자 사이를 분리하여 키링이 괜찮은 모양이 되게 합니다.
 
 --- task ---
 
-The letters are currently 2mm thick.
+현재의 글자 두께는 2mm입니다.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+'C', 'D', 'R'의 두께가 3mm가 되게 변경합니다.
 
-![screenshot](images/coder-finished.png)
+![스크린샷](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+이 글자들의 텍스트 `두께` 값을 변경합니다.
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+'C', 'D', 'R'의 `두께` 값을 `3` 으로 변경해 'O', 'E'보다 두껍게 만듭니다.
 
-![screenshot](images/coder-thickness.png)
+![스크린샷](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+색상별 사각형을 눌러 출력보기에서의 모델 색상을 변경할 수 있습니다. 해당 모델을 3D 프린터로 출력할 땐 출력되는 키링 색상이 여러분이 사용하는 플라스틱 필라멘트를 따르게 되더라도 출력보기에서는 여러 색상을 시도해보는 것이 유용합니다.
 
-![screenshot](images/coder-colour.png)
+![스크린샷](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+또한 그리드를 보이기 또는 숨기기 할 수 있습니다. 그 외 다른 버튼도 다 눌러보며 기능을 확인해 보세요. 그 외 다른 버튼도 다 눌러보며 기능을 확인해 보세요.
 
-You can drag your model around to view it from different angles too.
+해당 모델을 드래그하여 여러 각도에서 바라볼 수 있습니다.
 
 --- /task ---
