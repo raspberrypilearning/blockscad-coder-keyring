@@ -1,55 +1,55 @@
-## Introduction
+## 소개
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+이 프로젝트에서는 BlocksCAD를 통해 3D 프린터로 출력되는 'CODER' 키링을 설계해볼 것입니다.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD는 3D 모델 편집기로 컴퓨터나 태블릿의 웹브라우저에서 사용될 수 있습니다. 코드 블록을 드래그 앤드 드롭하여 3D 프린터로 내보내기가 될 수 있도록 3D 모델을 설계합니다.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+3D 프린터가 있다면 키링을 직접 출력할 수 있습니다. 이러한 키링은 필라멘트를 많이 필요로 하지 않고 그 사이즈가 작으며 3D로의 출력이 빠르게 됩니다.
 
-### What you will make
+### 만들 작품
 
-The finished key ring looks like this:
+완성된 키링:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![스크린샷](images/coder-keyring.png) ![스크린샷](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+'C'와 'O' 사이에 분할된 링을 넣습니다.
 
-The key ring will measure around 14mm by 50mm.
+키 링 사이즈는 14mm x 50mm 정도입니다.
 
 --- collapse ---
 ---
-title: What you will need
+title: 준비물
 ---
 
-### Hardware
+### 하드웨어
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ 3D 프린터와 필라멘트. 단색을 사용하는 것이 가장 효과적입니다.
++ 전체 링 형성을 위한 분할된 링. 직경 19mm의 분할된 링을 사용하는 것이 가장 효과적입니다.
 
-### Software
+### 소프트웨어
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ 이 프로젝트는 BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}를 사용하여 웹브라우저에서 완료가 가능합니다.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 배울 내용
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ 3D 프린터를 통해 간단한 3D 물건을 만드는 방법
++ X, Y, Z 축으로 작업하는 방법
++ `translate 배치`를 통해 3D 대상물을 위치시키는 방법
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 교육자를 위한 추가 정보
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+이 프로젝트를 인쇄하기 위해서는 [프린트용 버전](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}을 사용해 주세요.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+완성된 프로젝트 코드 다운로드: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
