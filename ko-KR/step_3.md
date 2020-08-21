@@ -1,64 +1,64 @@
-## Join the letters together
+## 글자 결합하기
 
-Next, you will join the letters together so that the key ring looks like this:
+다음으로, 글자를 서로 결합해 키링이 다음과 같이 보이게 만듭니다:
 
-![screenshot](images/coder-letters-joined.png)
+![스크린샷](images/coder-letters-joined.png)
 
 --- task ---
 
-Change your code so that it only creates the letter 'C'.
+코드를 변경해 글자 'C'만을 생성합니다.
 
-![screenshot](images/coder-c.png)
-
---- /task --- --- task ---
-
-The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'.
-
-![screenshot](images/coder-co.png)
-
-Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}.
-
-Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green.
+![스크린샷](images/coder-c.png)
 
 --- /task --- --- task ---
 
-Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place.
+`union (결합)`{:class="blockscadsetops"} 블록을 통해 형태를 결합합니다. 'CODER'의 첫 두 글자를 시작해 봅니다.
 
-![screenshot](images/coder-same-place.png)
+![스크린샷](images/coder-co.png)
 
-You need to move the 'O' along the X axis so that it comes after the 'C'.
+블록엔 코드가 들어있고 색상으로 구분됩니다. `Set Ops (옵션 설정)`{:class="blockscadsetops"} 아래에 `union`{:class="blockscadsetops"}이 있습니다.
 
---- /task --- --- task ---
-
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
-
-![screenshot](images/coder-translate.png)
-
-Now, the letters should be touching, but not on top of each other.
+`3D 텍스트`{:class="blockscad3dshapes"} 블록이 초록색이지만 `텍스트`{:class="blockscadstext"} 에서 찾아야 한다는 걸 주의하기 바랍니다.
 
 --- /task --- --- task ---
 
-Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+**렌더**를 클릭하니 문제가 확인되는군요: 'C'와 'O'가 동일한 곳에 위치해 있습니다.
+
+![스크린샷](images/coder-same-place.png)
+
+X 축을 따라 'O' 를 이동시켜 'C' 뒤에 위치시킵니다.
 
 --- /task --- --- task ---
 
-Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+`배치`{:class="blockscadtransforms"} 블록을 눌러 `X` 값을 `10`으로 설정해 'O'를 X축으로 10mm 이동시킵니다.
 
-![screenshot](images/coder-duplicate.png)
+![스크린샷](images/coder-translate.png)
 
---- /task --- --- task ---
-
-Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
-
-![screenshot](images/coder-d.png)
+그러면 글자가 서로 맞닿게 되며 서로 겹쳐져선 안됩니다.
 
 --- /task --- --- task ---
 
-Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place.
+`union`{:class="blockscadsetops"} 블록에 있는 `[+]` 버튼을 클릭해 블록 추가를 위한 스페이스를 하나 더 생성합니다.
+
+--- /task --- --- task ---
+
+`translate`{:class="blockscadtransforms"} 블록을 마우스 우클릭하여 **Duplicate (복사하기)**를 선택해 하나 더 복사합니다.
+
+![스크린샷](images/coder-duplicate.png)
+
+--- /task --- --- task ---
+
+생성된 사본을 `union`{:class="blockscadsetops"} 블록에 드래그해 넣은 후 'O'를 'D'로 변경합니다.
+
+![스크린샷](images/coder-d.png)
+
+--- /task --- --- task ---
+
+두번째 `translate`{:class="blockscadtransforms"} 블록의 `X` 값을 조정해 'D'를 알맞은 곳에 위치시킵니다.
 
 --- hints --- --- hint ---
 
-Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'.
+'O'를 'C' 뒤에 배치하기 위해 어떤 부분을 변경했는지 생각해 보세요. 'D' 는 'C' 자리와 동일한 위치에 생성되었습니다. 'D'를 'O' 뒤로 이동시켜야 합니다.
 
 --- /hint --- --- hint ---
 
@@ -68,17 +68,17 @@ Think about what you changed to make the 'O' move to after the 'C'. The 'D' star
 
 --- /task --- --- task ---
 
-Now, add an 'E' and an 'R' to finish the word 'CODER'.
+그리고 'E'와 'R'을 추가해 단어 'CODER'를 완성합니다.
 
-Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+글자 모두가 서로 맞닿아 글자 사이 갭이 없는지 확인해야 합니다.
 
 --- hints --- --- hint ---
 
-You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters.
+`union`{:class="blockscadsetops"} 블록의 `+` 를 클릭해 2개 글자를 추가하기 위한 스페이스를 생성해야 합니다.
 
 --- /hint --- --- hint ---
 
-You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+'D' 생성에 사용했던 코드를 복사하고 `X` 값을 변경합니다.
 
 --- /hint --- --- hint ---
 
@@ -88,7 +88,7 @@ You can duplicate the code you used to create a 'D' and then change the letters 
 
 --- /task --- --- task ---
 
-Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
+잘 확인하세요 — 'E'와 'R'가 맞닿아 있나요? 맞닿아 있지 않는다면 코드를 조정합니다.
 
 --- /task ---
 
