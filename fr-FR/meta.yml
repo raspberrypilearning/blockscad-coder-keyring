@@ -2,17 +2,19 @@
 title: Porte-clés 3D
 hero_image: images/banner.png
 description: Conçois un porte-clés CODER qui peut être imprimé en 3D.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
 steps:
-  - title: Introduction
-  - title: Crée un texte 3D
-  - title: Relie les lettres ensemble
-  - title: Change l'épaisseur
-  - title: Enregistre ton projet
-  - title: Défis
-  - title: Imprime ton porte-clés en 3D
-  - title: Assemble ton porte-clés
+- title: Introduction
+  completion: engaged
+- title: Crée un texte 3D
+- title: Relie les lettres ensemble
+- title: Change l'épaisseur
+- title: Enregistre ton projet
+- title: Défis
+- title: Imprime ton porte-clés en 3D
+  completion: internal
+- title: Assemble ton porte-clés

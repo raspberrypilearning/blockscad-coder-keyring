@@ -2,17 +2,19 @@
 title: 3D चाबी का छल्ला
 hero_image: images/banner.png
 description: एक CODER चाबी का छल्ला डिज़ाइन करें जो 3D प्रिंट की जा सकती है।
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
 steps:
-  - title: परिचय
-  - title: 3D टेक्स्ट बनाये
-  - title: अक्षरों को साथ जोड़े
-  - title: मोटाई बदलें
-  - title: अपने प्रोजेक्ट को Save करें
-  - title: चुनौतियाँ
-  - title: अपनी चाबी के छल्ले को 3D प्रिंट करें
-  - title: अपनी चाबी के छल्ले को जोड़ें
+- title: परिचय
+  completion: engaged
+- title: 3D टेक्स्ट बनाये
+- title: अक्षरों को साथ जोड़े
+- title: मोटाई बदलें
+- title: अपने प्रोजेक्ट को Save करें
+- title: चुनौतियाँ
+- title: अपनी चाबी के छल्ले को 3D प्रिंट करें
+  completion: internal
+- title: अपनी चाबी के छल्ले को जोड़ें

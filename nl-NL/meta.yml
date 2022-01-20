@@ -2,17 +2,19 @@
 title: 3D sleutelhanger
 hero_image: images/banner.png
 description: Ontwerp een CODER-sleutelhanger die 3D geprint kan worden.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
 steps:
-  - title: Inleiding
-  - title: Maak 3D-tekst
-  - title: Voeg de letters samen
-  - title: Verander de dikte
-  - title: Sla je project op
-  - title: Uitdagingen
-  - title: 3D print je sleutelhanger
-  - title: Monteer je sleutelhanger
+- title: Inleiding
+  completion: engaged
+- title: Maak 3D-tekst
+- title: Voeg de letters samen
+- title: Verander de dikte
+- title: Sla je project op
+- title: Uitdagingen
+- title: 3D print je sleutelhanger
+  completion: internal
+- title: Monteer je sleutelhanger

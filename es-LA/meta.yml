@@ -2,17 +2,19 @@
 title: Llavero 3D
 hero_image: images/banner.png
 description: Diseña un llavero con las letras "CODER" que se pueda imprimir en 3D.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
 steps:
-  - title: Introducción
-  - title: Crea texto en 3D
-  - title: Junta las letras
-  - title: Cambia el grosor
-  - title: Guarda tu proyecto
-  - title: Desafíos
-  - title: Imprime tu llavero en 3D
-  - title: Arma tu llavero
+- title: Introducción
+  completion: engaged
+- title: Crea texto en 3D
+- title: Junta las letras
+- title: Cambia el grosor
+- title: Guarda tu proyecto
+- title: Desafíos
+- title: Imprime tu llavero en 3D
+  completion: internal
+- title: Arma tu llavero

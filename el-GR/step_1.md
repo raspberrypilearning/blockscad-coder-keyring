@@ -50,6 +50,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/blockscad-coder-keyring/print)"{:target="_blank"}.
 
-Κατέβασε τον τελικό κώδικα του έργου στο: [http://rpf.io/p/el-GR/blockscad-coder-keyring-get](http://rpf.io/p/el-GR/blockscad-coder-keyring-get).
+Κατέβασε τον τελικό κώδικα του έργου στο: [https://rpf.io/p/el-GR/blockscad-coder-keyring-get](https://rpf.io/p/el-GR/blockscad-coder-keyring-get).
 
 --- /collapse ---
