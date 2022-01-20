@@ -50,6 +50,6 @@ title: Aanvullende informatie voor docenten
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download de voltooide projectcode op: [http://rpf.io/p/nl-NL/blockscad-coder-keyring-get](http://rpf.io/p/nl-NL/blockscad-coder-keyring-get).
+Download de voltooide projectcode op: [https://rpf.io/p/nl-NL/blockscad-coder-keyring-get](https://rpf.io/p/nl-NL/blockscad-coder-keyring-get).
 
 --- /collapse ---
