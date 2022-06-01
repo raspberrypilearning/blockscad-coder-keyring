@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: المقدمة
-  completion: engaged
 - title: إنشاء نص ثلاثي الأبعاد
 - title: ربط الحروف مع بعضها البعض
+  completion:
+  - engaged
 - title: تغيير السماكة
 - title: احفظ مشروعك
 - title: التحديات
 - title: اطبع حلقة مفاتيحك بشكل ثلاثي الابعاد
-  completion: internal
 - title: تجميع حلقة المفاتيح الخاصة بك
+  completion:
+  - internal

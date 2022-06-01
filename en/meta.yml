@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Introduction
-  completion: engaged
 - title: Create 3D text
 - title: Join the letters together
+  completion:
+  - engaged
 - title: Change thickness
 - title: Save your project
 - title: Challenges
 - title: 3D print your key ring
-  completion: internal
 - title: Assemble your key ring
+  completion:
+  - internal

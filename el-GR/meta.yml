@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Δημιουργία του κειμένου 3D
 - title: Ένωση των γραμμάτων
+  completion:
+  - engaged
 - title: Αλλαγή πάχους
 - title: Αποθήκευση του έργου σου
 - title: Προκλήσεις
 - title: 3D εκτύπωση του μπρελόκ σου
-  completion: internal
 - title: Συναρμολόγηση του μπρελόκ σου
+  completion:
+  - internal

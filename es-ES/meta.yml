@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Introducción
-  completion: engaged
 - title: Crear texto en 3D
 - title: Pon las letras juntas
+  completion:
+  - engaged
 - title: Cambiar de grosor
 - title: Guarda tu proyecto
 - title: Desafíos
 - title: Imprime tu llavero en 3D
-  completion: internal
 - title: Monta tu llavero
+  completion:
+  - internal

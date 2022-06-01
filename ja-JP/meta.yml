@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: はじめに
-  completion: engaged
 - title: 3Dテキストを作る
 - title: 文字をつなげる
+  completion:
+  - engaged
 - title: 厚さ (あつさ) をかえる
 - title: プロジェクトを保存 (ほぞん) する
 - title: チャレンジ
 - title: キーホルダーを3Dプリントする
-  completion: internal
 - title: キーホルダーを組み立てる
+  completion:
+  - internal

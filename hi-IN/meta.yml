@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: परिचय
-  completion: engaged
 - title: 3D टेक्स्ट बनाये
 - title: अक्षरों को साथ जोड़े
+  completion:
+  - engaged
 - title: मोटाई बदलें
 - title: अपने प्रोजेक्ट को Save करें
 - title: चुनौतियाँ
 - title: अपनी चाबी के छल्ले को 3D प्रिंट करें
-  completion: internal
 - title: अपनी चाबी के छल्ले को जोड़ें
+  completion:
+  - internal

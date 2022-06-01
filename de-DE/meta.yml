@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Erstelle den 3D-Text
 - title: Verbinde die Buchstaben miteinander
+  completion:
+  - engaged
 - title: Ändere die Dicke
 - title: Speichere dein Projekt
 - title: Herausforderungen
 - title: Drucke deinen Schlüsselanhänger in 3D
-  completion: internal
 - title: Baue deinen Schlüsselanhänger zusammen
+  completion:
+  - internal

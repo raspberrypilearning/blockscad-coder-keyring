@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: 소개
-  completion: engaged
 - title: 3D 텍스트 만들기
 - title: 글자 결합하기
+  completion:
+  - engaged
 - title: 두께 변경하기
 - title: 프로젝트 저장하기
 - title: '도전과제: 자신의 이름으로 키링 만들기'
 - title: 키링을 3D 프린터로 출력하기
-  completion: internal
 - title: 키 링 조립하기
+  completion:
+  - internal

@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Maak 3D-tekst
 - title: Voeg de letters samen
+  completion:
+  - engaged
 - title: Verander de dikte
 - title: Sla je project op
 - title: Uitdagingen
 - title: 3D print je sleutelhanger
-  completion: internal
 - title: Monteer je sleutelhanger
+  completion:
+  - internal
