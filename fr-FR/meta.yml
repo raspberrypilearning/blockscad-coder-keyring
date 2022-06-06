@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Introduction
-  completion: engaged
 - title: Crée un texte 3D
 - title: Relie les lettres ensemble
+  completion:
+  - engaged
 - title: Change l'épaisseur
 - title: Enregistre ton projet
 - title: Défis
 - title: Imprime ton porte-clés en 3D
-  completion: internal
 - title: Assemble ton porte-clés
+  completion:
+  - internal

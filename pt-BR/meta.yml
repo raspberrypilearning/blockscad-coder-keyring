@@ -9,12 +9,14 @@ ingredient: false
 copyedit: true
 steps:
 - title: Introdução
-  completion: engaged
 - title: Criar texto 3D
 - title: Junte as letras
+  completion:
+  - engaged
 - title: Altere a espessura
 - title: Salve seu projeto
 - title: Desafios
 - title: Imprima em 3D seu chaveiro
-  completion: internal
 - title: Monte seu chaveiro
+  completion:
+  - internal
