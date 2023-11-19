@@ -1,36 +1,36 @@
-## Change thickness
+## Зміни товщину
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
+Далі чергуй товщину літер, щоб краще їх відділити одну від одної і зробити свій брелок іще кращим.
 
 --- task ---
 
-The letters are currently 2mm thick.
+Наразі товщина літер складає 2 мм.
 
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
+Зміни товщину «C», «D», та «R» до 3 мм.
 
-![screenshot](images/coder-finished.png)
+![знімок екрана](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Change the `thickness` value for the text.
+Зміни параметр тексту `thickness` (товщина).
 
 --- /hint --- --- hint ---
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
+Зміни параметр `thickness` для «C», «D» та «R» до `3`, щоб вони стали товстішими за «O» та «E».
 
-![screenshot](images/coder-thickness.png)
+![знімок екрана](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
 --- /task ---   
 --- task ---
 
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+Ти можеш клацнути на кольоровий квадратик, щоб змінити колір своєї моделі у вікні показу. Коли ти друкуватимеш свою модель, то колір брелока буде залежати від кольору пластику, який ти візьмеш, але корисно поекспериментувати із різними кольорами у вікні виводу.
 
-![screenshot](images/coder-colour.png)
+![знімок екрана](images/coder-colour.png)
 
-You can also show and hide the grid. Try the other buttons and see what they do.
+Також ти можеш показати або сховати сітку. Випробуй інші кнопки і подивися, що вони роблять.
 
-You can drag your model around to view it from different angles too.
+Ти можеш перетягувати модель, щоб побачити її з різних сторін.
 
 --- /task ---
