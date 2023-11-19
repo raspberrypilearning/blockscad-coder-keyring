@@ -2,8 +2,8 @@
 title: Chaveiro 3D
 hero_image: images/banner.png
 description: Crie um chaveiro 'CODER' que possa ser impresso em 3D.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
@@ -14,6 +14,8 @@ steps:
     title: Criar texto 3D
   - 
     title: Junte as letras
+    completion:
+      - engaged
   - 
     title: Altere a espessura
   - 
@@ -24,3 +26,5 @@ steps:
     title: Imprima em 3D seu chaveiro
   - 
     title: Monte seu chaveiro
+    completion:
+      - internal
