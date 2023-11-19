@@ -1,46 +1,46 @@
-## Create 3D text
+## Створи 3D-текст
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}.
+Відкрий редактор BlocksCAD у веббраузері на [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}.
 
-You can drag and drop blocks to write code to create 3D objects.
+Ти можеш перетягувати блоки коду для створення 3D-об’єктів.
 
 --- /task ---
 
-First, use the 3D text tool to create some 3D letters.
+Спочатку використай інструмент text (текст) для створення 3D-літер.
 
 --- task ---
 
-Click on `Text`{:class="blockscadtext"} and then drag a `3D Text`{:class="blockscadtext"} block onto the canvas.
+Клацни на `Text`{:class="blockscadtext"}, а далі перетягни блок `3D Text`{:class="blockscadtext"} в робочу область.
 
-![screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Change the `3D text` input to say 'CODER'.
-
-![screenshot](images/coder-coder.png)
+![знімок екрана](images/coder-canvas.png)
 
 --- /task --- --- task ---
 
-Click the **Render** button to see what it looks like.
+Введи "CODER" як параметр для `3D text`.
 
-![screenshot](images/coder-render.png)
-
-Rendering is the process of creating an image from a 3D model so that we can see what it looks like.
+![знімок екрана](images/coder-coder.png)
 
 --- /task --- --- task ---
 
-To make the letters bigger, change the `size` to `20` — that means font size 20.
+Натисни на кнопку **Render** (Візуалізувати), щоб побачити результат.
 
-![screenshot](images/coder-bigger.png)
+![знімок екрана](images/coder-render.png)
 
-Click **Render** again to see the result.
+Візуалізація — це процес створення зображення з 3D-моделі, щоб побачити як вона виглядає.
+
+--- /task --- --- task ---
+
+Щоб збільшити літери, зміни `size` (розмір) на `20` — це означає, що розмір шрифта буде 20.
+
+![знімок екрана](images/coder-bigger.png)
+
+Клацни **Render** знову, щоб переглянути результат.
 
 --- /task ---
 
-If you 3D printed the model you have created now, then you would get five separate letters, because they are not joined together. That wouldn't make a very good key ring!
+Якщо ти надрукуєш цю модель на 3D-принтері, ти отримаєш п’ять окремих літер, тому що вони не з’єднані між собою. Таким чином у нас не вийде хороший брелок для ключів!
 
 
 	
