@@ -2,8 +2,8 @@
 title: 3D key ring
 hero_image: images/banner.png
 description: Design a CODER keyring that can be 3D printed.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
@@ -14,6 +14,8 @@ steps:
     title: Create 3D text
   - 
     title: Join the letters together
+    completion:
+      - engaged
   - 
     title: Change thickness
   - 
@@ -24,3 +26,5 @@ steps:
     title: 3D print your key ring
   - 
     title: Assemble your key ring
+    completion:
+      - internal
