@@ -1,88 +1,88 @@
-## Join the letters together
+## З’єднай літери
 
-Next, you will join the letters together so that the key ring looks like this:
+Далі ти з’єднаєш літери, щоб брелок виглядав ось так:
 
 ![screenshot](images/coder-letters-joined.png)
 
 --- task ---
 
-Change your code so that it only creates the letter 'C'.
+Зміни свй код, щоб він створював тільки літеру "C".
 
 ![screenshot](images/coder-c.png)
 
 --- /task --- --- task ---
 
-The `union`{:class="blockscadsetops"} block joins shapes together. Start with the first two letters of 'CODER'.
+Блок `union`{:class="blockscadsetops"} (об’єднання) з’єднує фігури. Розпочни із перших двох літер слова "CODER".
 
 ![screenshot](images/coder-co.png)
 
-Blocks are colour-coded. Look under `Set Ops`{:class="blockscadsetops"} to find `union`{:class="blockscadsetops"}.
+Блоки мають певні кольори. Заглянь в розділ `Set Ops`{:class="blockscadsetops"}, щоб знайти блок `union`{:class="blockscadsetops"}.
 
-Note that the `3D Text`{:class="blockscad3dshapes"} block is found under `Text`{:class="blockscadstext"}, even though it's green.
+Зверни увагу, що блок `3D Text`{:class="blockscad3dshapes"} знаходиться в розділі `Text`{:class="blockscadstext"}, незважаючи на те, що він зелений.
 
 --- /task --- --- task ---
 
-Click **Render** and you'll see that there is a problem: the 'C' and the 'O' are in the same place.
+Клацни **Render** і ти побачиш, що є проблема: "C" та "O" знаходяться в одному місці.
 
 ![screenshot](images/coder-same-place.png)
 
-You need to move the 'O' along the X axis so that it comes after the 'C'.
+Тобі треба перемістити «O» по осі X, щоб вона йшла після «C».
 
 --- /task --- --- task ---
 
-Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
+Додай блок `translate`{:class="blockscadtransforms"} (перемістити) і встанови значення `X` рівне `10`, щоб перемістити «O» на 10 мм вздовж осі X.
 
 ![screenshot](images/coder-translate.png)
 
-Now, the letters should be touching, but not on top of each other.
+Тепер ці літери мають дотикатися, але не закривати одна одну.
 
 --- /task --- --- task ---
 
-Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+Клацни кнопку `[+]` у блоці `union`{:class="blockscadsetops"}, щоб додати місце для ще одного блока.
 
 --- /task --- --- task ---
 
-Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+Клацни правою кнопкою мишки на блок `translate`{:class="blockscadtransforms"} і вибери **Duplicate** (дублювати) для створення копії.
 
 ![screenshot](images/coder-duplicate.png)
 
 --- /task --- --- task ---
 
-Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
+Перетягни цю копію в блок `union`{:class="blockscadsetops"} і зміни «O» на «D».
 
 ![screenshot](images/coder-d.png)
 
 --- /task --- --- task ---
 
-Change the `X` value of the second `translate`{:class="blockscadtransforms"} block so that the 'D' is in the right place.
+Зміни значення `X` в другому блоці `translate`{:class="blockscadtransforms"}, щоб «D» була в правильному місці.
 
 --- hints --- --- hint ---
 
-Think about what you changed to make the 'O' move to after the 'C'. The 'D' starts off in the same place as the 'C', and you need to move it to after the 'O'.
+Подумай що ти змінив(-ла), щоб «O» стала після «C». «D» розпочинає з того ж місця, що й «C», а тобі требе перемістити її після «O».
 
 --- /hint --- --- hint ---
 
-    ![screenshot](images/coder-d-hint.png)
+    ![знімок екрана](images/coder-d-hint.png)
 
 --- /hint --- --- /hints ---
 
 --- /task --- --- task ---
 
-Now, add an 'E' and an 'R' to finish the word 'CODER'.
+Тепер додай літери «E» та «R» щоб завершити слово «CODER».
 
-Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+Переконайся, що всі літери дотикаються і між ними немає проміжків.
 
 --- hints --- --- hint ---
 
-You need to click the `+` on the `union`{:class="blockscadsetops"} block to add space for two more letters.
+Тобі треба використовувати `+` блока `union`{:class="blockscadsetops"}, щоб додати місця ще для двох літер.
 
 --- /hint --- --- hint ---
 
-You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+Ти можеш продублювати код для створення «D», а потім змінити літери та значення `X`.
 
 --- /hint --- --- hint ---
 
-    ![screenshot](images/coder-hint-er.png)
+    ![знімок екрана](images/coder-hint-er.png)
 
 --- /hint --- --- /hints ---
 
