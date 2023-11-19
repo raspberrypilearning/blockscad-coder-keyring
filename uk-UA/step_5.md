@@ -1,24 +1,24 @@
-## Save your project
+## Збережи свій проєкт
 
 --- collapse ---
 ---
-title: I don't have a BlocksCAD account
+title: У мене немає облікового запису BlocksCAD
 ---
 
-To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**.
+Щоб зберегти свій проєкт, клацни в меню на **Project** (Проєкт) та вибери **Save Blocks to your Computer** (Зберегти блоки на свій комп’ютер).
 
-Give your project a recognisable name and remember where you save it.
+Дай своєму проєкту впізнаване ім’я і запам’ятай куди ти його зберігаєш.
 
-You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
+Ти можеш використовувати **Load Blocks from your Computer** (Завантажити блоки зі свого комп’ютера), щоб відкрити проєкт, який було збережено раніше і продовжити над ним роботу.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I have a BlocksCAD account
+title: У мене є обліковий запис BlocksCAD
 ---
 
-If you have a BlocksCAD account and you're logged in, then you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer.
+Якщо в тебе є обліковий запис BlocksCAD і ти в нього увійшов(-ла), тоді тобі треба клацнути в меню на **Project** і вибрати **Save** (Зберегти). Таким чином ти збережеш проєкт онлайн і зможеш отримати до нього доступ із будь-якого комп’ютера.
 
 --- /collapse ---
 
