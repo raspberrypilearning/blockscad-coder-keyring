@@ -50,6 +50,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Download the finished project code at: [https://rpf.io/p/en/blockscad-coder-keyring-get](https://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
