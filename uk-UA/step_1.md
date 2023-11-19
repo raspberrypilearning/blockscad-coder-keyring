@@ -1,55 +1,55 @@
-## Introduction
+## Вступ
 
-In this project, you will use BlocksCAD to design a 'CODER' key ring that can be 3D printed.
+У цьому проєкті ти будеш використовувати BlocksCAD, щоб створити брелок "CODER" (програмер), який потім можна буде надрукувати на 3D-принтері.
 
-BlocksCAD is a 3D model editor that you can use in a web browser on a computer or tablet. You drag and drop code blocks to design 3D models that can be exported for 3D printing.
+BlocksCAD – це редактор для 3D-моделей, який можна використовувати у веббраузері комп’ютера або планшета. Тобі треба перетягувати блоки коду для створення 3D-моделей, які можна буде експортувати для 3D-друку.
 
-If you have access to a 3D printer, then you can print your key ring. The key ring doesn't use a lot of filament and is small and quick to 3D print.
+Якщо в тебе є доступ до 3D-принтера, ти зможеш надрукувати свій брелок. Цей брелок використовує небагато матеріалу, він маленький, і його швидко можна надрукувати.
 
-### What you will make
+### Що ти зробиш
 
-The finished key ring looks like this:
+Завершений брелок виглядає ось так:
 
-![screenshot](images/coder-keyring.png) ![screenshot](images/coder-keyring.png)
+![знімок екрана](images/coder-keyring.png) ![знімок екрана](images/coder-keyring.png)
 
-You can put a split ring through the gap between the 'C' and the 'O' to make a key ring.
+Ти можеш вставити металеве кільце в проміжок між літерами "C" та "O", щоб створити брелок для ключів.
 
-The key ring will measure around 14mm by 50mm.
+Розміри цього брелока приблизно 14 мм на 50 мм.
 
 --- collapse ---
 ---
-title: What you will need
+title: Що тобі знадобиться
 ---
 
-### Hardware
+### Обладнання
 
-+ A 3D printer and filament. Solid colours work best.
-+ A split ring for making the key ring. A 19mm diameter split ring works well.
++ 3D-принтер і матеріал для нього. Найкраще підходять однотонні кольори.
++ Металеве кільце для приєднання ключів. Добре підійде кільце діаметром 19 мм.
 
-### Software
+### Програмне забезпечення
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Цей проєкт можна виконати у веббраузері за допомогою BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Чого ти навчишся
 ---
 
-+ How to create a simple 3D object that can be 3D printed
-+ How to work with X, Y and Z axes
-+ How to use `translate` to position a 3D object
++ Як створити простий 3D-об’єкт, який можна надрукувати на 3D-принтері
++ Як працювати з осями X, Y та Z
++ Як використовувати `translate` (перенос) для розміщення 3D-об’єкта
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Додаткова інформація для викладачів
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_ blank"}.
 
-Download the finished project code at: [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Завантажте готовий код проєкту з [https://rpf.io/p/en/blockscad-coder-keyring-get](https://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
