@@ -2,8 +2,8 @@
 title: 3Dキーホルダー
 hero_image: images/banner.png
 description: 3Dプリントできる「CODER」(コーダー) キーホルダーを設計 (せっけい) しよう
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
@@ -14,6 +14,8 @@ steps:
     title: 3Dテキストを作る
   - 
     title: 文字をつなげる
+    completion:
+      - engaged
   - 
     title: 厚さ (あつさ) をかえる
   - 
@@ -24,3 +26,5 @@ steps:
     title: キーホルダーを3Dプリントする
   - 
     title: キーホルダーを組み立てる
+    completion:
+      - internal
