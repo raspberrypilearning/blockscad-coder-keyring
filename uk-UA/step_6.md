@@ -1,40 +1,40 @@
-## Challenge: Create a key ring with your name
+## Завдання: створи брелок зі своїм ім’ям
 
-Now, create a 3D text key ring or badge with your name or another word or short phrase.
+А тепер створи 3D-брелок або значок зі своїм іменем, іншим словом, або короткою фразою.
 
-Tips:
-+ Make sure that all of the letters join up
-+ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
+Поради:
++ Переконайся, що всі літери з’єднуються між собою
++ Переконайся, що задня сторона твого брелока плоска та рівна, інакше його буде важко надрукувати
 
-Here's an example:
+Ось приклад:
 
-![screenshot](images/coder-grace.png)
+![знімок екрана](images/coder-grace.png)
 
-## Challenge: Create a key ring with vertical letters
+## Завдання: створи брелок із вертикальними буквами
 
-Create a key ring where the letters line up vertically instead of horizontally.
+Створи брелок, у якому літери ідуть вертикально, а не горизонтально.
 
-Here's an example:
+Ось приклад:
 
-![screenshot](images/coder-vertical.png)
+![знімок екрана](images/coder-vertical.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` letters along the Y axis.
+Цього разу тобі треба буде переносити літери (`translate`) вздовж осі Y.
 
 --- /hint --- --- /hints ---
 
-## Challenge: Add a loop
+## Завдання: додай вушко
 
-If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+Якщо в твоєму брелоку немає місця, куди можна прикріпити металеве кільце, то ти можеш додати маленьку літеру «o», щоб зробити вушко.
 
-Here's an example:
+Ось приклад:
 
-![screenshot](images/coder-loop.png)
+![знімок екрана](images/coder-loop.png)
 
 --- hints --- --- hint ---
 
-This time, you will need to `translate` the 'o' along the X and Y axes.
+Цього разу тобі треба буде переносити «o» (`translate`) вздовж осей X та Y.
 
 --- /hint --- --- /hints ---
 
