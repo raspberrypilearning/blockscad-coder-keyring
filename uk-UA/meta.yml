@@ -1,26 +1,30 @@
 ---
-title: 3D key ring
+title: 3D-брелок
 hero_image: images/banner.png
-description: Design a CODER keyring that can be 3D printed.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+description: Створи брелок CODER, який можна надрукувати на 3D-принтері.
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Create 3D text
+    title: Створи 3D-текст
   - 
-    title: Join the letters together
+    title: З’єднай літери
+    completion:
+      - engaged
   - 
-    title: Change thickness
+    title: Зміни товщину
   - 
-    title: Save your project
+    title: Збережи свій проєкт
   - 
-    title: Challenges
+    title: Завдання
   - 
-    title: 3D print your key ring
+    title: Роздрукуй свій брелок на 3D-принтері
   - 
-    title: Assemble your key ring
+    title: Збери свій брелок
+    completion:
+      - internal
