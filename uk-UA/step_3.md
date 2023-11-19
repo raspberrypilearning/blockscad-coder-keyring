@@ -2,19 +2,19 @@
 
 Далі ти з’єднаєш літери, щоб брелок виглядав ось так:
 
-![screenshot](images/coder-letters-joined.png)
+![знімок екрана](images/coder-letters-joined.png)
 
 --- task ---
 
 Зміни свй код, щоб він створював тільки літеру "C".
 
-![screenshot](images/coder-c.png)
+![знімок екрана](images/coder-c.png)
 
 --- /task --- --- task ---
 
 Блок `union`{:class="blockscadsetops"} (об’єднання) з’єднує фігури. Розпочни із перших двох літер слова "CODER".
 
-![screenshot](images/coder-co.png)
+![знімок екрана](images/coder-co.png)
 
 Блоки мають певні кольори. Заглянь в розділ `Set Ops`{:class="blockscadsetops"}, щоб знайти блок `union`{:class="blockscadsetops"}.
 
@@ -24,7 +24,7 @@
 
 Клацни **Render** і ти побачиш, що є проблема: "C" та "O" знаходяться в одному місці.
 
-![screenshot](images/coder-same-place.png)
+![знімок екрана](images/coder-same-place.png)
 
 Тобі треба перемістити «O» по осі X, щоб вона йшла після «C».
 
@@ -32,7 +32,7 @@
 
 Додай блок `translate`{:class="blockscadtransforms"} (перемістити) і встанови значення `X` рівне `10`, щоб перемістити «O» на 10 мм вздовж осі X.
 
-![screenshot](images/coder-translate.png)
+![знімок екрана](images/coder-translate.png)
 
 Тепер ці літери мають дотикатися, але не закривати одна одну.
 
@@ -44,13 +44,13 @@
 
 Клацни правою кнопкою мишки на блок `translate`{:class="blockscadtransforms"} і вибери **Duplicate** (дублювати) для створення копії.
 
-![screenshot](images/coder-duplicate.png)
+![знімок екрана](images/coder-duplicate.png)
 
 --- /task --- --- task ---
 
 Перетягни цю копію в блок `union`{:class="blockscadsetops"} і зміни «O» на «D».
 
-![screenshot](images/coder-d.png)
+![знімок екрана](images/coder-d.png)
 
 --- /task --- --- task ---
 
@@ -88,7 +88,7 @@
 
 --- /task --- --- task ---
 
-Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
+Перевір чи літери «E» та «R» з’єднані. Якщо ні, то тобі треба підправити свій код.
 
 --- /task ---
 
