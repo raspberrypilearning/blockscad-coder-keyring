@@ -2,8 +2,8 @@
 title: 3D-Schlüsselanhänger
 hero_image: images/banner.png
 description: Entwirf einen 'CODER'-Schlüsselanhänger, der in 3D gedruckt werden kann.
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 #possible values: 1, 2 or 3
+theme: red
+duration: 2
 listed: true
 ingredient: false
 copyedit: true
@@ -14,6 +14,8 @@ steps:
     title: Erstelle den 3D-Text
   - 
     title: Verbinde die Buchstaben miteinander
+    completion:
+      - engaged
   - 
     title: Ändere die Dicke
   - 
@@ -24,3 +26,5 @@ steps:
     title: Drucke deinen Schlüsselanhänger in 3D
   - 
     title: Baue deinen Schlüsselanhänger zusammen
+    completion:
+      - internal
