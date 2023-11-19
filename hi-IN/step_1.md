@@ -50,6 +50,6 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print){:target="_blank"} का उपयोग करें।
 
-पूर्ण रूप से तैयार परियोजना कोड को यहां से डाउनलोड करें: [ http://rpf.io/p/en/blockscad-coder-ring/get ](http://rpf.io/p/en/blockscad-coder-keyring-get) ।
+Download the finished project code at: [https://rpf.io/p/en/blockscad-coder-keyring-get](https://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
