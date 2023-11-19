@@ -1,16 +1,16 @@
-## Assemble your key ring
+## Збери свій брелок
 
 --- task ---
 
-Get your split ring and 3D printed key ring:
+Візьми металеве кільце та надрукований 3D-брелок:
 
-![screenshot](images/coder-splitring-keyring.png)
+![знімок екрана](images/coder-splitring-keyring.png)
 
 --- /task --- --- task ---
 
-Attach the split ring to your 3D printed key ring:
+Приєднай металеве кільце до свого брелока:
 
-![screenshot](images/coder-keyring.png)
+![знімок екрана](images/coder-keyring.png)
 
 --- /task ---	
 
