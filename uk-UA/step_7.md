@@ -1,26 +1,26 @@
-## 3D print your key ring
+## Роздрукуй свій брелок на 3D-принтері
 
-BlocksCAD can export an `.STL` file for 3D printing.
+BlocksCAD може експортувати файли `.STL` для 3D-друку.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Візуалізуй (render) свою модель та натисни **Generate STL**. Запам’ятай, куди ти збережеш цей файл STL.
 
 --- /task --- --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer.
+Є безліч інструментів, які можуть читати STL-файли та надсилати 3D-моделі на принтер.
 
-The one you choose will depend on the 3D printer that you are using.
-
---- /task --- --- task ---
-
-Carefully remove the 3D print from the print bed.
-
-![screenshot](images/coder-printed.png)
+Твій вибір залежатиме від 3D-принтера, який ти будеш використовувати.
 
 --- /task --- --- task ---
 
-You might need to remove some small strands of filament to tidy up the print.
+Обережно зніми надрукований брелок із підкладки для друку.
+
+![знімок екрана](images/coder-printed.png)
+
+--- /task --- --- task ---
+
+Можливо, тобі треба буде видалити маленькі ниточки матеріалу, щоб зробити брелок охайнішим.
 
 --- /task ---
 
