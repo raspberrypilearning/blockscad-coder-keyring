@@ -50,6 +50,6 @@ title: معلومات إضافية للمعلمين
 
 اذا كنت ترغب بطباعة هذا المشروع، الرجاء استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring/print) {:target="_blank"}.
 
-قم بتنزيل الكود البرمجي للمشروع النهائي من [http://rpf.io/p/en/blockscad-coder-keyring-get](http://rpf.io/p/en/blockscad-coder-keyring-get).
+Download the finished project code at: [https://rpf.io/p/en/blockscad-coder-keyring-get](https://rpf.io/p/en/blockscad-coder-keyring-get).
 
 --- /collapse ---
