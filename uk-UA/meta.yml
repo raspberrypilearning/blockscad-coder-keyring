@@ -1,0 +1,22 @@
+---
+title: 3D-брелок
+hero_image: images/banner.png
+description: Створи брелок CODER, який можна надрукувати на 3D-принтері.
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+steps:
+  - title: Вступ
+  - title: Створи 3D-текст
+  - title: З’єднай літери
+    completion:
+      - engaged
+  - title: Зміни товщину
+  - title: Збережи свій проєкт
+  - title: Завдання
+  - title: Роздрукуй свій брелок на 3D-принтері
+  - title: Збери свій брелок
+    completion:
+      - internal
