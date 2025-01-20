@@ -17,6 +17,8 @@ steps:
 - title: Save your project
 - title: Challenges
 - title: 3D print your key ring
-- title: Assemble your key ring
   completion:
   - internal
+- title: Assemble your key ring
+  completion:
+  - external
