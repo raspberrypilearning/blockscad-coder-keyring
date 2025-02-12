@@ -1,39 +1,15 @@
-## Change thickness
+## Save your project
 
-Next, alternate the thickness of the letters to help separate them, and to make your key ring even better. 
+### I don't have a BlocksCAD account
 
---- task ---
+To save your project, click on **Project** in the menu bar and select **Save Blocks to your Computer**. 
 
-The letters are currently 2mm thick. 
-
-Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick. 
+Give your project a recognisable name and remember where you save it. 
 	
-![screenshot](images/coder-finished.png)
-		
---- hints ---
---- hint ---
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it. 
 
-Change the `thickness` value for the text. 
+### I have a BlocksCAD account
 
---- /hint ---
---- hint ---
+If you are logged in, you can click on **Project** in the menu bar and select **Save**. This saves your project online so that you can access it from any computer. 
 
-Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'. 
 
-![screenshot](images/coder-thickness.png) 
-  
---- /hint ---
---- /hints ---
-	
---- /task ---	
---- task ---
-
-You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view. 
-
-![screenshot](images/coder-colour.png)
-
-You can also show and hide the grid. Try the other buttons and see what they do. 
-
-You can drag your model around to view it from different angles too.
-
---- /task ---

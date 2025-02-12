@@ -1,30 +1,18 @@
-## 3D print your key ring
-
-BlocksCAD can export an `.STL` file for 3D printing. 
+## Assemble your key ring
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file. 
+Get your split ring and 3D printed key ring:
+
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png) 
 
 --- /task ---
+
 --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer. 
+Attach the split ring to your 3D printed key ring:
 
-The one you choose will depend on the 3D printer that you are using. 
+![The complete keyring](images/coder-keyring.png) 
 
---- /task ---
---- task ---
-
-Carefully remove the 3D print from the print bed. 
-	
-![screenshot](images/coder-printed.png) 
-		
---- /task ---
---- task ---
-
-You might need to remove some small strands of filament to tidy up the print. 
-
---- /task ---
-
+--- /task ---	
 

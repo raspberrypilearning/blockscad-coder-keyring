@@ -10,15 +10,15 @@ copyedit: true
 steps:
 - title: Introduction
 - title: Create 3D text
-- title: Join the letters together
   completion:
   - engaged
 - title: Change thickness
 - title: Save your project
-- title: Challenges
-- title: 3D print your key ring
   completion:
   - internal
+- title: Challenges
+  chalenge: true
+- title: 3D print your key ring
 - title: Assemble your key ring
   completion:
   - external
