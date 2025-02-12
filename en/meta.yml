@@ -20,5 +20,6 @@ steps:
   chalenge: true
 - title: 3D print your key ring
 - title: Assemble your key ring
+- title: What can you do now?
   completion:
   - external
