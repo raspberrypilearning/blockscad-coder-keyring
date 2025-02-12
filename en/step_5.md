@@ -1,4 +1,4 @@
-## Challenge: Create a key ring with your name
+## Challenges
 
 --- task ---
 
@@ -23,6 +23,8 @@ Here's an example:
 ![A vertical keyring](images/coder-vertical.png)
 
 You will need to `translate` letters along the Y axis. 
+
+--- /task ---
 
 --- task ---
 
