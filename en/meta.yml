@@ -8,7 +8,7 @@ listed: true
 ingredient: false
 copyedit: true
 steps:
-- title: Introduction
+- title: What you will make
 - title: Create 3D text
   completion:
   - engaged
