@@ -8,7 +8,7 @@ BlocksCAD is a 3D model editor that you can use in a web browser on a computer o
 
 The key ring will measure around 14mm by 50mm. 
 
-### What you will need (optional)
+### You will need (optional)
 
 + A 3D printer and filament. Solid colours work best. The key ring doesn't use a lot of filament and is small and quick to 3D print. 
 + A split ring for making the key ring. A 19mm diameter split ring works well.
