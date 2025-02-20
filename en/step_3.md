@@ -26,7 +26,7 @@ Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are t
 --- /hints ---
 	
 --- /task ---	
---- task ---
+
 
 You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view. 
 
@@ -34,6 +34,4 @@ You can click on the coloured square to change the colour of your model in the o
 
 You can also show and hide the grid. Try the other buttons and see what they do. 
 
-You can drag your model around to view it from different angles too.
-
---- /task ---
+You can drag your model around to view it from different angles, too.
