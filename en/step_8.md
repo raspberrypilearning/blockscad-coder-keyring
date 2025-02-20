@@ -1,17 +1,9 @@
-## Assemble your key ring
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-Get your split ring and 3D printed key ring:
+You could create:
 
-![screenshot](images/coder-splitring-keyring.png) 
+![A 3D printed bug](images/bug-showcase.png) 
 
---- /task ---
---- task ---
-
-Attach the split ring to your 3D printed key ring:
-
-![screenshot](images/coder-keyring.png) 
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)

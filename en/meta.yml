@@ -8,17 +8,18 @@ listed: true
 ingredient: false
 copyedit: true
 steps:
-- title: Introduction
+- title: What you will make
 - title: Create 3D text
-- title: Join the letters together
   completion:
   - engaged
 - title: Change thickness
 - title: Save your project
-- title: Challenges
-- title: 3D print your key ring
   completion:
   - internal
+- title: Challenges
+  chalenge: true
+- title: 3D print your key ring
 - title: Assemble your key ring
+- title: What can you do now?
   completion:
   - external
