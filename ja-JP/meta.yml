@@ -17,6 +17,5 @@ steps:
 - title: プロジェクトを保存 (ほぞん) する
 - title: チャレンジ
 - title: キーホルダーを3Dプリントする
-- title: キーホルダーを組み立てる
   completion:
   - internal

@@ -17,6 +17,5 @@ steps:
   - title: Збережи свій проєкт
   - title: Завдання
   - title: Роздрукуй свій брелок на 3D-принтері
-  - title: Збери свій брелок
     completion:
       - internal

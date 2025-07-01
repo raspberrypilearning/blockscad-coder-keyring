@@ -17,6 +17,5 @@ steps:
 - title: 프로젝트 저장하기
 - title: '도전과제: 자신의 이름으로 키링 만들기'
 - title: 키링을 3D 프린터로 출력하기
-- title: 키 링 조립하기
   completion:
   - internal
