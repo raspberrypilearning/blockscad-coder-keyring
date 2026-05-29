@@ -13,17 +13,13 @@ Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
 --- hints ---
 --- hint ---
 
-Change the `thickness` value for the text. 
-
---- /hint ---
---- hint ---
-
 Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'. 
 
 ![The altered thickness value](images/coder-thickness.png) 
   
 --- /hint ---
 --- /hints ---
+
 	
 --- /task ---	
 
