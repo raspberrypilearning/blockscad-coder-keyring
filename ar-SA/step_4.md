@@ -1,36 +1,24 @@
-## تغيير السماكة
+## Save your project
 
-بعد ذلك، قم بتغيير سماكة الحروف للمساعدة في فصلها، وجعل حلقة المفتاح الخاصة بك أفضل.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-سماكة الحروف حاليا 2 مم.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-قم بتغيير سماكة "C" و "D" و "R" بحيث تكون بسُمك 3 مم.
+Name your project and remember where you save it.
 
-![لقطة الشاشة](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-تغيير قيمة `السمك ` للنص.
-
---- /hint --- --- hint ---
-
-قم بتغيير قيمة سمك `` لـ 'C', 'D', و 'R' إلى `3` بحيث تصبح أكثر سماكة من 'O' و 'E'.
-
-![لقطة الشاشة](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-يمكنك النقر على المربع الملون لتغيير لون النموذج الخاص بك بطريقة عرض النتيجة النهائية. إذا طبعت النموذج ثلاثي الأبعاد، فإن لون حلقة المفاتيح سيعتمد على لون الفتيل البلاستيكي (مادة الطباعة) الذي تستخدمه، ولكن من المفيد أن تكون قادراً على تجربة ألوان مختلفة بطريقة عرض النتيجة النهائية.
-
-![لقطة الشاشة](images/coder-colour.png)
-
-يمكنك أيضًا إظهار الشبكة وإخفائها. جرب الأزرار الأخرى وشاهد ما يفعلون.
-
-يمكنك سحب النموذج الخاص بك لعرضه من زوايا مختلفة أيضا.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
