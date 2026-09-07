@@ -1,40 +1,33 @@
-## Desafio: Crie um chaveiro com seu nome
+## 3D print your key ring
 
-Agora, crie um chaveiro ou emblema de texto em 3D com seu nome ou outra palavra ou frase curta.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Dicas:
-+ Certifique-se de que todas as letras se juntem
-+ Certifique-se de que a parte de trás do seu chaveiro seja plana e uniforme, caso contrário, será muito difícil imprimir
+--- task ---
 
-Aqui está um exemplo:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![captura de tela](images/coder-grace.png)
+--- /task ---
 
-## Desafio: Crie um chaveiro com as letras na vertical
+--- task ---
 
-Crie um chaveiro em que as letras estejam alinhadas verticalmente em vez de horizontalmente.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Aqui está um exemplo:
+The one you choose will depend on the 3D printer that you are using.
 
-![captura de tela](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Desta vez, você precisará utilizar o `translate` ao longo do eixo Y.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Desafio: adicionar um circulo
+--- /task ---
 
-Se não houver nenhum lugar para adicionar uma argola de chaveiro no início de sua palavra, Poderíamos então adicionar uma letra menor "o" para fazer um circulo.
+--- task ---
 
-Aqui está um exemplo:
+You might need to remove some small strands of filament to tidy up the print.
 
-![captura de tela](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Desta vez, você precisará `transferir` o 'O' ao longo dos eixos X e Y.
-
---- /hint --- --- /hints ---
 
