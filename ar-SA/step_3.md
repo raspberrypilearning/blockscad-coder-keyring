@@ -1,94 +1,31 @@
-## ربط الحروف مع بعضها البعض
+## Change thickness
 
-بعد ذلك، ستنضم إلى الحروف معا حتى تبدو حلقة المفتاح هكذا:
-
-![لقطة الشاشة](images/coder-letters-joined.png)
+Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
 
 --- task ---
 
-قم بتغيير التعليمات البرمجية الخاصة بك بحيث تقوم فقط بإنشاء الحرف 'C'.
+The letters are currently 2mm thick.
 
-![لقطة الشاشة](images/coder-c.png)
+Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
 
---- /task --- --- task ---
-
-الكتلة ` union `{:class="blockscadsetops"} تربط الأشكال معا. ابدأ بالحرفين الأولين من "CODER".
-
-![لقطة الشاشة](images/coder-co.png)
-
-الكتل مرقمة بالألوان. انظر تحت `Set Ops `{:class="blockscadsetops"} للعثور على `union`{:class="blockscadsetops"}.
-
-لاحظ أن الكتلة `3D Text`{:class="blockscad3dshapes"} موجودة تحت `Text`{:class="blockscadstext"}، بالرغم من أنها خضراء.
-
---- /task --- --- task ---
-
-انقر فوق **Render** وسترى أن هناك مشكلة: 'C' و 'O' في نفس المكان.
-
-![لقطة الشاشة](images/coder-same-place.png)
-
-تحتاج إلى تحريك 'O' على طول المحور السيني بحيث يأتي بعد 'C'.
-
---- /task --- --- task ---
-
-قم بإضافة كتلة ` translate `{:class="blockscadtransforms"} وضبط قيمة `X` إلى `10` لتحريك الحرف 'O'١٠مم على طول المحور السيني.
-
-![لقطة الشاشة](images/coder-translate.png)
-
-الآن، يجب أن تكون الحروف ملامسة، ولكن ليس على رأس بعضها البعض.
-
---- /task --- --- task ---
-
-انقر فوق الزر `[+]` على القالب `union`{:class="blockscadsetops"} لإضافة مساحة لكتلة أخرى.
-
---- /task --- --- task ---
-
-انقر بالزر الأيمن على الكتلة ` translate `{:class="blockscadtransforms"} وحدد ** Duplicate ** لإنشاء نسخة.
-
-![لقطة الشاشة](images/coder-duplicate.png)
-
---- /task --- --- task ---
-
-اسحب النسخة إلى القالب `union`{:class="blockscadsetops"} وقم بتغيير 'O' إلى 'D'.
-
-![لقطة الشاشة](images/coder-d.png)
-
---- /task --- --- task ---
-
-قم بتغيير القيمة `X` من الكتلة الثانية ` translate `{:class="blockscadtransforms"} بحيث يكون 'D' في المكان الصحيح.
+![The complete render](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-فكر فيما قمت بتغييره لجعل "O" تنتقل إليه بعد "C". يبدأ "D" في نفس المكان الذي يبدأ فيه "C"، وتحتاج إلى نقله بعد "O".
+Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
 
---- /hint --- --- hint ---
-
-    ![screenshot](images/coder-d-hint.png)
+![The altered thickness value](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
---- /task --- --- task ---
-
-الآن، أضف 'E' و 'R' لإنهاء كلمة 'CODER'.
-
-تأكد من أن جميع الحروف ملامسة، وأنه لا توجد فجوات بين أي من الحروف.
-
---- hints --- --- hint ---
-
-تحتاج إلى النقر على الكتلة `+` في `union`{:class="blockscadsetops"} لإضافة مساحة لحرفين آخرين.
-
---- /hint --- --- hint ---
-
-يمكنك تكرار التعليمات البرمجية التي استخدمتها لإنشاء 'D' ثم تغيير الحروف والقيم `X` .
-
---- /hint --- --- hint ---
-
-    ![screenshot](images/coder-hint-er.png)
-
---- /hint --- --- /hints ---
-
---- /task --- --- task ---
-
-انظر عن كثب - هل "E" و "R" مترابطان معًا؟ إذا لم تكن كذلك ، فأنت بحاجة إلى تعديل التعليمات البرمجية الخاصة بك.
 
 --- /task ---
 
+
+You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+
+![The colour value located at the bottom left of the window](images/coder-colour.png)
+
+You can also show and hide the grid. Try the other buttons and see what they do.
+
+You can drag your model around to view it from different angles, too.
