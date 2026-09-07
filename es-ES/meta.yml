@@ -9,22 +9,23 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Introducción
+    title: What you will make
   - 
     title: Crear texto en 3D
-  - 
-    title: Pon las letras juntas
     completion:
       - engaged
   - 
-    title: Cambiar de grosor
+    title: Change thickness
   - 
-    title: Guarda tu proyecto
-  - 
-    title: Desafíos
-  - 
-    title: Imprime tu llavero en 3D
-  - 
-    title: Monta tu llavero
+    title: Save your project
     completion:
       - internal
+  - 
+    title: Challenges
+    chalenge: true
+  - 
+    title: 3D print your key ring
+  - 
+    title: Assemble your key ring
+    completion:
+      - external
