@@ -1,16 +1,9 @@
-## Συναρμολόγηση του μπρελόκ σου
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-Πάρε το δαχτυλίδι και το 3D εκτυπωμένο μπρελόκ:
+You could create:
 
-![στιγμιότυπο οθόνης](images/coder-splitring-keyring.png)
+![A 3D printed bug](images/bug-showcase.png)
 
---- /task --- --- task ---
-
-Τοποθέτησε το δαχτυλίδι στο 3D εκτυπωμένο μπρελόκ:
-
-![στιγμιότυπο οθόνης](images/coder-keyring.png)
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)
