@@ -1,16 +1,9 @@
-## Monte seu chaveiro
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-Pegue a argola e o chaveiro impresso em 3D:
+You could create:
 
-![captura de tela](images/coder-splitring-keyring.png)
+![A 3D printed bug](images/bug-showcase.png)
 
---- /task --- --- task ---
-
-Anexe a argola ao seu chaveiro impresso em 3D:
-
-![captura de tela](images/coder-keyring.png)
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)
