@@ -1,27 +1,18 @@
-## Imprima em 3D seu chaveiro
-
-BlocksCAD pode exportar um arquivo `.STL` para impressão 3D.
+## Assemble your key ring
 
 --- task ---
 
-Renderize seu modelo e clique em **Generate STL**. Lembre-se onde você salvou o arquivo STL.
+Get your split ring and 3D printed key ring:
 
---- /task --- --- task ---
-
-Existem muitas ferramentas que podem ler arquivos STL e enviar modelos 3D para uma impressora.
-
-O que você vai escolher dependerá da impressora 3D que você estiver usando.
-
---- /task --- --- task ---
-
-Cuidadosamente remova a impressão 3D da área de impressão.
-
-![captura de tela](images/coder-printed.png)
-
---- /task --- --- task ---
-
-Você pode precisar remover algumas pequenas linhas de filamento para ajustar a impressão.
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png)
 
 --- /task ---
 
+--- task ---
+
+Attach the split ring to your 3D printed key ring:
+
+![The complete keyring](images/coder-keyring.png)
+
+--- /task ---	
 
