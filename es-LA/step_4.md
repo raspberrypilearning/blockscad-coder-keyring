@@ -1,36 +1,24 @@
-## Cambia el grosor
+## Save your project
 
-A continuación, alternaremos el grosor de las letras para ayudar a separarlas, y mejorar aún más nuestro llavero.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-Las letras tienen actualmente 2 mm de grosor.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-Cambia el grosor de 'C', 'D' y 'R' para que tengan un grosor de 3 mm.
+Name your project and remember where you save it.
 
-![captura de pantalla](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-Cambiar el valor de `grosor` para el texto.
-
---- /hint --- --- hint ---
-
-Cambia el valor de `grosor` para 'C', 'D', y 'R' a `3` para que sean más gruesas que 'O' y 'E'.
-
-![captura de pantalla](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-Puedes hacer clic en el cuadrado coloreado para cambiar el color del modelo en la pantalla. Si imprimes el modelo en 3D, el color del llavero dependerá del color del filamento de plástico que utilices, pero es útil poder probar diferentes colores en la pantalla.
-
-![captura de pantalla](images/coder-colour.png)
-
-También puedes mostrar y ocultar la cuadrícula. Prueba los otros botones y mira lo que hacen.
-
-También puedes arrastrar tu modelo para verlo desde diferentes ángulos.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
