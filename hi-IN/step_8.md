@@ -1,16 +1,9 @@
-## अपने चाबी के छल्ले को जोड़ें
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-अपनी स्प्लिट रिंग(spilit ring) और 3D प्रिंटेड चाबी के छल्ले लें:
+You could create:
 
-![स्क्रीनशॉट](images/coder-splitring-keyring.png)
+![A 3D printed bug](images/bug-showcase.png)
 
---- /task --- --- task ---
-
-अपनी 3D प्रिंटेड चाबी के छल्ले को स्प्लिट रिंग (split ring) में संलग्न करें:
-
-![स्क्रीनशॉट](images/coder-keyring.png)
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)
