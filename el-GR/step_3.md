@@ -1,94 +1,31 @@
-## Ένωση των γραμμάτων
+## Change thickness
 
-Στη συνέχεια, θα ενώσεις τα γράμματα μαζί έτσι ώστε το μπρελόκ να μοιάζει με αυτό:
-
-![στιγμιότυπο οθόνης](images/coder-letters-joined.png)
+Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
 
 --- task ---
 
-Άλλαξε τον κώδικά σου έτσι ώστε να δημιουργεί μόνο το γράμμα «C».
+The letters are currently 2mm thick.
 
-![στιγμιότυπο οθόνης](images/coder-c.png)
+Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
 
---- /task --- --- task ---
-
-Το μπλοκ `union`{:class="blockscadsetops"} ενώνει τα σχήματα. Ξεκίνησε με τα δύο πρώτα γράμματα του «CODER».
-
-![στιγμιότυπο οθόνης](images/coder-co.png)
-
-Τα μπλοκ διακρίνονται ανάλογα με το χρώμα τους. Κοίταξε κάτω από το `Set Ops`{:class="blockscadsetops"} για να βρεις το `union`{:class="blockscadsetops"}.
-
-Παρατήρησε ότι το μπλοκ `3D Text`{:class="blockscad3dshapes"} βρίσκεται κάτω από το `Text`{:class="blockscadstext"}, ακόμη κι αν είναι πράσινο.
-
---- /task --- --- task ---
-
-Κάνε κλικ στο **Render** και θα δεις ότι υπάρχει ένα πρόβλημα: τα «C» και τα «O» βρίσκονται στο ίδιο σημείο.
-
-![στιγμιότυπο οθόνης](images/coder-same-place.png)
-
-Πρέπει να μετακινήσεις το "O" κατά μήκος του άξονα X έτσι ώστε να βρίσκεται μετά το "C".
-
---- /task --- --- task ---
-
-Πρόσθεσε ένα μπλοκ `translate`{:class="blockscadtransforms"} και θέσε την τιμή του `X` σε `10` ώστε να μετακινήσεις το "O" 10 χιλιοστά κατά μήκος του άξονα X.
-
-![στιγμιότυπο οθόνης](images/coder-translate.png)
-
-Τώρα τα γράμματα θα ακουμπάνε το ένα το άλλο, αλλά δεν θα βρίσκονται στο ίδιο σημείο.
-
---- /task --- --- task ---
-
-Κάντε κλικ στο κουμπί `[+]` στο μπλοκ `union`{:class="blockscadsetops"} για να προσθέσεις κενό για ακόμη ένα μπλοκ.
-
---- /task --- --- task ---
-
-Κάνε δεξί κλικ στο μπλοκ `translate`{:class="blockscadtransforms"} και επίλεξε **Duplicate** για να δημιουργήσεις ένα αντίγραφο.
-
-![στιγμιότυπο οθόνης](images/coder-duplicate.png)
-
---- /task --- --- task ---
-
-Σύρε το αντίγραφο στο μπλοκ `union`{:class="blockscadsetops"} και άλλαξε το 'O' σε 'D'.
-
-![στιγμιότυπο οθόνης](images/coder-d.png)
-
---- /task --- --- task ---
-
-Άλλαξε την τιμή `X` του δεύτερου μπλοκ `translate`{:class="blockscadtransforms"} έτσι ώστε το "D" να είναι στη σωστή θέση.
+![The complete render](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Σκέψου τι άλλαξες για να μετακινήσεις το "O" μετά το "C". Το "D" ξεκινάει στο ίδιο σημείο με το "C" και πρέπει να το μετακινήσεις μετά το "O".
+Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
 
---- /hint --- --- hint ---
-
-    ![screenshot](images/coder-d-hint.png)
+![The altered thickness value](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
---- /task --- --- task ---
-
-Τώρα, πρόσθεσε ένα «E» και ένα «R» για να ολοκληρώσεις τη λέξη «CODER».
-
-Βεβαιώσου ότι όλα τα γράμματα αγγίζουν το ένα το άλλο και ότι δεν υπάρχουν κενά μεταξύ τους.
-
---- hints --- --- hint ---
-
-Κάντε κλικ στο κουμπί `+` στο μπλοκ `union`{:class="blockscadsetops"} για να προσθέσεις κενό για ακόμη δύο γράμματα.
-
---- /hint --- --- hint ---
-
-Μπορείς να αντιγράψεις τον κώδικα που χρησιμοποίησες για να δημιουργήσεις το «D» και μετά να αλλάξεις τα γράμματα και τις τιμές του `X`.
-
---- /hint --- --- hint ---
-
-    ![screenshot](images/coder-hint-er.png)
-
---- /hint --- --- /hints ---
-
---- /task --- --- task ---
-
-Κοίταξε προσεκτικά - είναι τα "E" και "R" ενωμένα; Εάν δεν είναι, πρέπει να προσαρμόσεις τον κώδικά σου.
 
 --- /task ---
 
+
+You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+
+![The colour value located at the bottom left of the window](images/coder-colour.png)
+
+You can also show and hide the grid. Try the other buttons and see what they do.
+
+You can drag your model around to view it from different angles, too.
