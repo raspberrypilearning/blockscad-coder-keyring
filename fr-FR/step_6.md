@@ -1,40 +1,33 @@
-## Défi: crée un porte-clés avec ton nom
+## 3D print your key ring
 
-Maintenant, crée un porte-clés avec un texte 3D ou un badge avec ton nom ou un autre mot ou une phrase courte.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Astuces :
-+ Assure-toi que toutes les lettres se joignent
-+ Assure-toi que le dos de ton porte-clés est plat et uniforme, sinon il sera très difficile d'imprimer
+--- task ---
 
-Voici un exemple :
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![capture d'écran](images/coder-grace.png)
+--- /task ---
 
-## Défi : crée un porte-clés avec des lettres verticales
+--- task ---
 
-Crée un porte-clés où les lettres s'alignent verticalement au lieu de s'aligner horizontalement.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Voici un exemple :
+The one you choose will depend on the 3D printer that you are using.
 
-![capture d'écran](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Cette fois, tu devras utiliser `translation` pour déplacer les lettres le long de l'axe Y.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Défi : ajouter une boucle
+--- /task ---
 
-S'il n'y a aucun endroit pour ajouter un anneau porte-clés au début de ton mot, tu peux ajouter une lettre « o » plus petite pour faire une boucle.
+--- task ---
 
-Voici un exemple :
+You might need to remove some small strands of filament to tidy up the print.
 
-![capture d'écran](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Cette fois, tu devras utiliser `translation` pour déplacer le « o » le long des axes X et Y.
-
---- /hint --- --- /hints ---
 
