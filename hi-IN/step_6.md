@@ -1,40 +1,33 @@
-## चुनौती: अपने नाम के साथ एक चाबी का छल्ला बनाएँ
+## 3D print your key ring
 
-अब, अपने नाम या किसी अन्य शब्द या छोटे वाक्यांश के साथ एक 3D Text या बैज(badge) बनाएं।
+BlocksCAD can export an `.STL` file for 3D printing.
 
-सलाह:
-+ सुनिश्चित करें कि सभी अक्षरे जुड़े हों
-+ सुनिश्चित करें कि आपकी keying का पिछला हिस्सा सपाट और एकसार हो अन्यथा इसे प्रिंट करना बहुत मुश्किल होगा
+--- task ---
 
-यहाँ एक उदाहरण है:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![स्क्रीनशॉट](images/coder-grace.png)
+--- /task ---
 
-## चुनौती: खड़े अक्षरों के साथ एक चाबी का छल्ला बनाएँ
+--- task ---
 
-एक चाबी का छल्ला बनाएँ, जहाँ अक्षारें लंबवत (vertically) पंक्तिबद्ध हो, ना कि क्षैतिज रूप से।
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-यहाँ एक उदाहरण है:
+The one you choose will depend on the 3D printer that you are using.
 
-![स्क्रीनशॉट](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-इस बार आपको अक्षरों को Y अक्ष (axis) के साथ `translate` करना पड़ेगा।
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## चुनौती: एक लूप जोड़ें
+--- /task ---
 
-यदि आपके शब्द की शुरुआत में चाबी का छल्ला जोड़ने के लिए कुछ नहीं है, तो आप लूप बनाने के लिए एक छोटा letter 'O’ जोड़ सकते हैं।
+--- task ---
 
-यहाँ एक उदाहरण है:
+You might need to remove some small strands of filament to tidy up the print.
 
-![स्क्रीनशॉट](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-इस बार आपको ‘O’ को X अक्ष(axis) और Y अक्ष (axis) के साथ `translate` करना पड़ेगा।
-
---- /hint --- --- /hints ---
 
