@@ -1,27 +1,18 @@
-## キーホルダーを3Dプリントする
-
-BlocksCADは3Dプリント用の`.STL`ファイルをエクスポートできます。
+## Assemble your key ring
 
 --- task ---
 
-モデルをレンダリングし、**ファイルを作成 STL**をクリックします。 STLファイルを保存する場所をおぼえておきましょう。
+Get your split ring and 3D printed key ring:
 
---- /task --- --- task ---
-
-STLファイルを読みこんで3Dモデルをプリンターに送信できるツールはたくさんあります。
-
-どのツールにするかは使う3Dプリンターによります。
-
---- /task --- --- task ---
-
-3Dプリントが終わったら、プリントベッドからしんちょうに取りはずします。
-
-![スクリーンショット](images/coder-printed.png)
-
---- /task --- --- task ---
-
-小さなバリを取りのぞいて形を整える必要があるかもしれません。
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png)
 
 --- /task ---
 
+--- task ---
+
+Attach the split ring to your 3D printed key ring:
+
+![The complete keyring](images/coder-keyring.png)
+
+--- /task ---	
 
