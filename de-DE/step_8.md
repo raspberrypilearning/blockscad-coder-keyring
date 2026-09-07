@@ -1,16 +1,9 @@
-## Bau deinen Schlüsselanhänger zusammen
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-Nimm dir deinen Schlüsselring und den 3D-gedruckten Schlüsselanhänger:
+You could create:
 
-![Screenshot](images/coder-splitring-keyring.png)
+![A 3D printed bug](images/bug-showcase.png)
 
---- /task --- --- task ---
-
-Befestige den Schlüsselring an deinem 3D-gedruckten Schlüsselanhänger:
-
-![Screenshot](images/coder-keyring.png)
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)
