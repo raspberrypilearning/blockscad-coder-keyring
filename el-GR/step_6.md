@@ -1,40 +1,33 @@
-## Πρόκληση: Δημιούργησε ένα μπρελόκ με το όνομά σου
+## 3D print your key ring
 
-Τώρα, δημιούργησε έναν μπρελόκ ή σήμα 3D με το όνομά σου ή άλλη λέξη ή σύντομη φράση.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Συμβουλές:
-+ Βεβαιώσου ότι όλα τα γράμματα ενώνονται
-+ Βεβαιώσου ότι το πίσω μέρος του μπρελόκ είναι επίπεδο και ομοιόμορφο, διαφορετικά θα είναι πολύ δύσκολο να εκτυπωθεί
+--- task ---
 
-Ακολουθεί ένα παράδειγμα:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![στιγμιότυπο οθόνης](images/coder-grace.png)
+--- /task ---
 
-## Πρόκληση: Δημιούργησε ένα μπρελόκ με κάθετα γράμματα
+--- task ---
 
-Δημιούργησε ένα μπρελόκ όπου τα γράμματα κατευθύνονται κάθετα αντί για οριζόντια.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Ακολουθεί ένα παράδειγμα:
+The one you choose will depend on the 3D printer that you are using.
 
-![στιγμιότυπο οθόνης](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Αυτή τη φορά, θα πρέπει να χρησιμοποιήσεις το μπλοκ `translate` για τα γράμματα κατά μήκος του άξονα Υ.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Πρόκληση: πρόσθεσε ένα κρίκο
+--- /task ---
 
-Εάν δεν υπάρχει πουθενά κάποιο σημείο στην αρχή της λέξης για να συνδέσεις το δαχτυλίδι του μπρελόκ, τότε θα μπορούσες να προσθέσεις ένα μικρότερο γράμμα «o» για να κάνεις ένα κρίκο.
+--- task ---
 
-Ακολουθεί ένα παράδειγμα:
+You might need to remove some small strands of filament to tidy up the print.
 
-![στιγμιότυπο οθόνης](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Αυτή τη φορά, θα πρέπει να χρησιμοποιήσεις το μπλοκ `translate` για τα γράμμα "o" κατά μήκος και του άξονα X και του άξονα Υ.
-
---- /hint --- --- /hints ---
 
