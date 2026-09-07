@@ -1,27 +1,18 @@
-## Imprime tu llavero en 3D
-
-BlocksCAD puede exportar el modelo a un archivo `.STL` para imprimirlo en 3D.
+## Assemble your key ring
 
 --- task ---
 
-Haz clic en Hacer para acabar tu modelo y luego haz clic en **Generar STL**. Recuerda dónde has guardado el archivo STL.
+Get your split ring and 3D printed key ring:
 
---- /task --- --- task ---
-
-Hay muchas herramientas que pueden leer archivos STL y enviar modelos 3D a una impresora.
-
-La que elijas dependerá de la impresora 3D que estés utilizando.
-
---- /task --- --- task ---
-
-Retira cuidadosamente la impresión 3D de la base de impresión.
-
-![captura de pantalla](images/coder-printed.png)
-
---- /task --- --- task ---
-
-Es posible que debas eliminar algunos pequeños hilos de filamento para pulir la impresión.
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png)
 
 --- /task ---
 
+--- task ---
+
+Attach the split ring to your 3D printed key ring:
+
+![The complete keyring](images/coder-keyring.png)
+
+--- /task ---	
 
