@@ -1,16 +1,9 @@
-## تجميع حلقة المفاتيح الخاصة بك
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-احصل على حلقة فصل وحلقة المفاتيح الثلاثية الأبعاد:
+You could create:
 
-![لقطة شاشة](images/coder-splitring-keyring.png)
+![A 3D printed bug](images/bug-showcase.png)
 
---- /task --- --- task ---
-
-إرفاق حلقة الفصل إلى حلقة المفاتيح المطبوعة ثلاثية الأبعاد:
-
-![لقطة الشاشة](images/coder-keyring.png)
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)
