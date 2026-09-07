@@ -1,40 +1,33 @@
-## Завдання: створи брелок зі своїм ім’ям
+## 3D print your key ring
 
-А тепер створи 3D-брелок або значок зі своїм іменем, іншим словом, або короткою фразою.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Поради:
-+ Переконайся, що всі літери з’єднуються між собою
-+ Переконайся, що задня сторона твого брелока плоска та рівна, інакше його буде важко надрукувати
+--- task ---
 
-Ось приклад:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![знімок екрана](images/coder-grace.png)
+--- /task ---
 
-## Завдання: створи брелок із вертикальними буквами
+--- task ---
 
-Створи брелок, у якому літери ідуть вертикально, а не горизонтально.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Ось приклад:
+The one you choose will depend on the 3D printer that you are using.
 
-![знімок екрана](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Цього разу тобі треба буде переносити літери (`translate`) вздовж осі Y.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Завдання: додай вушко
+--- /task ---
 
-Якщо в твоєму брелоку немає місця, куди можна прикріпити металеве кільце, то ти можеш додати маленьку літеру «o», щоб зробити вушко.
+--- task ---
 
-Ось приклад:
+You might need to remove some small strands of filament to tidy up the print.
 
-![знімок екрана](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Цього разу тобі треба буде переносити «o» (`translate`) вздовж осей X та Y.
-
---- /hint --- --- /hints ---
 
