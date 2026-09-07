@@ -1,26 +1,43 @@
-## अपने प्रोजेक्ट को Save करें
+## Challenges
 
---- collapse ---
----
-title: मेरे पास BlocksCAD खाता नहीं है
----
+--- task ---
 
-अपनी प्रोजेक्ट को सेव (save) करने के लिए, मेनू बार में **Project** पर क्लिक करे और **Save Blocks to your Computer** का चयन करें ।
+Create a 3D text key ring or badge with your name or another word or short phrase.
 
-अपनी प्रोजेक्ट को एक पहचानने योग्य नाम दें और याद रखें कि आपने इसे कहाँ सेव (save) किया हैं।
+Tips:
++ Make sure that all of the letters join up
++ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
 
-अब आप ** Load Blocks from your Computer** की सहायता से उस प्रोजेक्ट को load कर सकते है, जिसे आपने सेव (save) किया है और उस पर काम कर सकते हैं।
+Here's an example:
 
---- /collapse ---
+![screenshot](images/coder-grace.png)
 
---- collapse ---
----
-title: मेरे पास BlocksCAD खाता है
----
+--- /task ---
 
-यदि आपके पास एक BlocksCAD खाता है और आप लॉग इन (Logged in) हैं, तो आप मेनू बार में **Project** पर क्लिक करने के बाद **Save** चुने। यह आपके प्रोजेक्ट को ऑनलाइन सेव(save) करता है ताकि आप इसे किसी भी कंप्यूटर से खोल सकें।
+--- task ---
 
---- /collapse ---
+Create a key ring where the letters line up vertically instead of horizontally.
 
+Here's an example:
 
- 
+![A vertical keyring](images/coder-vertical.png)
+
+You will need to `translate` letters along the Y axis.
+
+--- /task ---
+
+--- task ---
+
+Add a loop
+
+If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+
+Here's an example:
+
+![The 'o' loop connected to a keyring](images/coder-loop.png)
+
+This time, you will need to `translate` the 'o' along the X and Y axes.
+
+Using `-1` in the X axis will move the 'o' left.
+
+--- /task ---
