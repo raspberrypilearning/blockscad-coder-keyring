@@ -9,22 +9,23 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Inleiding
+    title: What you will make
   - 
     title: Maak 3D-tekst
-  - 
-    title: Voeg de letters samen
     completion:
       - engaged
   - 
-    title: Verander de dikte
+    title: Change thickness
   - 
-    title: Sla je project op
-  - 
-    title: Uitdagingen
-  - 
-    title: 3D print je sleutelhanger
-  - 
-    title: Monteer je sleutelhanger
+    title: Save your project
     completion:
       - internal
+  - 
+    title: Challenges
+    chalenge: true
+  - 
+    title: 3D print your key ring
+  - 
+    title: Assemble your key ring
+    completion:
+      - external
