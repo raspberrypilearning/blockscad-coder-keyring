@@ -9,22 +9,23 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Einleitung
+    title: What you will make
   - 
     title: Erstelle den 3D-Text
-  - 
-    title: Verbinde die Buchstaben miteinander
     completion:
       - engaged
   - 
-    title: Ändere die Dicke
+    title: Change thickness
   - 
-    title: Speichere dein Projekt
-  - 
-    title: Herausforderungen
-  - 
-    title: Drucke deinen Schlüsselanhänger in 3D
-  - 
-    title: Baue deinen Schlüsselanhänger zusammen
+    title: Save your project
     completion:
       - internal
+  - 
+    title: Challenges
+    chalenge: true
+  - 
+    title: 3D print your key ring
+  - 
+    title: Assemble your key ring
+    completion:
+      - external
