@@ -1,40 +1,33 @@
-## 도전과제: 자신의 이름으로 키링 만들기
+## 3D print your key ring
 
-이제부터 자신의 이름, 그 외 단어, 또는 짧은 구문을 이용해 3D 텍스트나 배지를 만들어 보겠습니다.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-팁:
-+ 모든 글자를 붙여 연결합니다.
-+ 키링의 뒷부분이 고르고 판판한지 확인해야 합니다. 그렇게 하지 않으면 출력하기가 매우 힘들어집니다.
+--- task ---
 
-아래 예시를 봅시다:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![스크린샷](images/coder-grace.png)
+--- /task ---
 
-## 도전과제: 글자를 세로로 배열해 키링 만들기
+--- task ---
 
-글자를 가로가 아닌 세로 방향으로 정렬 시켜 키링을 만들어 보겠습니다.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-아래 예시를 봅시다:
+The one you choose will depend on the 3D printer that you are using.
 
-![스크린샷](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-이때는 Y축을 따라 글자를 `translate` 해야 합니다.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## 도전과제: 고리 추가하기
+--- /task ---
 
-단어 앞에 키링을 붙일 공간이 없으면 소문자 'o'를 추가해 고리를 만들어 줍니다.
+--- task ---
 
-아래 예시를 봅시다:
+You might need to remove some small strands of filament to tidy up the print.
 
-![스크린샷](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-이때 X 와 Y 축을 따라 소문자 'o'를 `translate` 해야 합니다.
-
---- /hint --- --- /hints ---
 
