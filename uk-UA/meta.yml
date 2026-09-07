@@ -9,22 +9,23 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Вступ
+    title: What you will make
   - 
     title: Створи 3D-текст
-  - 
-    title: З’єднай літери
     completion:
       - engaged
   - 
-    title: Зміни товщину
+    title: Change thickness
   - 
-    title: Збережи свій проєкт
-  - 
-    title: Завдання
-  - 
-    title: Роздрукуй свій брелок на 3D-принтері
-  - 
-    title: Збери свій брелок
+    title: Save your project
     completion:
       - internal
+  - 
+    title: Challenges
+    chalenge: true
+  - 
+    title: 3D print your key ring
+  - 
+    title: Assemble your key ring
+    completion:
+      - external
