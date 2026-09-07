@@ -1,40 +1,33 @@
-## Uitdaging: maak een sleutelhanger met je naam
+## 3D print your key ring
 
-Maak nu een 3D-tekstsleutelhanger of -badge met jouw naam of een ander woord of een korte zin.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Tips:
-+ Zorg ervoor dat alle letters gekoppeld worden
-+ Zorg ervoor dat de achterkant van je sleutelhanger plat en egaal is, anders wordt het erg moeilijk om te printen
+--- task ---
 
-Hier is een voorbeeld:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![schermafbeelding](images/coder-grace.png)
+--- /task ---
 
-## Uitdaging: maak een sleutelhanger met verticale letters
+--- task ---
 
-Maak een sleutelhanger waarbij de letters verticaal in plaats van horizontaal aansluiten.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Hier is een voorbeeld:
+The one you choose will depend on the 3D printer that you are using.
 
-![schermafbeelding](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Deze keer moet je de `translate` van de letters langs de Y-as doen.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Uitdaging: voeg een lus toe
+--- /task ---
 
-Als er nergens is om een splitring aan het begin van je woord toe te voegen, dan kun je een kleinere letter 'o' toevoegen om een lus te maken.
+--- task ---
 
-Hier is een voorbeeld:
+You might need to remove some small strands of filament to tidy up the print.
 
-![schermafbeelding](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Deze keer moet je `translate` van de 'o' langs de X- en Y-assen doen.
-
---- /hint --- --- /hints ---
 
