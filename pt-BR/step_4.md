@@ -1,36 +1,24 @@
-## Altere a espessura
+## Save your project
 
-Em seguida, alterne a espessura das letras para ajudar a separá-las e tornar o seu chaveiro ainda melhor.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-Atualmente, as letras têm 2 mm de espessura.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-Altere a espessura de 'C', 'D', e 'R' para que elas tenham 3mm de espessura.
+Name your project and remember where you save it.
 
-![captura de tela](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-Altere o valor de `thickness` para o texto.
-
---- /hint --- --- hint ---
-
-Altere o valor de `thickness` em 'C', 'D' e 'R' para `3` para que sejam mais grossos que 'O' e 'E'.
-
-![captura de tela](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-Você pode clicar no quadrado colorido para mudar a cor do seu modelo na visão de saída. Se você imprimir o modelo em 3D, a cor do chaveiro dependerá da cor do filamento de plástico que você usar, mas é útil poder experimentar cores diferentes visualização de saída.
-
-![captura de tela](images/coder-colour.png)
-
-Você também pode mostrar e ocultar a grade. Tente os outros botões e veja o que eles fazem.
-
-Você pode arrastar seu modelo para visualizá-lo de ângulos diferentes também.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
