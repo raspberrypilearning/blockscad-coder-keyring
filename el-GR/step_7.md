@@ -1,27 +1,18 @@
-## 3D εκτύπωση του μπρελόκ σου
-
-Το BlocksCAD μπορεί να εξάγει ένα αρχείο `.STL` για εκτύπωση σε 3D εκτυπωτή.
+## Assemble your key ring
 
 --- task ---
 
-Απόδωσε το μοντέλο σου (πατώντας render) και μετά κάνε κλικ στο **Generate STL**. Θυμήσου πού αποθήκευσες το αρχείο STL.
+Get your split ring and 3D printed key ring:
 
---- /task --- --- task ---
-
-Υπάρχουν πολλά εργαλεία που μπορούν να διαβάσουν αρχεία STL και να στείλουν μοντέλα 3D σε έναν εκτυπωτή.
-
-Αυτό που θα επιλέξεις εξαρτάται από τον εκτυπωτή 3D που χρησιμοποιείς.
-
---- /task --- --- task ---
-
-Αφαίρεσε προσεκτικά το εκτυπωμένο τρισδιάστατο αντικείμενο από τον 3D εκτυπωτή.
-
-![στιγμιότυπο οθόνης](images/coder-printed.png)
-
---- /task --- --- task ---
-
-Ίσως χρειαστεί να αφαιρέσεις μερικά μικρά κομμάτια νήματος για να καθαρίσεις το εκτυπωμένο αντικείμενο.
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png)
 
 --- /task ---
 
+--- task ---
+
+Attach the split ring to your 3D printed key ring:
+
+![The complete keyring](images/coder-keyring.png)
+
+--- /task ---	
 
