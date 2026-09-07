@@ -1,27 +1,18 @@
-## اطبع حلقة مفاتيحك بشكل ثلاثي الابعاد
-
-BlocksCAD 3D يمكن تصدير ملف `.STL` للطباعة الثلاثية الأبعاد.
+## Assemble your key ring
 
 --- task ---
 
-قم بتقديم النموذج الخاص بك ثم اضغط **Generate STL**. تذكر أين قمت بحفظ ملف STL.
+Get your split ring and 3D printed key ring:
 
---- /task --- --- task ---
-
-هناك الكثير من الأدوات التي يمكنها قراءة ملفات STL وإرسال نماذج ثلاثية الأبعاد إلى طابعة.
-
-الذي تختاره سيعتمد على الطابعة الثلاثية الأبعاد التي تستخدمها.
-
---- /task --- --- task ---
-
-قم بإزالة الطباعة ثلاثية الأبعاد بعناية من قاعدة الطباعة.
-
-![لقطة الشاشة](images/coder-printed.png)
-
---- /task --- --- task ---
-
-قد تحتاج إلى إزالة بعض الشوائب الصغيرة من الفتيل (مادة الطباعة) لتنظيف الطباعة.
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png)
 
 --- /task ---
 
+--- task ---
+
+Attach the split ring to your 3D printed key ring:
+
+![The complete keyring](images/coder-keyring.png)
+
+--- /task ---	
 
