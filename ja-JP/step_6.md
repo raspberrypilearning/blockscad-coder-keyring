@@ -1,40 +1,33 @@
-## チャレンジ：自分の名前でキーホルダーを作ろう
+## 3D print your key ring
 
-自分の名前や他の単語、短いフレーズを使って、3Dテキストキーホルダーまたはバッジを作りましょう。
+BlocksCAD can export an `.STL` file for 3D printing.
 
-注意点
-+ すべての文字がくっついていることをたしかめましょう。
-+ キーホルダーのうらが平らでまっすぐであることをたしかめましょう。そうでないと3Dプリントがとてもむずかしくなってしまいます。
+--- task ---
 
-以下に例を示します：
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![スクリーンショット](images/coder-grace.png)
+--- /task ---
 
-## チャレンジ：たて書きでキーホルダーを作ろう
+--- task ---
 
-文字が横ではなくたてにならぶキーホルダーを作りましょう。
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-以下に例を示します：
+The one you choose will depend on the 3D printer that you are using.
 
-![スクリーンショット](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-今回は、Y軸にそって文字を`移動`する必要があります。
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## チャレンジ：わっかをつける
+--- /task ---
 
-単語のはじめにダブルリングをつける場所がない場合は、小文字の「o」をわっかとしてくっつけることができます。
+--- task ---
 
-以下に例を示します：
+You might need to remove some small strands of filament to tidy up the print.
 
-![スクリーンショット](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-今回は、X軸とY軸にそって「o」を`移動`する必要があります。
-
---- /hint --- --- /hints ---
 
