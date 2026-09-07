@@ -1,94 +1,31 @@
-## З’єднай літери
+## Change thickness
 
-Далі ти з’єднаєш літери, щоб брелок виглядав ось так:
-
-![знімок екрана](images/coder-letters-joined.png)
+Next, alternate the thickness of the letters to help separate them, and to make your key ring even better.
 
 --- task ---
 
-Зміни свй код, щоб він створював тільки літеру "C".
+The letters are currently 2mm thick.
 
-![знімок екрана](images/coder-c.png)
+Change the thickness of the 'C', 'D',  and 'R' so that they are 3mm thick.
 
---- /task --- --- task ---
-
-Блок `union`{:class="blockscadsetops"} (об’єднання) з’єднує фігури. Розпочни із перших двох літер слова "CODER".
-
-![знімок екрана](images/coder-co.png)
-
-Блоки мають певні кольори. Заглянь в розділ `Set Ops`{:class="blockscadsetops"}, щоб знайти блок `union`{:class="blockscadsetops"}.
-
-Зверни увагу, що блок `3D Text`{:class="blockscad3dshapes"} знаходиться в розділі `Text`{:class="blockscadstext"}, незважаючи на те, що він зелений.
-
---- /task --- --- task ---
-
-Клацни **Render** і ти побачиш, що є проблема: "C" та "O" знаходяться в одному місці.
-
-![знімок екрана](images/coder-same-place.png)
-
-Тобі треба перемістити «O» по осі X, щоб вона йшла після «C».
-
---- /task --- --- task ---
-
-Додай блок `translate`{:class="blockscadtransforms"} (перемістити) і встанови значення `X` рівне `10`, щоб перемістити «O» на 10 мм вздовж осі X.
-
-![знімок екрана](images/coder-translate.png)
-
-Тепер ці літери мають дотикатися, але не закривати одна одну.
-
---- /task --- --- task ---
-
-Клацни кнопку `[+]` у блоці `union`{:class="blockscadsetops"}, щоб додати місце для ще одного блока.
-
---- /task --- --- task ---
-
-Клацни правою кнопкою мишки на блок `translate`{:class="blockscadtransforms"} і вибери **Duplicate** (дублювати) для створення копії.
-
-![знімок екрана](images/coder-duplicate.png)
-
---- /task --- --- task ---
-
-Перетягни цю копію в блок `union`{:class="blockscadsetops"} і зміни «O» на «D».
-
-![знімок екрана](images/coder-d.png)
-
---- /task --- --- task ---
-
-Зміни значення `X` в другому блоці `translate`{:class="blockscadtransforms"}, щоб «D» була в правильному місці.
+![The complete render](images/coder-finished.png)
 
 --- hints --- --- hint ---
 
-Подумай що ти змінив(-ла), щоб «O» стала після «C». «D» розпочинає з того ж місця, що й «C», а тобі требе перемістити її після «O».
+Change the `thickness` value for the 'C', 'D', and 'R' to `3` so that they are thicker than the 'O' and 'E'.
 
---- /hint --- --- hint ---
-
-    ![знімок екрана](images/coder-d-hint.png)
+![The altered thickness value](images/coder-thickness.png)
 
 --- /hint --- --- /hints ---
 
---- /task --- --- task ---
-
-Тепер додай літери «E» та «R» щоб завершити слово «CODER».
-
-Переконайся, що всі літери дотикаються і між ними немає проміжків.
-
---- hints --- --- hint ---
-
-Тобі треба використовувати `+` блока `union`{:class="blockscadsetops"}, щоб додати місця ще для двох літер.
-
---- /hint --- --- hint ---
-
-Ти можеш продублювати код для створення «D», а потім змінити літери та значення `X`.
-
---- /hint --- --- hint ---
-
-    ![знімок екрана](images/coder-hint-er.png)
-
---- /hint --- --- /hints ---
-
---- /task --- --- task ---
-
-Перевір чи літери «E» та «R» з’єднані. Якщо ні, то тобі треба підправити свій код.
 
 --- /task ---
 
+
+You can click on the coloured square to change the colour of your model in the output view. If you 3D print the model, then the colour of the key ring will depend on the colour of the plastic filament that you use, but it's useful to be able to try out different colours in the output view.
+
+![The colour value located at the bottom left of the window](images/coder-colour.png)
+
+You can also show and hide the grid. Try the other buttons and see what they do.
+
+You can drag your model around to view it from different angles, too.
