@@ -1,26 +1,43 @@
-## احفظ مشروعك
+## Challenges
 
---- collapse ---
----
-title: ليس لدي حساب BlocksCAD
----
+--- task ---
 
-لحفظ مشروعك، انقر على **مشروع** في شريط القوائم وأختر **حفظ الكتل إلى جهاز الكمبيوتر الخاص بك **.
+Create a 3D text key ring or badge with your name or another word or short phrase.
 
-أعطِ مشروعك اسماً يمكنك التعرف عليه وتذكر أين مكان حفظه.
+Tips:
++ Make sure that all of the letters join up
++ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
 
-يمكنك بعد ذلك استخدام **تحميل الكتل البرمجية من جهاز الكمبيوتر الخاص بك ** لفتح المشروع الذي قمت بحفظه ومواصلة العمل عليه.
+Here's an example:
 
---- /collapse ---
+![screenshot](images/coder-grace.png)
 
---- collapse ---
----
-title: لدي حساب BlocksCAD
----
+--- /task ---
 
-إذا كان لديك حساب BlocksCAD وأنت مسجل الدخول، فيمكنك النقر على **مشروع** في شريط القائمة وتحديد **حفظ **. هذا يحفظ مشروعك على الإنترنت حتى تتمكن من الوصول إليه من أي كمبيوتر.
+--- task ---
 
---- /collapse ---
+Create a key ring where the letters line up vertically instead of horizontally.
 
+Here's an example:
 
- 
+![A vertical keyring](images/coder-vertical.png)
+
+You will need to `translate` letters along the Y axis.
+
+--- /task ---
+
+--- task ---
+
+Add a loop
+
+If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+
+Here's an example:
+
+![The 'o' loop connected to a keyring](images/coder-loop.png)
+
+This time, you will need to `translate` the 'o' along the X and Y axes.
+
+Using `-1` in the X axis will move the 'o' left.
+
+--- /task ---
