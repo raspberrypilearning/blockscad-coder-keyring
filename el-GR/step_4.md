@@ -1,36 +1,24 @@
-## Αλλαγή πάχους
+## Save your project
 
-Στη συνέχεια, τροποποίησε το πάχος των γραμμάτων για να τα διαχωρίσεις και για να κάνεις το μπρελόκ σου ακόμη καλύτερο.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-Τα γράμματα έχουν αυτή τη στιγμή πάχος 2 χιλιοστά.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-Άλλαξε το πάχος των "C", "D" και "R" έτσι ώστε να έχουν πάχος 3 χιλιοστά.
+Name your project and remember where you save it.
 
-![στιγμιότυπο οθόνης](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-Άλλαξε την τιμή `thickness` για το κείμενο.
-
---- /hint --- --- hint ---
-
-Άλλαξε την τιμή `thickness` για τα "C", "D" και "R" σε `3` έτσι ώστε να είναι παχύτερα από τα «O» και «E».
-
-![στιγμιότυπο οθόνης](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-Μπορείς να κάνεις κλικ στο έγχρωμο τετράγωνο για να αλλάξεις το χρώμα του μοντέλου σου στην προβολή εξόδου. Εάν εκτυπώσεις σε 3D το μοντέλο, το χρώμα του μπρελόκ θα εξαρτηθεί από το χρώμα του πλαστικού νήματος που χρησιμοποιείς, αλλά είναι χρήσιμο να δοκιμάσεις διαφορετικά χρώματα στην προβολή εξόδου.
-
-![στιγμιότυπο οθόνης](images/coder-colour.png)
-
-Μπορείς επίσης να εμφανίσεις και να αποκρύψεις το πλέγμα. Δοκίμασε και τα υπόλοιπα κουμπιά και δες τι κάνουν.
-
-Μπορείς να σύρεις το μοντέλο σου για να το δεις και από διαφορετικές οπτικές γωνίες.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
