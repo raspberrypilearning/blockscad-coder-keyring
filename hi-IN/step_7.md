@@ -1,27 +1,18 @@
-## अपनी चाबी के छल्ले को 3D प्रिंट करें
-
-BlocksCAD, 3D प्रिंटिंग के लिए `.STL` फ़ाइल का निर्यात (export) कर सकता है।
+## Assemble your key ring
 
 --- task ---
 
-अपना मॉडल render करें और फिर **Generate STL** पर क्लिक करें। याद रखें कि आपने STL file को कहाँ सेव (save) किया हैं।
+Get your split ring and 3D printed key ring:
 
---- /task --- --- task ---
-
-बहुत सारे टूल्स हैं जो STL फ़ाइलों को पढ़ सकते हैं और प्रिंटर पर 3D मॉडल भेज सकते हैं।
-
-आप जो चुनते हैं, वह आपके द्वारा उपयोग किए जा रहे 3D प्रिंटर पर निर्भर करेगा।
-
---- /task --- --- task ---
-
-बहुत सावधानी से प्रिंट बेड से 3 डी प्रिंट को निकालें।
-
-![स्क्रीनशॉट](images/coder-printed.png)
-
---- /task --- --- task ---
-
-आपको प्रिंट को साफ करने के लिए फिलामेंट के कुछ छोटे रेशे निकालने की आवश्यकता हो सकती है।
+![A split ring next to the 3D printed keyring](images/coder-splitring-keyring.png)
 
 --- /task ---
 
+--- task ---
+
+Attach the split ring to your 3D printed key ring:
+
+![The complete keyring](images/coder-keyring.png)
+
+--- /task ---	
 
