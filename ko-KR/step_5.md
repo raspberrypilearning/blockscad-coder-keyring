@@ -1,26 +1,43 @@
-## 프로젝트 저장하기
+## Challenges
 
---- collapse ---
----
-title: BlocksCAD 계정이 없는 사용자
----
+--- task ---
 
-프로젝트를 저장하고 나서 메뉴에서 **Project(프로젝트)** 를 클릭해 **Save Blocks to your Computer(내컴퓨터에 저장)** 을 선택합니다.
+Create a 3D text key ring or badge with your name or another word or short phrase.
 
-알아보기 쉬운 제목으로 프로젝트 제목을 달고 저장 위치를 기억합니다.
+Tips:
++ Make sure that all of the letters join up
++ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
 
-이후 **Load Blocks from your Computer(내컴퓨터에서 불러오기)** 를 눌러 저장한 프로젝트를 열고 작업을 진행합니다.
+Here's an example:
 
---- /collapse ---
+![screenshot](images/coder-grace.png)
 
---- collapse ---
----
-title: BlocksCAD 계정이 있는 사용자
----
+--- /task ---
 
-BlocksCAD 계정이 있는 사용자는 로그인 후 메뉴에서 **Project** 를 클릭하고 **Save(저장)** 을 선택합니다. 그러면 여러분의 프로젝트는 온라인상에 저장이 되어 다른 컴퓨터에서도 이에 접속할 수 있습니다.
+--- task ---
 
---- /collapse ---
+Create a key ring where the letters line up vertically instead of horizontally.
 
+Here's an example:
 
- 
+![A vertical keyring](images/coder-vertical.png)
+
+You will need to `translate` letters along the Y axis.
+
+--- /task ---
+
+--- task ---
+
+Add a loop
+
+If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+
+Here's an example:
+
+![The 'o' loop connected to a keyring](images/coder-loop.png)
+
+This time, you will need to `translate` the 'o' along the X and Y axes.
+
+Using `-1` in the X axis will move the 'o' left.
+
+--- /task ---
