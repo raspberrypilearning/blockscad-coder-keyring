@@ -1,40 +1,33 @@
-## Herausforderung: Erstelle einen Schlüsselanhänger mit deinem Namen
+## 3D print your key ring
 
-Erstelle jetzt einen 3D-Textschlüsselanhänger oder eine Plakette mit deinem Namen, einem anderen Wort oder einer kurzen Phrase.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Tipps:
-+ Stell sicher, dass sich alle Buchstaben berühren
-+ Stell sicher, dass die Rückseite deines Schlüsselanhängers flach und gleichmäßig ist, da es sonst schwierig ist ihn zu drucken
+--- task ---
 
-Hier ist ein Beispiel:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![Screenshot](images/coder-grace.png)
+--- /task ---
 
-## Herausforderung: Erstelle einen Schlüsselanhänger mit vertikalen Buchstaben
+--- task ---
 
-Erstelle einen Schlüsselanhänger, bei dem die Buchstaben vertikal statt horizontal ausgerichtet sind.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Hier ist ein Beispiel:
+The one you choose will depend on the 3D printer that you are using.
 
-![Screenshot](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Dieses Mal musst du die Buchstaben entlang der Y-Achse `verschieben`.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Herausforderung: Einen Ring hinzufügen
+--- /task ---
 
-Wenn am Anfang deines Wortes kein Schlüsselring befestigt werden kann, kannst du ein kleines 'o' hinzufügen, um einen Ring zum Befestigen zu erstellen.
+--- task ---
 
-Hier ist ein Beispiel:
+You might need to remove some small strands of filament to tidy up the print.
 
-![Screenshot](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Dieses Mal musst du die Buchstaben entlang der Y-Achse `verschieben`.
-
---- /hint --- --- /hints ---
 
