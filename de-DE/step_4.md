@@ -1,36 +1,24 @@
-## Ändere die Dicke
+## Save your project
 
-Verändere als nächstes die Dicke der Buchstaben, um sie besser zu trennen und deinen Schlüsselanhänger zu verbessern.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-Die Buchstaben sind jetzt 2mm dick.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-Ändere die Dicke des 'C', 'D' und 'R', sodass sie 3 mm dick sind.
+Name your project and remember where you save it.
 
-![Screenshot](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-Ändere den Wert `dicke` für den Text.
-
---- /hint --- --- hint ---
-
-Ändere den `dicke` Wert für 'C', 'D' und 'R' auf `3`, sodass sie dicker als das 'O' und 'E' sind.
-
-![Screenshot](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-Du kannst auf das farbige Quadrat klicken, um die Farbe deines Modells in der Ausgabeansicht zu ändern. Wenn du das Modell in 3D druckst, hängt die Farbe des Schlüsselanhängers von der Farbe des verwendeten Kunststoff-Filaments ab. Es hilft jedoch, verschiedene Farben in der Ausgabeansicht ausprobieren zu können.
-
-![Screenshot](images/coder-colour.png)
-
-Du kannst auch das Raster ein- und ausblenden. Probiere die anderen Schaltflächen aus und sieh, was sie tun.
-
-Du kannst dein Modell verschieben, um es auch aus verschiedenen Blickwinkeln anzusehen.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
