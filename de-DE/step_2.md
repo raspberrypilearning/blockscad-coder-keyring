@@ -1,53 +1,109 @@
 ## Erstelle den 3D-Text
 
+![The word 'CODER' rendered in BlocksCAD](images/coder-letters-joined.png)
+
 --- task ---
 
 Öffne den BlocksCAD-Editor in einem Webbrowser. [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}.
 
-Du kannst Blöcke ziehen und ablegen um einen Code zu schreiben, der 3D-Objekte erstellt.
+--- /task ---
+
+--- task --- Click on `Set Ops`{:class="blockscadsetops"} and drag a `union`{:class="blockscadsetops"} block onto the canvas.
+
+![The union block from the Set Ops group with an arrow showing it being dragged onto the canvas](images/coder-canvas.png)
 
 --- /task ---
 
-Benutze zuerst das 3D-Textwerkzeug, um einige 3D-Buchstaben zu erstellen.
+The `union`{:class="blockscadsetops"} block joins shapes together.
+
+Start with the first two letters of 'CODER'.
 
 --- task ---
 
-Klicke auf `Text`{:class="blockscadtext"} und ziehe dann einen `3D-Text`{:class="blockscadtext"} Baustein auf die Leinwand.
+Click on `Text`{:class="blockscadtext"} and then drag **two** `3D Text`{:class="blockscadtext"} blocks inside the `union`{:class="blockscadsetops"} block.
 
-![Screenshot](images/coder-canvas.png)
-
---- /task --- --- task ---
-
-Ändere die `3D-Text` Eingabe zu 'CODER'.
-
-![Screenshot](images/coder-coder.png)
-
---- /task --- --- task ---
-
-Klicke auf die **Rendern** Schaltfläche um zu sehen, wie es aussieht.
-
-![Screenshot](images/coder-render.png)
-
-Beim Rendern wird ein Bild aus einem 3D-Modell erstellt, damit wir sehen können, wie es aussieht.
-
---- /task --- --- task ---
-
-Um die Buchstaben zu vergrößern, ändere die `Größe` auf `20` — das bedeutet Schriftgröße 20.
-
-![Screenshot](images/coder-bigger.png)
-
-Klicke erneut auf **Rendern**, um das Ergebnis zu sehen.
+![The text blocks inside the union block](images/coder-3dtext.png)
 
 --- /task ---
 
-Wenn du das jetzt erstellte Modell in 3D druckst, erhältst du fünf separate Buchstaben, da diese nicht miteinander verbunden sind. Das wäre kein sehr guter Schlüsselanhänger!
+--- task ---
+
+Change the 3D text value (`abc`) on the first to `C`, then change the second block's 3D text value to `O`.
+
+To make the letters bigger, change the `size` to `20`.
+
+![The altered 3D text values ](images/coder-co.png)
+
+--- /task ---
+
+--- task ---
+
+Click **Render**.
+
+There is a problem: the 'C' and the 'O' are in the same place.
+
+![The letter O shows, but the C is not easily visible as it is in the same place](images/coder-same-place.png)
+
+--- /task ---
+
+You need to move the 'O' along the X axis so that it comes after the 'C'.
+
+--- task ---
+
+Add a `translate`{:class="blockscadtransforms"} block and set the value of `X` to `10` to move the 'O' 10mm along the X axis.
+
+Click **Render** again.
+
+![The letter O now appears to the right of the letter C](images/coder-translate.png)
+
+Now, the letters should be touching, but not on top of each other.
+
+--- /task ---
+
+--- task ---
+
+Click the `[+]` button on the `union`{:class="blockscadsetops"} block to add a space for another block.
+
+![A new 'plus' section in the union block](images/coder-union-plus.png)
+
+--- /task --- --- task ---
+
+Right-click on the `translate`{:class="blockscadtransforms"} block and select **Duplicate** to create a copy.
+
+![The duplicate menu](images/coder-duplicate.png)
+
+--- /task --- --- task ---
+
+Drag the copy into the `union`{:class="blockscadsetops"} block and change the 'O' to a 'D'.
+
+![The letter D in the same place as the letter O](images/coder-d.png)
+
+--- /task --- --- task ---
+
+Change the `X` value of the second `translate`{:class="blockscadtransforms"} block to `20`, (so that the 'D' is 10mm from the 'O').
+
+![Another translate block added to the union block with values set for the letter D](images/coder-d-hint.png)
+
+--- /task ---
+
+--- task ---
+
+Now, add an 'E' and an 'R' to finish the word 'CODER'.
+
+Make sure that all of the letters are touching, and that there are no gaps between any of the letters.
+
+You need to click the `+` on the `union`{:class="blockscadsetops"} block to add two more `3D Text`{:class="blockscadtext"} blocks.
+
+You can duplicate the code you used to create a 'D' and then change the letters and the `X` values.
+
+![Another translate block added to the union block with values set for the letters E and R](images/coder-hint-er.png)
 
 
-	
+--- /task ---
 
-	
-	
+--- task ---
 
+Look closely — are the 'E' and 'R' joined together? If they are not, you need to adjust your code.
 
+--- /task ---
 
- 
