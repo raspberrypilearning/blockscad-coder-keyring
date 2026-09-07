@@ -1,16 +1,9 @@
-## 키링 조립하기
+## What can you do now?
 
---- task ---
+If you want to have more fun exploring BlocksCAD and 3D printing, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad).
 
-분리된 고리와 3D 프린터로 출력된 키링 예시:
+You could create:
 
-![스크린샷](images/coder-splitring-keyring.png)
+![A 3D printed bug](images/bug-showcase.png)
 
---- /task --- --- task ---
-
-분리된 고리를 3D 프린터로 출력된 키링에 부착한 예시:
-
-![스크린샷](images/coder-keyring.png)
-
---- /task ---	
-
+![A 3D printed pendant](images/pendant-finished.png)
