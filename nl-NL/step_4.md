@@ -1,36 +1,24 @@
-## Verander de dikte
+## Save your project
 
-Wissel vervolgens de dikte van de letters af om ze te scheiden en om je sleutelhanger nog beter te maken.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-De letters zijn momenteel 2mm dik.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-Verander de dikte van de 'C', 'D' en 'R' zodat ze 3mm dik zijn.
+Name your project and remember where you save it.
 
-![schermafbeelding](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-Wijzig de `thickness` waarde van de tekst.
-
---- /hint --- --- hint ---
-
-Wijzig de `thickness` waarde voor de 'C', 'D' en 'R' in `3`zodat ze dikker zijn dan de 'O' en 'E'.
-
-![schermafbeelding](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-Je kunt op het gekleurde vierkant klikken om de kleur van je model in de uitvoerweergave te wijzigen. Als je het model 3D print, hangt de kleur van de sleutelhanger af van de kleur van het plastic filament dat je gebruikt, maar het is handig om verschillende kleuren uit te kunnen proberen in de uitvoerweergave.
-
-![schermafbeelding](images/coder-colour.png)
-
-Je kunt ook het raster tonen en verbergen. Probeer de andere knoppen en kijk wat ze doen.
-
-Je kunt je model rondslepen om het ook vanuit verschillende hoeken te bekijken.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
