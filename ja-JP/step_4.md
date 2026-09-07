@@ -1,36 +1,24 @@
-## 厚さ (あつさ) をかえる
+## Save your project
 
-文字の太さを1文字ごとにかえると見分けやすくなるので、キーホルダーがもっと良くなります。
+### I don't have a BlocksCAD account
 
 --- task ---
 
-今、文字の厚さは2mmです。
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-「C」、「D」、「R」の厚みを3mmになるようにかえます。
+Name your project and remember where you save it.
 
-![スクリーンショット](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-テキストの`厚さ`の値をかえます。
-
---- /hint --- --- hint ---
-
-「C」、「D」、「R」の`厚さ`の値を`3`にして、「O」や「E」よりも厚くします。
-
-![スクリーンショット](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-色のついた四角い部分をクリックすると、出力ビューでモデルの色をかえることができます。 モデルを3Dプリントする場合、キーホルダーの色は使うプラスチックフィラメントの色によってちがいます。しかし、出力ビューでいろいろな色をためせるのはべんりです。
-
-![スクリーンショット](images/coder-colour.png)
-
-グリッドの表示 (ひょうじ) と非表示 (ひひょうじ) を切りかえることもできます。 他のボタンもためしてみてください。
-
-モデルをドラッグしてさまざまな角度から見ることもできます。
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
