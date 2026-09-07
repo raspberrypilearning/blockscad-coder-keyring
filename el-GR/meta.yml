@@ -9,22 +9,23 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: Εισαγωγή
+    title: What you will make
   - 
     title: Δημιουργία του κειμένου 3D
-  - 
-    title: Ένωση των γραμμάτων
     completion:
       - engaged
   - 
-    title: Αλλαγή πάχους
+    title: Change thickness
   - 
-    title: Αποθήκευση του έργου σου
-  - 
-    title: Προκλήσεις
-  - 
-    title: 3D εκτύπωση του μπρελόκ σου
-  - 
-    title: Συναρμολόγηση του μπρελόκ σου
+    title: Save your project
     completion:
       - internal
+  - 
+    title: Challenges
+    chalenge: true
+  - 
+    title: 3D print your key ring
+  - 
+    title: Assemble your key ring
+    completion:
+      - external
