@@ -1,36 +1,24 @@
-## Зміни товщину
+## Save your project
 
-Далі чергуй товщину літер, щоб краще їх відділити одну від одної і зробити свій брелок іще кращим.
+### I don't have a BlocksCAD account
 
 --- task ---
 
-Наразі товщина літер складає 2 мм.
+Click on **Project** in the menu bar and select **Save Blocks to your Computer**.
 
-Зміни товщину «C», «D», та «R» до 3 мм.
+Name your project and remember where you save it.
 
-![знімок екрана](images/coder-finished.png)
-
---- hints --- --- hint ---
-
-Зміни параметр тексту `thickness` (товщина).
-
---- /hint --- --- hint ---
-
-Зміни параметр `thickness` для «C», «D» та «R» до `3`, щоб вони стали товстішими за «O» та «E».
-
-![знімок екрана](images/coder-thickness.png)
-
---- /hint --- --- /hints ---
-
---- /task ---   
---- task ---
-
-Ти можеш клацнути на кольоровий квадратик, щоб змінити колір своєї моделі у вікні показу. Коли ти друкуватимеш свою модель, то колір брелока буде залежати від кольору пластику, який ти візьмеш, але корисно поекспериментувати із різними кольорами у вікні виводу.
-
-![знімок екрана](images/coder-colour.png)
-
-Також ти можеш показати або сховати сітку. Випробуй інші кнопки і подивися, що вони роблять.
-
-Ти можеш перетягувати модель, щоб побачити її з різних сторін.
+You can then use **Load Blocks from your Computer** to open the project that you have saved and continue working on it.
 
 --- /task ---
+
+### I have a BlocksCAD account
+
+--- task ---
+
+If you are logged in, click on **Project** in the menu bar and select **Save**.
+
+This saves your project online so that you can access it from any computer.
+
+--- /task ---
+
