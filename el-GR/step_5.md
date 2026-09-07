@@ -1,26 +1,43 @@
-## Αποθήκευσε το έργο σου
+## Challenges
 
---- collapse ---
----
-title: Δεν έχω λογαριασμό στο BlocksCAD
----
+--- task ---
 
-Για να αποθηκεύσεις το έργο σου, κάνε κλικ στο **Project** στο μενού και επίλεξε **Save Blocks to your Computer**.
+Create a 3D text key ring or badge with your name or another word or short phrase.
 
-Δώσε στο έργο σου ένα αναγνωρίσιμο όνομα και θυμήσου πού το αποθηκεύεις.
+Tips:
++ Make sure that all of the letters join up
++ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
 
-Μπορείς μετά να χρησιμοποιήσεις το **Load Blocks from your Computer** για να ανοίξεις το έργο που έχεις σώσει και να συνεχίσεις να εργάζεσαι με αυτό.
+Here's an example:
 
---- /collapse ---
+![screenshot](images/coder-grace.png)
 
---- collapse ---
----
-title: Έχω λογαριασμό στο BlocksCAD
----
+--- /task ---
 
-Εάν έχεις λογαριασμό BlocksCAD και είσαι συνδεδεμένος, μπορείς να κάνεις κλικ στο **Project** στη γραμμή μενού και επίλεξε **Save**. Αυτό αποθηκεύει το έργο σου στο διαδίκτυο, ώστε να μπορείς να έχεις πρόσβαση σε αυτό από οποιονδήποτε υπολογιστή.
+--- task ---
 
---- /collapse ---
+Create a key ring where the letters line up vertically instead of horizontally.
 
+Here's an example:
 
- 
+![A vertical keyring](images/coder-vertical.png)
+
+You will need to `translate` letters along the Y axis.
+
+--- /task ---
+
+--- task ---
+
+Add a loop
+
+If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+
+Here's an example:
+
+![The 'o' loop connected to a keyring](images/coder-loop.png)
+
+This time, you will need to `translate` the 'o' along the X and Y axes.
+
+Using `-1` in the X axis will move the 'o' left.
+
+--- /task ---
