@@ -1,26 +1,43 @@
-## Enregistre ton projet
+## Challenges
 
---- collapse ---
----
-title: Je n'ai pas de compte BlocksCAD
----
+--- task ---
 
-Pour enregistrer ton projet, clique sur **Projet** dans la barre de menus et sélectionne **Sauver en fichier xml**.
+Create a 3D text key ring or badge with your name or another word or short phrase.
 
-Donne à ton projet un nom reconnaissable et rappelle-toi où tu l'enregistres.
+Tips:
++ Make sure that all of the letters join up
++ Make sure that the back of your key ring is flat and even, otherwise it will be very difficult to print
 
-Tu peux ensuite utiliser **Charger un fichier xml** pour ouvrir le projet que tu as enregistré et continuer à travailler dessus.
+Here's an example:
 
---- /collapse ---
+![screenshot](images/coder-grace.png)
 
---- collapse ---
----
-title: J'ai un compte BlocksCAD
----
+--- /task ---
 
-Si tu as un compte BlocksCAD et que tu es connecté, tu peux cliquer sur **Projet** dans la barre de menu et sélectionner **Sauver**. Cela enregistre ton projet en ligne afin que tu puisses y accéder à partir de n'importe quel ordinateur.
+--- task ---
 
---- /collapse ---
+Create a key ring where the letters line up vertically instead of horizontally.
 
+Here's an example:
 
- 
+![A vertical keyring](images/coder-vertical.png)
+
+You will need to `translate` letters along the Y axis.
+
+--- /task ---
+
+--- task ---
+
+Add a loop
+
+If there isn't anywhere to add a key ring at the beginning of your word, then you could add a smaller letter 'o' to make a loop.
+
+Here's an example:
+
+![The 'o' loop connected to a keyring](images/coder-loop.png)
+
+This time, you will need to `translate` the 'o' along the X and Y axes.
+
+Using `-1` in the X axis will move the 'o' left.
+
+--- /task ---
