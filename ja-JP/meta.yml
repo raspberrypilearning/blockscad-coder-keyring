@@ -9,22 +9,23 @@ ingredient: false
 copyedit: true
 steps:
   - 
-    title: はじめに
+    title: What you will make
   - 
     title: 3Dテキストを作る
-  - 
-    title: 文字をつなげる
     completion:
       - engaged
   - 
-    title: 厚さ (あつさ) をかえる
+    title: Change thickness
   - 
-    title: プロジェクトを保存 (ほぞん) する
-  - 
-    title: チャレンジ
-  - 
-    title: キーホルダーを3Dプリントする
-  - 
-    title: キーホルダーを組み立てる
+    title: Save your project
     completion:
       - internal
+  - 
+    title: Challenges
+    chalenge: true
+  - 
+    title: 3D print your key ring
+  - 
+    title: Assemble your key ring
+    completion:
+      - external
