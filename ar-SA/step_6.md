@@ -1,40 +1,33 @@
-## التحدي: أنشئ حلقة مفاتيح باسمك
+## 3D print your key ring
 
-الآن، أنشئ حلقة مفاتيح أو شارة على بشكل نص ثلاثي الأبعاد باسمك أو كلمة أخرى أو عبارة قصيرة.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-نصائح:
-+ تأكد من ترابط جميع الحروف مع بعضها البعض
-+ تأكد من أن الجزء الخلفي من حلقة المفاتيح مسطح ومنتظم ، وإلا فسيكون من الصعب جدا طباعته
+--- task ---
 
-إليك مثالاً:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![لقطة الشاشة](images/coder-grace.png)
+--- /task ---
 
-## التحدي: إنشاء حلقة مفاتيح بأحرف عمودية
+--- task ---
 
-قم بإنشاء حلقة مفاتيح حيث تصطف الحروف بشكل عمودي بدلاً من أفقيًا.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-إليك مثالاً:
+The one you choose will depend on the 3D printer that you are using.
 
-![لقطة الشاشة](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-هذه المرة ، ستحتاج إلى ` ترجمة ` الحروف على طول المحور ص.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## التحدي: إضافة حلقة
+--- /task ---
 
-إذا لم يكن هناك أي مكان لإضافة حلقة المفتاح في بداية كلمتك، فيمكنك إضافة حرف أصغر 'o' لعمل حلقة.
+--- task ---
 
-إليك مثالًا:
+You might need to remove some small strands of filament to tidy up the print.
 
-![لقطة الشاشة](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-هذه المرة، ستحتاج إلى ترجمة `translate` الحرف 'o' على طول المحورين السيني و الصادي.
-
---- /hint --- --- /hints ---
 
