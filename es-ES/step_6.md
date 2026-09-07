@@ -1,40 +1,33 @@
-## Desafío: crea un llavero con tu nombre
+## 3D print your key ring
 
-Ahora, crea un llavero o insignia en 3D con tu nombre u otra palabra o frase corta.
+BlocksCAD can export an `.STL` file for 3D printing.
 
-Consejos:
-+ Asegúrate de que todas las letras estén unidas
-+ Asegúrate de que la parte posterior del llavero esté plana ya que, de lo contrario, será muy difícil imprimir
+--- task ---
 
-Aquí tienes un ejemplo:
+Render your model and then click **Generate STL**. Remember where you save the STL file.
 
-![captura de pantalla](images/coder-grace.png)
+--- /task ---
 
-## Desafío: crear un llavero con letras verticales
+--- task ---
 
-Crea un llavero donde las letras se alineen verticalmente en lugar de horizontalmente.
+There are lots of tools that can read STL files and send 3D models to a printer.
 
-Aquí tienes un ejemplo:
+The one you choose will depend on the 3D printer that you are using.
 
-![captura de pantalla](images/coder-vertical.png)
+--- /task ---
 
---- hints --- --- hint ---
+--- task ---
 
-Esta vez, deberá `trasladar` letras a lo largo del eje Y.
+Carefully remove the 3D print from the print bed.
 
---- /hint --- --- /hints ---
+![The finished 3D print](images/coder-printed.png)
 
-## Desafío: añadir un círculo
+--- /task ---
 
-Si no hay ningún lugar para agarrar un llavero al comienzo de tu palabra, entonces puede agregar una letra 'o' más pequeña para hacer un círculo.
+--- task ---
 
-Aquí tienes un ejemplo:
+You might need to remove some small strands of filament to tidy up the print.
 
-![captura de pantalla](images/coder-loop.png)
+--- /task ---
 
---- hints --- --- hint ---
-
-Esta vez, deberás `trasladar` la 'o' a lo largo del eje X e Y.
-
---- /hint --- --- /hints ---
 
